@@ -10,7 +10,7 @@
   <script>
     const spec = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "The World Population in 2019",
+  "title": "World Population in 2019",
   "width": 800,
   "height": 400,
   "projection": {"type": "equalEarth"},
@@ -34,7 +34,7 @@
         "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/js/oceans.topojson",
         "format": {"type": "topojson", "feature": "oceans"}
       },
-      "mark": {"type": "geoshape", "fill": "skyblue"}
+      "mark": {"type": "geoshape"}
     },
     {
       "data": {
@@ -68,33 +68,6 @@
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
           {"field": "Population", "type": "quantitative", "format": ",.0f"}
         ]
-      }
-    },
-    {
-      "transform": [
-        {
-          "lookup": "properties.NAME",
-          "from": {
-            "data": {
-              "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/country-info.csv"
-            },
-            "key": "name",
-            "fields": ["latitude", "longitude"]
-          }
-        }
-      ],
-      "mark": {"type": "text", "fill": "yellow"},
-      "encoding": {
-        "longitude": {"field": "longitude", "type": "quantitative"},
-        "latitude": {"field": "latitude", "type": "quantitative"},
-        "text": {"field": "properties.NAME", "type": "nominal"},
-        "opacity": {
-          "condition": {
-            "test": "datum['properties.NAME'] == 'China' || datum['properties.NAME'] == 'Brazil' || datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'United States of America'",
-            "value": 1
-          },
-          "value": 0
-        }
       }
     }
   ],

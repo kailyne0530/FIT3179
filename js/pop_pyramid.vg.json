@@ -1,0 +1,100 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A population pyramid for Australia in 2022",
+    "data": { "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/population-by-age-groups.csv"}, 
+    "params": [
+      {
+        "name": "Country_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            "Albania",
+            "United States of America",
+            "Japan"
+          ],
+          "labels":[
+            "Albania",
+            "United States of America",
+            "Japan"
+          ],
+          "name": "Country: "
+        }
+      }
+    ],
+    "transform": [
+      {"filter": "datum.Year == 2022 && datum.Country == Country_selection"},
+      {"filter": "datum.Age !== 'Total'"},
+      {"calculate": "datum.Sex == 'Male' ? 'Male' : 'Female'", "as": "gender"}
+    ],
+    "spacing": 0,
+    "hconcat": [{
+      "transform": [{
+        "filter": {"field": "gender", "equal": "Female"}
+      }],
+      "title": "Female",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "Age", "axis": null, "sort": "descending"
+        },
+        "x": {
+          "aggregate": "sum", "field": "Value",
+          "title": "population",
+          "axis": {"format": "s"},
+          "sort": "descending"
+        },
+        "color": {
+          "field": "gender",
+          "scale": {"range": ["#675193", "#ca8861"]},
+          "legend": null
+        },
+        "tooltip": [
+            {"field": "Value", "type": "quantitative", "format": ",", "title": "Population:"}
+        ]
+      }
+    }, {
+      "width": 20,
+      "view": {"stroke": null},
+      "mark": {
+        "type": "text",
+        "align": "center"
+      },
+      "encoding": {
+        "y": {"field": "Age", 
+        "type": "ordinal", 
+        "axis": null, 
+        "sort": ["100","95","90","85","80","75","70","65","60","55","50", "45", "40", "35","30", "25", "20","15","10","5","0"]},
+        "text": {"field": "Age", "type": "quantitative"}
+      }
+    }, {
+      "transform": [{
+        "filter": {"field": "gender", "equal": "Male"}
+      }],
+      "title": "Male",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "Age", "title": null,
+          "axis": null, "sort": "descending"
+        },
+        "x": {
+          "aggregate": "sum", "field": "Value",
+          "title": "population",
+          "axis": {"format": "s"}
+        },
+        "color": {
+          "field": "gender",
+          "legend": null
+        },
+        "tooltip": [
+            {"field": "Value", "type": "quantitative", "format": ",", "title": "Population:"}, 
+            {"field": "Country", "type": "nominal"}
+        ]
+      }
+    }],
+    "config": {
+      "view": {"stroke": null},
+      "axis": {"grid": false}
+    }
+  }
+  

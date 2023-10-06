@@ -1,19 +1,19 @@
 Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Population Percentage,Year,Population
-1,CHN,China,Beijing,Asia,9706961,146.8933,1.0,17.88,2022,1425887337
-1,CHN,China,Beijing,Asia,9706961,146.8933,1.0,17.88,2021,1412360000
-1,CHN,China,Beijing,Asia,9706961,146.8933,1.0,17.88,2020,1424929781
-1,CHN,China,Beijing,Asia,9706961,146.8933,1.0,17.88,2019,1407745000
-1,CHN,China,Beijing,Asia,9706961,146.8933,1.0,17.88,2018,1402760000
+1,CHN,China,Beijing,Asia,9706961,146.8933,1,17.88,2022,1425887337
+1,CHN,China,Beijing,Asia,9706961,146.8933,1,17.88,2021,1412360000
+1,CHN,China,Beijing,Asia,9706961,146.8933,1,17.88,2020,1424929781
+1,CHN,China,Beijing,Asia,9706961,146.8933,1,17.88,2019,1407745000
+1,CHN,China,Beijing,Asia,9706961,146.8933,1,17.88,2018,1402760000
 2,IND,India,New Delhi,Asia,3287590,431.0675,1.0068,17.77,2022,1417173173
 2,IND,India,New Delhi,Asia,3287590,431.0675,1.0068,17.77,2021,1393409033
 2,IND,India,New Delhi,Asia,3287590,431.0675,1.0068,17.77,2020,1396387127
 2,IND,India,New Delhi,Asia,3287590,431.0675,1.0068,17.77,2019,1366417756
 2,IND,India,New Delhi,Asia,3287590,431.0675,1.0068,17.77,2018,1352642283
-3,USA,United States,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2022,338289857
-3,USA,United States,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2021,338289857
-3,USA,United States,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2020,335942003
-3,USA,United States,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2019,335942003
-3,USA,United States,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2018,335942003
+3,USA,United States of America,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2022,338289857
+3,USA,United States of America,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2021,338289857
+3,USA,United States of America,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2020,335942003
+3,USA,United States of America,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2019,335942003
+3,USA,United States of America,"Washington, D.C.",North America,9372610,36.0935,1.0038,4.24,2018,335942003
 4,IDN,Indonesia,Jakarta,Asia,1904569,144.6529,1.0064,3.45,2022,275501339
 4,IDN,Indonesia,Jakarta,Asia,1904569,144.6529,1.0064,3.45,2021,276361788
 4,IDN,Indonesia,Jakarta,Asia,1904569,144.6529,1.0064,3.45,2020,271857970
@@ -69,11 +69,11 @@ Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Popul
 14,EGY,Egypt,Cairo,Africa,1002450,110.7188,1.0158,1.39,2020,107465134
 14,EGY,Egypt,Cairo,Africa,1002450,110.7188,1.0158,1.39,2019,100388076
 14,EGY,Egypt,Cairo,Africa,1002450,110.7188,1.0158,1.39,2018,98423602
-15,COD,DR Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2022,99010212
-15,COD,DR Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2021,9099099
-15,COD,DR Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2020,92853164
-15,COD,DR Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2019,92853164
-15,COD,DR Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2018,92853164
+15,COD,Dem. Rep. Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2022,99010212
+15,COD,Dem. Rep. Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2021,9099099
+15,COD,Dem. Rep. Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2020,92853164
+15,COD,Dem. Rep. Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2019,92853164
+15,COD,Dem. Rep. Congo,Kinshasa,Africa,2344858,42.2244,1.0325,1.24,2018,92853164
 16,VNM,Vietnam,Hanoi,Asia,331212,296.4472,1.0074,1.23,2022,98186856
 16,VNM,Vietnam,Hanoi,Asia,331212,296.4472,1.0074,1.23,2021,98168829
 16,VNM,Vietnam,Hanoi,Asia,331212,296.4472,1.0074,1.23,2020,96648685
@@ -414,21 +414,21 @@ Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Popul
 83,JOR,Jordan,Amman,Asia,89342,126.3221,1.0123,0.14,2020,10928721
 83,JOR,Jordan,Amman,Asia,89342,126.3221,1.0123,0.14,2019,10101697
 83,JOR,Jordan,Amman,Asia,89342,126.3221,1.0123,0.14,2018,9965322
-84,DOM,Dominican Republic,Santo Domingo,North America,48671,230.7087,1.01,0.14,2022,11228821
-84,DOM,Dominican Republic,Santo Domingo,North America,48671,230.7087,1.01,0.14,2021,10953714
-84,DOM,Dominican Republic,Santo Domingo,North America,48671,230.7087,1.01,0.14,2020,10999664
-84,DOM,Dominican Republic,Santo Domingo,North America,48671,230.7087,1.01,0.14,2019,10738957
-84,DOM,Dominican Republic,Santo Domingo,North America,48671,230.7087,1.01,0.14,2018,10627147
+84,DOM,Dominican Rep.,Santo Domingo,North America,48671,230.7087,1.01,0.14,2022,11228821
+84,DOM,Dominican Rep.,Santo Domingo,North America,48671,230.7087,1.01,0.14,2021,10953714
+84,DOM,Dominican Rep.,Santo Domingo,North America,48671,230.7087,1.01,0.14,2020,10999664
+84,DOM,Dominican Rep.,Santo Domingo,North America,48671,230.7087,1.01,0.14,2019,10738957
+84,DOM,Dominican Rep.,Santo Domingo,North America,48671,230.7087,1.01,0.14,2018,10627147
 85,CUB,Cuba,Havana,North America,109884,102.0366,0.9961,0.14,2022,11212191
 85,CUB,Cuba,Havana,North America,109884,102.0366,0.9961,0.14,2021,11317498
 85,CUB,Cuba,Havana,North America,109884,102.0366,0.9961,0.14,2020,11300698
 85,CUB,Cuba,Havana,North America,109884,102.0366,0.9961,0.14,2019,11333484
 85,CUB,Cuba,Havana,North America,109884,102.0366,0.9961,0.14,2018,11338146
-86,SSD,South Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2022,10913164
-86,SSD,South Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2021,13423121
-86,SSD,South Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2020,10606227
-86,SSD,South Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2019,10606227
-86,SSD,South Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2018,10606227
+86,SSD,S. Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2022,10913164
+86,SSD,S. Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2021,13423121
+86,SSD,S. Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2020,10606227
+86,SSD,S. Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2019,10606227
+86,SSD,S. Sudan,Juba,Africa,619745,17.6091,1.0153,0.14,2018,10606227
 87,SWE,Sweden,Stockholm,Europe,450295,23.4276,1.0079,0.13,2022,10549347
 87,SWE,Sweden,Stockholm,Europe,450295,23.4276,1.0079,0.13,2021,10415811
 87,SWE,Sweden,Stockholm,Europe,450295,23.4276,1.0079,0.13,2020,10368969
@@ -564,11 +564,11 @@ Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Popul
 113,SGP,Singapore,Singapore,Asia,710,8416.4634,1.0058,0.07,2020,5909869
 113,SGP,Singapore,Singapore,Asia,710,8416.4634,1.0058,0.07,2019,5703569
 113,SGP,Singapore,Singapore,Asia,710,8416.4634,1.0058,0.07,2018,5638676
-114,COG,Republic of the Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2022,5970424
-114,COG,Republic of the Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2021,5785432
-114,COG,Republic of the Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2020,5702174
-114,COG,Republic of the Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2019,5702174
-114,COG,Republic of the Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2018,5702174
+114,COG,Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2022,5970424
+114,COG,Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2021,5785432
+114,COG,Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2020,5702174
+114,COG,Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2019,5702174
+114,COG,Congo,Brazzaville,Africa,342000,17.4574,1.0231,0.07,2018,5702174
 115,DNK,Denmark,Copenhagen,Europe,43094,136.4984,1.0048,0.07,2022,5882261
 115,DNK,Denmark,Copenhagen,Europe,43094,136.4984,1.0048,0.07,2021,5856733
 115,DNK,Denmark,Copenhagen,Europe,43094,136.4984,1.0048,0.07,2020,5825641
@@ -579,11 +579,11 @@ Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Popul
 116,SVK,Slovakia,Bratislava,Europe,49037,115.0856,1.0359,0.07,2020,5456681
 116,SVK,Slovakia,Bratislava,Europe,49037,115.0856,1.0359,0.07,2019,5456681
 116,SVK,Slovakia,Bratislava,Europe,49037,115.0856,1.0359,0.07,2018,5456681
-117,CAF,Central African Republic,Bangui,Africa,622984,8.9555,1.0224,0.07,2022,5579144
-117,CAF,Central African Republic,Bangui,Africa,622984,8.9555,1.0224,0.07,2021,5570000
-117,CAF,Central African Republic,Bangui,Africa,622984,8.9555,1.0224,0.07,2020,5343020
-117,CAF,Central African Republic,Bangui,Africa,622984,8.9555,1.0224,0.07,2019,5343020
-117,CAF,Central African Republic,Bangui,Africa,622984,8.9555,1.0224,0.07,2018,5343020
+117,CAF,Central African Rep.,Bangui,Africa,622984,8.9555,1.0224,0.07,2022,5579144
+117,CAF,Central African Rep.,Bangui,Africa,622984,8.9555,1.0224,0.07,2021,5570000
+117,CAF,Central African Rep.,Bangui,Africa,622984,8.9555,1.0224,0.07,2020,5343020
+117,CAF,Central African Rep.,Bangui,Africa,622984,8.9555,1.0224,0.07,2019,5343020
+117,CAF,Central African Rep.,Bangui,Africa,622984,8.9555,1.0224,0.07,2018,5343020
 118,FIN,Finland,Helsinki,Europe,338424,16.3722,1.0009,0.07,2022,5540745
 118,FIN,Finland,Helsinki,Europe,338424,16.3722,1.0009,0.07,2021,5541696
 118,FIN,Finland,Helsinki,Europe,338424,16.3722,1.0009,0.07,2020,5529468
@@ -679,11 +679,11 @@ Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Popul
 136,PRI,Puerto Rico,San Juan,North America,8870,366.675,0.9989,0.04,2020,3271564
 136,PRI,Puerto Rico,San Juan,North America,8870,366.675,0.9989,0.04,2019,3193694
 136,PRI,Puerto Rico,San Juan,North America,8870,366.675,0.9989,0.04,2018,3193354
-137,BIH,Bosnia and Herzegovina,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2022,3233526
-137,BIH,Bosnia and Herzegovina,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2021,3263459
-137,BIH,Bosnia and Herzegovina,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2020,3318407
-137,BIH,Bosnia and Herzegovina,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2019,3300998
-137,BIH,Bosnia and Herzegovina,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2018,3323929
+137,BIH,Bosnia and Herz.,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2022,3233526
+137,BIH,Bosnia and Herz.,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2021,3263459
+137,BIH,Bosnia and Herz.,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2020,3318407
+137,BIH,Bosnia and Herz.,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2019,3300998
+137,BIH,Bosnia and Herz.,Sarajevo,Europe,51209,63.1437,0.9886,0.04,2018,3323929
 138,ALB,Albania,Tirana,Europe,28748,98.8702,0.9957,0.04,2022,2842321
 138,ALB,Albania,Tirana,Europe,28748,98.8702,0.9957,0.04,2021,2811666
 138,ALB,Albania,Tirana,Europe,28748,98.8702,0.9957,0.04,2020,2866849
@@ -754,11 +754,11 @@ Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Popul
 151,LVA,Latvia,Riga,Europe,64559,28.666,0.9876,0.02,2020,1897052
 151,LVA,Latvia,Riga,Europe,64559,28.666,0.9876,0.02,2019,1913822
 151,LVA,Latvia,Riga,Europe,64559,28.666,0.9876,0.02,2018,1927174
-152,GNQ,Equatorial Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2022,1674908
-152,GNQ,Equatorial Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2021,1449891
-152,GNQ,Equatorial Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2020,1596049
-152,GNQ,Equatorial Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2019,1355982
-152,GNQ,Equatorial Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2018,1308966
+152,GNQ,Eq. Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2022,1674908
+152,GNQ,Eq. Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2021,1449891
+152,GNQ,Eq. Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2020,1596049
+152,GNQ,Eq. Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2019,1355982
+152,GNQ,Eq. Guinea,Malabo,Africa,28051,59.7094,1.0247,0.02,2018,1308966
 153,TTO,Trinidad and Tobago,Port-of-Spain,North America,5130,298.4491,1.0035,0.02,2022,1531044
 153,TTO,Trinidad and Tobago,Port-of-Spain,North America,5130,298.4491,1.0035,0.02,2021,1403374
 153,TTO,Trinidad and Tobago,Port-of-Spain,North America,5130,298.4491,1.0035,0.02,2020,1518147
@@ -789,11 +789,11 @@ Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Popul
 158,CYP,Cyprus,Nicosia,Europe,9251,135.2814,1.0059,0.02,2020,1237537
 158,CYP,Cyprus,Nicosia,Europe,9251,135.2814,1.0059,0.02,2019,1198574
 158,CYP,Cyprus,Nicosia,Europe,9251,135.2814,1.0059,0.02,2018,1189262
-159,SWZ,Eswatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2022,1201670
-159,SWZ,Eswatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2021,1172369
-159,SWZ,Eswatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2020,1180655
-159,SWZ,Eswatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2019,1148133
-159,SWZ,Eswatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2018,1136274
+159,SWZ,eSwatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2022,1201670
+159,SWZ,eSwatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2021,1172369
+159,SWZ,eSwatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2020,1180655
+159,SWZ,eSwatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2019,1148133
+159,SWZ,eSwatini,Mbabane,Africa,17364,69.2047,1.0079,0.02,2018,1136274
 160,DJI,Djibouti,Djibouti,Africa,23200,48.3125,1.0138,0.01,2022,1120849
 160,DJI,Djibouti,Djibouti,Africa,23200,48.3125,1.0138,0.01,2021,1002197
 160,DJI,Djibouti,Djibouti,Africa,23200,48.3125,1.0138,0.01,2020,1090156
@@ -854,11 +854,11 @@ Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Popul
 171,CPV,Cape Verde,Praia,Africa,4033,147.0739,1.0089,0.01,2020,582640
 171,CPV,Cape Verde,Praia,Africa,4033,147.0739,1.0089,0.01,2019,582640
 171,CPV,Cape Verde,Praia,Africa,4033,147.0739,1.0089,0.01,2018,582640
-172,ESH,Western Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2022,575986
-172,ESH,Western Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2021,567432
-172,ESH,Western Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2020,556048
-172,ESH,Western Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2019,556048
-172,ESH,Western Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2018,556048
+172,ESH,W. Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2022,575986
+172,ESH,W. Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2021,567432
+172,ESH,W. Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2020,556048
+172,ESH,W. Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2019,556048
+172,ESH,W. Sahara,El Aaiún,Africa,266000,2.1654,1.0184,0.01,2018,556048
 173,MLT,Malta,Valletta,Europe,316,1687.6139,1.0124,0.01,2022,533286
 173,MLT,Malta,Valletta,Europe,316,1687.6139,1.0124,0.01,2021,516869
 173,MLT,Malta,Valletta,Europe,316,1687.6139,1.0124,0.01,2020,515357
@@ -884,288 +884,288 @@ Rank,Country Code,Country,Capital,Continent,Area,Density,Growth Rate,World Popul
 177,BLZ,Belize,Belmopan,North America,22966,17.6466,1.0131,0.01,2020,394921
 177,BLZ,Belize,Belmopan,North America,22966,17.6466,1.0131,0.01,2019,390351
 177,BLZ,Belize,Belmopan,North America,22966,17.6466,1.0131,0.01,2018,383071
-178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0.0,2022,395752
-178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0.0,2021,390500
-178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0.0,2020,395642
-178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0.0,2019,395642
-178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0.0,2018,395642
-179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0.0,2022,372899
-179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0.0,2021,372295
-179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0.0,2020,366669
-179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0.0,2019,360563
-179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0.0,2018,352721
-180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0.0,2022,367507
-180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0.0,2021,367000
-180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0.0,2020,370391
-180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0.0,2019,370391
-180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0.0,2018,370391
-181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0.0,2022,326740
-181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0.0,2021,314464
-181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0.0,2020,311685
-181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0.0,2019,299882
-181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0.0,2018,292675
-182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0.0,2022,326101
-182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0.0,2021,321111
-182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0.0,2020,305587
-182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0.0,2019,305587
-182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0.0,2018,305587
-183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0.0,2022,306279
-183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0.0,2021,282534
-183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0.0,2020,301920
-183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0.0,2019,279285
-183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0.0,2018,277673
-184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0.0,2022,304557
-184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0.0,2021,304500
-184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0.0,2020,290969
-184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0.0,2019,290969
-184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0.0,2018,290969
-185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0.0,2022,289950
-185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0.0,2021,272620
-185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0.0,2020,286403
-185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0.0,2019,271300
-185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0.0,2018,270650
-186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0.0,2022,281635
-186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0.0,2021,287708
-186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0.0,2020,280693
-186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0.0,2019,287021
-186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0.0,2018,286640
-187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0.0,2022,227380
-187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0.0,2021,223364
-187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0.0,2020,218641
-187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0.0,2019,215048
-187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0.0,2018,211032
-188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0.0,2022,222382
-188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0.0,2021,200144
-188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0.0,2020,214929
-188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0.0,2019,197093
-188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0.0,2018,196128
-189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0.0,2022,191163
-189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0.0,2021,152369
-189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0.0,2020,189288
-189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0.0,2019,157441
-189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0.0,2018,159336
-190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0.0,2022,179857
-190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0.0,2021,179000
-190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0.0,2020,179237
-190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0.0,2019,179237
-190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0.0,2018,179237
-191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0.0,2022,171774
-191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0.0,2021,170184
-191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0.0,2020,169231
-191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0.0,2019,167295
-191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0.0,2018,165770
-192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0.0,2022,131232
-192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0.0,2021,121388
-192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0.0,2020,126463
-192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0.0,2019,117608
-192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0.0,2018,115842
-193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0.0,2022,125438
-193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0.0,2021,113015
-193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0.0,2020,123663
-193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0.0,2019,112002
-193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0.0,2018,111449
-194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0.0,2022,114164
-194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0.0,2021,115115
-194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0.0,2020,112106
-194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0.0,2019,112106
-194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0.0,2018,112106
-195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0.0,2022,110778
-195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0.0,2021,110700
-195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0.0,2020,108319
-195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0.0,2019,108319
-195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0.0,2018,108319
-196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0.0,2022,107118
-196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0.0,2021,99202
-196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0.0,2020,105530
-196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0.0,2019,97625
-196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0.0,2018,96762
-197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0.0,2022,106858
-197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0.0,2021,106759
-197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0.0,2020,105254
-197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0.0,2019,104497
-197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0.0,2018,103199
-198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0.0,2022,106445
-198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0.0,2021,107195
-198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0.0,2020,106585
-198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0.0,2019,106310
-198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0.0,2018,105846
-199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0.0,2022,103948
-199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0.0,2021,195842
-199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0.0,2020,104632
-199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0.0,2019,104632
-199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0.0,2018,104632
-200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0.0,2022,99465
-200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0.0,2021,98765
-200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0.0,2020,100442
-200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0.0,2019,100442
-200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0.0,2018,100442
-201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0.0,2022,93763
-201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0.0,2021,98728
-201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0.0,2020,92664
-201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0.0,2019,97115
-201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0.0,2018,96282
-202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0.0,2022,84519
-202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0.0,2021,85410
-202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0.0,2020,84046
-202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0.0,2019,84589
-202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0.0,2018,84073
-203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0.0,2022,79824
-203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0.0,2021,77354
-203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0.0,2020,77700
-203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0.0,2019,77146
-203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0.0,2018,77008
-204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0.0,2022,72737
-204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0.0,2021,72172
-204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0.0,2020,71995
-204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0.0,2019,71808
-204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0.0,2018,71626
-205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0.0,2022,68706
-205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0.0,2021,66498
-205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0.0,2020,67311
-205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0.0,2019,64948
-205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0.0,2018,64172
-206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1.0,0.0,2022,64184
-206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1.0,0.0,2021,63867
-206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1.0,0.0,2020,64031
-206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1.0,0.0,2019,63911
-206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1.0,0.0,2018,63918
-207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0.0,2022,63301
-207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0.0,2021,63300
-207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0.0,2020,62794
-207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0.0,2019,62794
-207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0.0,2018,62794
-208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0.0,2022,56466
-208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0.0,2021,56653
-208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0.0,2020,56026
-208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0.0,2019,56225
-208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0.0,2018,56023
-209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0.0,2022,53090
-209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0.0,2021,49053
-209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0.0,2020,52415
-209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0.0,2019,48677
-209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0.0,2018,48497
-210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0.0,2022,49551
-210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0.0,2021,57910
-210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0.0,2020,49587
-210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0.0,2019,57213
-210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0.0,2018,56889
-211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0.0,2022,47657
-211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0.0,2021,47000
-211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0.0,2020,47642
-211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0.0,2019,47642
-211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0.0,2018,47642
-212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0.0,2022,45703
-212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0.0,2021,39226
-212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0.0,2020,44276
-212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0.0,2019,38194
-212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0.0,2018,37667
-213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0.0,2022,44273
-213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0.0,2021,55103
-213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0.0,2020,46189
-213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0.0,2019,55312
-213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0.0,2018,55461
-214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0.0,2022,44175
-214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0.0,2021,42424
-214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0.0,2020,43621
-214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0.0,2019,43621
-214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0.0,2018,43621
-215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0.0,2022,41569
-215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0.0,2021,59618
-215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0.0,2020,43413
-215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0.0,2019,58791
-215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0.0,2018,58412
-216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0.0,2022,39327
-216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0.0,2021,38254
-216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0.0,2020,38756
-216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0.0,2019,38020
-216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0.0,2018,37918
-217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0.0,2022,36469
-217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0.0,2021,39520
-217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0.0,2020,36922
-217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0.0,2019,38967
-217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0.0,2018,38682
-218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0.0,2022,33660
-218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0.0,2021,34010
-218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0.0,2020,34007
-218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0.0,2019,33864
-218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0.0,2018,33784
-219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0.0,2022,32649
-219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0.0,2021,33691
-219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0.0,2020,32709
-219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0.0,2019,33706
-219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0.0,2018,33715
-220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0.0,2022,31791
-220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0.0,2021,32154
-220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0.0,2020,32552
-220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0.0,2019,32552
-220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0.0,2018,32552
-221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0.0,2022,31305
-221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0.0,2021,30423
-221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0.0,2020,30910
-221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0.0,2019,30033
-221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0.0,2018,29795
-222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0.0,2022,18055
-222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0.0,2021,18174
-222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0.0,2020,17972
-222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0.0,2019,18001
-222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0.0,2018,17911
-223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0.0,2022,17011
-223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0.0,2021,17000
-223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0.0,2020,17029
-223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0.0,2019,17029
-223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0.0,2018,17029
-224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0.0,2022,15857
-224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0.0,2021,15777
-224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0.0,2020,15585
-224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0.0,2019,15585
-224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0.0,2018,15585
-225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0.0,2022,12668
-225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0.0,2021,10873
-225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0.0,2020,12315
-225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0.0,2019,10764
-225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0.0,2018,10678
-226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0.0,2022,11572
-226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0.0,2021,11400
-226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0.0,2020,11655
-226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0.0,2019,11655
-226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0.0,2018,11655
-227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0.0,2022,11312
-227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0.0,2021,11925
-227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0.0,2020,11069
-227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0.0,2019,11655
-227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0.0,2018,11505
-228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0.0,2022,10967
-228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0.0,2021,12400
-228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0.0,2020,10681
-228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0.0,2019,10681
-228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0.0,2018,10681
-229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0.0,2022,5862
-229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0.0,2021,5402
-229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0.0,2020,5906
-229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0.0,2019,5906
-229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0.0,2018,5906
-230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0.0,2022,4390
-230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0.0,2021,4444
-230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0.0,2020,4500
-230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0.0,2019,4500
-230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0.0,2018,4500
-231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0.0,2022,3780
-231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0.0,2021,3000
-231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0.0,2020,3747
-231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0.0,2019,3747
-231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0.0,2018,3747
-232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0.0,2022,1934
-232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0.0,2021,1824
-232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0.0,2020,1942
-232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0.0,2019,1942
-232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0.0,2018,1942
-233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0.0,2022,1871
-233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0.0,2021,1784
-233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0.0,2020,1827
-233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0.0,2019,1827
-233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0.0,2018,1827
-234,VAT,Vatican City,Vatican City,Europe,1,510.0,0.998,0.0,2022,510
-234,VAT,Vatican City,Vatican City,Europe,1,510.0,0.998,0.0,2021,486
-234,VAT,Vatican City,Vatican City,Europe,1,510.0,0.998,0.0,2020,520
-234,VAT,Vatican City,Vatican City,Europe,1,510.0,0.998,0.0,2019,520
-234,VAT,Vatican City,Vatican City,Europe,1,510.0,0.998,0.0,2018,520
+178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0,2022,395752
+178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0,2021,390500
+178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0,2020,395642
+178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0,2019,395642
+178,GLP,Guadeloupe,Basse-Terre,North America,1628,243.0909,0.9992,0,2018,395642
+179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0,2022,372899
+179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0,2021,372295
+179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0,2020,366669
+179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0,2019,360563
+179,ISL,Iceland,Reykjavík,Europe,103000,3.6204,1.0069,0,2018,352721
+180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0,2022,367507
+180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0,2021,367000
+180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0,2020,370391
+180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0,2019,370391
+180,MTQ,Martinique,Fort-de-France,North America,1128,325.8041,0.9965,0,2018,370391
+181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0,2022,326740
+181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0,2021,314464
+181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0,2020,311685
+181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0,2019,299882
+181,VUT,Vanuatu,Port-Vila,Oceania,12189,26.8061,1.0238,0,2018,292675
+182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0,2022,326101
+182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0,2021,321111
+182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0,2020,305587
+182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0,2019,305587
+182,MYT,Mayotte,Mamoudzou,Africa,374,871.9278,1.0319,0,2018,305587
+183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0,2022,306279
+183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0,2021,282534
+183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0,2020,301920
+183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0,2019,279285
+183,PYF,French Polynesia,Papeete,Oceania,4167,73.5011,1.0074,0,2018,277673
+184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0,2022,304557
+184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0,2021,304500
+184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0,2020,290969
+184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0,2019,290969
+184,GUF,French Guiana,Cayenne,South America,83534,3.6459,1.0239,0,2018,290969
+185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0,2022,289950
+185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0,2021,272620
+185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0,2020,286403
+185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0,2019,271300
+185,NCL,New Caledonia,Nouméa,Oceania,18575,15.6097,1.0075,0,2018,270650
+186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0,2022,281635
+186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0,2021,287708
+186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0,2020,280693
+186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0,2019,287021
+186,BRB,Barbados,Bridgetown,North America,430,654.9651,1.0015,0,2018,286640
+187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0,2022,227380
+187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0,2021,223364
+187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0,2020,218641
+187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0,2019,215048
+187,STP,Sao Tome and Principe,São Tomé,Africa,964,235.8714,1.0192,0,2018,211032
+188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0,2022,222382
+188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0,2021,200144
+188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0,2020,214929
+188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0,2019,197093
+188,WSM,Samoa,Apia,Oceania,2842,78.2484,1.0165,0,2018,196128
+189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0,2022,191163
+189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0,2021,152369
+189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0,2020,189288
+189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0,2019,157441
+189,CUW,Curacao,Willemstad,North America,444,430.5473,1.0043,0,2018,159336
+190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0,2022,179857
+190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0,2021,179000
+190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0,2020,179237
+190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0,2019,179237
+190,LCA,Saint Lucia,Castries,North America,616,291.9756,1.0011,0,2018,179237
+191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0,2022,171774
+191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0,2021,170184
+191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0,2020,169231
+191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0,2019,167295
+191,GUM,Guam,Hagåtña,Oceania,549,312.8852,1.0073,0,2018,165770
+192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0,2022,131232
+192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0,2021,121388
+192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0,2020,126463
+192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0,2019,117608
+192,KIR,Kiribati,Tarawa,Oceania,811,161.815,1.0183,0,2018,115842
+193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0,2022,125438
+193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0,2021,113015
+193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0,2020,123663
+193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0,2019,112002
+193,GRD,Grenada,Saint George's,North America,344,364.6453,1.0066,0,2018,111449
+194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0,2022,114164
+194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0,2021,115115
+194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0,2020,112106
+194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0,2019,112106
+194,FSM,Micronesia,Palikir,Oceania,702,162.6268,1.0091,0,2018,112106
+195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0,2022,110778
+195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0,2021,110700
+195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0,2020,108319
+195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0,2019,108319
+195,JEY,Jersey,Saint Helier,Europe,116,954.9828,1.0106,0,2018,108319
+196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0,2022,107118
+196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0,2021,99202
+196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0,2020,105530
+196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0,2019,97625
+196,SYC,Seychelles,Victoria,Africa,452,236.9867,1.0061,0,2018,96762
+197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0,2022,106858
+197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0,2021,106759
+197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0,2020,105254
+197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0,2019,104497
+197,TON,Tonga,Nuku‘alofa,Oceania,747,143.0495,1.0079,0,2018,103199
+198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0,2022,106445
+198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0,2021,107195
+198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0,2020,106585
+198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0,2019,106310
+198,ABW,Aruba,Oranjestad,North America,180,591.3611,0.9991,0,2018,105846
+199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0,2022,103948
+199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0,2021,195842
+199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0,2020,104632
+199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0,2019,104632
+199,VCT,Saint Vincent and the Grenadines,Kingstown,North America,389,267.2185,0.9963,0,2018,104632
+200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0,2022,99465
+200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0,2021,98765
+200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0,2020,100442
+200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0,2019,100442
+200,VIR,United States Virgin Islands,Charlotte Amalie,North America,347,286.6427,0.9937,0,2018,100442
+201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0,2022,93763
+201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0,2021,98728
+201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0,2020,92664
+201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0,2019,97115
+201,ATG,Antigua and Barbuda,Saint John’s,North America,442,212.1335,1.0058,0,2018,96282
+202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0,2022,84519
+202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0,2021,85410
+202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0,2020,84046
+202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0,2019,84589
+202,IMN,Isle of Man,Douglas,Europe,572,147.7605,1.003,0,2018,84073
+203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0,2022,79824
+203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0,2021,77354
+203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0,2020,77700
+203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0,2019,77146
+203,AND,Andorra,Andorra la Vella,Europe,468,170.5641,1.01,0,2018,77008
+204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0,2022,72737
+204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0,2021,72172
+204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0,2020,71995
+204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0,2019,71808
+204,DMA,Dominica,Roseau,North America,751,96.8535,1.0045,0,2018,71626
+205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0,2022,68706
+205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0,2021,66498
+205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0,2020,67311
+205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0,2019,64948
+205,CYM,Cayman Islands,George Town,North America,264,260.25,1.0084,0,2018,64172
+206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1,0,2022,64184
+206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1,0,2021,63867
+206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1,0,2020,64031
+206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1,0,2019,63911
+206,BMU,Bermuda,Hamilton,North America,54,1188.5926,1,0,2018,63918
+207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0,2022,63301
+207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0,2021,63300
+207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0,2020,62794
+207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0,2019,62794
+207,GGY,Guernsey,Saint Peter Port,Europe,78,811.5513,1.0037,0,2018,62794
+208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0,2022,56466
+208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0,2021,56653
+208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0,2020,56026
+208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0,2019,56225
+208,GRL,Greenland,Nuuk,North America,2166086,0.0261,1.004,0,2018,56023
+209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0,2022,53090
+209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0,2021,49053
+209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0,2020,52415
+209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0,2019,48677
+209,FRO,Faroe Islands,Tórshavn,Europe,1393,38.112,1.0038,0,2018,48497
+210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0,2022,49551
+210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0,2021,57910
+210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0,2020,49587
+210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0,2019,57213
+210,NFK,Northern Mariana Islands,Saipan,Oceania,464,106.7909,1.0014,0,2018,56889
+211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0,2022,47657
+211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0,2021,47000
+211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0,2020,47642
+211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0,2019,47642
+211,KNA,Saint Kitts and Nevis,Basseterre,North America,261,182.5939,1.0011,0,2018,47642
+212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0,2022,45703
+212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0,2021,39226
+212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0,2020,44276
+212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0,2019,38194
+212,TCA,Turks and Caicos Islands,Cockburn Town,North America,948,48.2099,1.0131,0,2018,37667
+213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0,2022,44273
+213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0,2021,55103
+213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0,2020,46189
+213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0,2019,55312
+213,ASM,American Samoa,Pago Pago,Oceania,199,222.4774,0.9831,0,2018,55461
+214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0,2022,44175
+214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0,2021,42424
+214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0,2020,43621
+214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0,2019,43621
+214,SXM,Sint Maarten,Philipsburg,North America,34,1299.2647,1.003,0,2018,43621
+215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0,2022,41569
+215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0,2021,59618
+215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0,2020,43413
+215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0,2019,58791
+215,MHL,Marshall Islands,Majuro,Oceania,181,229.663,0.9886,0,2018,58412
+216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0,2022,39327
+216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0,2021,38254
+216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0,2020,38756
+216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0,2019,38020
+216,LIE,Liechtenstein,Vaduz,Europe,160,245.7937,1.0074,0,2018,37918
+217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0,2022,36469
+217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0,2021,39520
+217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0,2020,36922
+217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0,2019,38967
+217,MCO,Monaco,Monaco,Europe,2,18234.5,0.9941,0,2018,38682
+218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0,2022,33660
+218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0,2021,34010
+218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0,2020,34007
+218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0,2019,33864
+218,SMR,San Marino,San Marino,Europe,61,551.8033,0.9975,0,2018,33784
+219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0,2022,32649
+219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0,2021,33691
+219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0,2020,32709
+219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0,2019,33706
+219,GIB,Gibraltar,Gibraltar,Europe,6,5441.5,0.9994,0,2018,33715
+220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0,2022,31791
+220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0,2021,32154
+220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0,2020,32552
+220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0,2019,32552
+220,MAF,Saint Martin,Marigot,North America,53,599.8302,0.9951,0,2018,32552
+221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0,2022,31305
+221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0,2021,30423
+221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0,2020,30910
+221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0,2019,30033
+221,VGB,British Virgin Islands,Road Town,North America,151,207.3179,1.0059,0,2018,29795
+222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0,2022,18055
+222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0,2021,18174
+222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0,2020,17972
+222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0,2019,18001
+222,PLW,Palau,Ngerulmud,Oceania,459,39.3355,1.0017,0,2018,17911
+223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0,2022,17011
+223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0,2021,17000
+223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0,2020,17029
+223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0,2019,17029
+223,COK,Cook Islands,Avarua,Oceania,236,72.0805,1.0005,0,2018,17029
+224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0,2022,15857
+224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0,2021,15777
+224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0,2020,15585
+224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0,2019,15585
+224,AIA,Anguilla,The Valley,North America,91,174.2527,1.0066,0,2018,15585
+225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0,2022,12668
+225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0,2021,10873
+225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0,2020,12315
+225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0,2019,10764
+225,NRU,Nauru,Yaren,Oceania,21,603.2381,1.0125,0,2018,10678
+226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0,2022,11572
+226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0,2021,11400
+226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0,2020,11655
+226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0,2019,11655
+226,WLF,Wallis and Futuna,Mata-Utu,Oceania,142,81.493,0.9953,0,2018,11655
+227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0,2022,11312
+227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0,2021,11925
+227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0,2020,11069
+227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0,2019,11655
+227,TUV,Tuvalu,Funafuti,Oceania,26,435.0769,1.0096,0,2018,11505
+228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0,2022,10967
+228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0,2021,12400
+228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0,2020,10681
+228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0,2019,10681
+228,BLM,Saint Barthelemy,Gustavia,North America,21,522.2381,1.0098,0,2018,10681
+229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0,2022,5862
+229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0,2021,5402
+229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0,2020,5906
+229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0,2019,5906
+229,SPM,Saint Pierre and Miquelon,Saint-Pierre,North America,242,24.2231,0.9964,0,2018,5906
+230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0,2022,4390
+230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0,2021,4444
+230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0,2020,4500
+230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0,2019,4500
+230,MSR,Montserrat,Brades,North America,102,43.0392,0.9939,0,2018,4500
+231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0,2022,3780
+231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0,2021,3000
+231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0,2020,3747
+231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0,2019,3747
+231,FLK,Falkland Islands,Stanley,South America,12173,0.3105,1.0043,0,2018,3747
+232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0,2022,1934
+232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0,2021,1824
+232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0,2020,1942
+232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0,2019,1942
+232,NIU,Niue,Alofi,Oceania,260,7.4385,0.9985,0,2018,1942
+233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0,2022,1871
+233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0,2021,1784
+233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0,2020,1827
+233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0,2019,1827
+233,TKL,Tokelau,Nukunonu,Oceania,12,155.9167,1.0119,0,2018,1827
+234,VAT,Vatican City,Vatican City,Europe,1,510,0.998,0,2022,510
+234,VAT,Vatican City,Vatican City,Europe,1,510,0.998,0,2021,486
+234,VAT,Vatican City,Vatican City,Europe,1,510,0.998,0,2020,520
+234,VAT,Vatican City,Vatican City,Europe,1,510,0.998,0,2019,520
+234,VAT,Vatican City,Vatican City,Europe,1,510,0.998,0,2018,520

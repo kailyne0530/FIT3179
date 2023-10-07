@@ -56,8 +56,8 @@
         "tooltip": [
           {"field": "Country Name", "type": "nominal"},
           {"field": "Country Code", "type": "nominal"},
-          {"field": "Birth Rate", "type": "quantitative"},
-          {"field": "Death Rate", "type": "quantitative"}
+          {"field": "Birth Rate", "type": "quantitative", "format": ".3"},
+          {"field": "Death Rate", "type": "quantitative", "format": ".3"}
         ]       
       }
     }

@@ -18,11 +18,18 @@
     <div id = "map">
 
     </div>
+    <div id = "scattered_plot">
+
+    </div>
 
     <script type="text/javascript">
-      var vg_1 = "js/choropleth_map.vg.json";
+        var vg_1 = "js/choropleth_map.vg.json";
         vegaEmbed("#map", vg_1).then(function(result) {
         }).catch(console.error);
+        var vg_2 = "js/scattered_plot.vg.json";
+        vegaEmbed("#scattered_plot", vg_2).then(function(result) {
+        }).catch(console.error);
+
     </script>
 </body>
 

@@ -1,0 +1,65 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "An interactive scatter plot of global health statistics by country and year.",
+  "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/birth-death-life-expectancy.csv"},
+  "width": 800,
+  "height": 500,
+  "params": [
+    {
+    "name": "Year_selection",
+    "value": 2019,
+    "bind": {
+      "input": "range", 
+      "min": 2010, 
+      "max": 2019, 
+      "step": 1,
+      "name": "Year"
+      }
+    }
+  ],  
+  "layer": [
+    {
+      "transform": [
+        {"filter": {"field": "Country Name", "equal": "Afghanistan"}},
+        {"filter": "datum.Year == Year_selection"}
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 100,
+        "x": 420,
+        "y": 250,
+        "opacity": 0.06
+      },
+      "encoding": {"text": {"field": "Year", "type": "ordinal"}}
+    },    
+    {
+      "transform": [
+        {"filter": "datum.Year == Year_selection"}
+      ],
+      "mark": {
+        "type": "point",
+        "opacity": 0.9
+      },
+      "encoding": {
+        "x": {
+          "field": "Death Rate",
+          "type": "quantitative",
+          "scale": {"domain": [0, 20]},
+          "axis": {"tickCount": 10}
+        },
+        "y": {
+          "field": "Birth Rate",
+          "type": "quantitative",
+          "scale": {"domain": [0, 50]}
+        },
+        "color": {"field": "Continent", "type": "nominal"},
+        "tooltip": [
+          {"field": "Country Name", "type": "nominal"},
+          {"field": "Country Code", "type": "nominal"},
+          {"field": "Birth Rate", "type": "quantitative"},
+          {"field": "Death Rate", "type": "quantitative"}
+        ]       
+      }
+    }
+  ]
+}

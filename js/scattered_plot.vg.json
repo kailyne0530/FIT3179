@@ -3,7 +3,7 @@
   "description": "An interactive scatter plot of global health statistics by country and year.",
   "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/birth-death-life-expectancy.csv"},
   "width": 800,
-  "height": 500,
+  "height": 500, 
   "params": [
     {
     "name": "Year_selection",
@@ -36,6 +36,16 @@
       "transform": [
         {"filter": "datum.Year == Year_selection"}
       ],
+      "params": [
+        {
+          "name": "Continent_highlight",
+          "select": {
+            "type": "point",
+            "fields": ["Continent"]
+          },
+          "bind": "legend"
+        }
+      ],
       "mark": {
         "type": "point",
         "opacity": 0.9
@@ -53,12 +63,13 @@
           "scale": {"domain": [0, 50]}
         },
         "color": {"field": "Continent", "type": "nominal"},
-        "tooltip": [
-          {"field": "Country Name", "type": "nominal"},
-          {"field": "Country Code", "type": "nominal"},
-          {"field": "Birth Rate", "type": "quantitative", "format": ".3"},
-          {"field": "Death Rate", "type": "quantitative", "format": ".3"}
-        ]       
+        "opacity": {
+          "condition": {
+            "param": "Continent_highlight",
+            "value": 0.6
+          },
+          "value": 0.2
+        }          
       }
     }
   ]

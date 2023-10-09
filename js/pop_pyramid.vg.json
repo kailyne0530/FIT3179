@@ -1,100 +1,127 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "A population pyramid for Australia in 2022",
-    "data": { "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/population-by-age-groups.csv"}, 
-    "params": [
-      {
-        "name": "Country_selection",
-        "bind": {
-          "input": "select",
-          "options": [
-            "Albania",
-            "United States of America",
-            "Japan"
-          ],
-          "labels":[
-            "Albania",
-            "United States of America",
-            "Japan"
-          ],
-          "name": "Country: "
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": { "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/population-by-age-groups.csv"}, 
+  "params": [
+    {
+      "name": "Country_selection",
+      "value": "World",
+      "bind": {
+        "input": "select",
+        "options": [
+          "World",
+          "China",
+          "India",
+          "United States of America",
+          "Indonesia",
+          "Pakistan"
+        ],
+        "labels":[
+          "World",
+          "China",
+          "India",
+          "United States of America",
+          "Indonesia",
+          "Pakistan"
+        ],
+        "name": "Country: "
       }
-    ],
-    "transform": [
-      {"filter": "datum.Year == 2022 && datum.Country == Country_selection"},
-      {"filter": "datum.Age !== 'Total'"},
-      {"calculate": "datum.Sex == 'Male' ? 'Male' : 'Female'", "as": "gender"}
-    ],
-    "spacing": 0,
-    "hconcat": [{
-      "transform": [{
-        "filter": {"field": "gender", "equal": "Female"}
-      }],
-      "title": "Female",
-      "mark": "bar",
-      "encoding": {
-        "y": {
-          "field": "Age", "axis": null, "sort": "descending"
-        },
-        "x": {
-          "aggregate": "sum", "field": "Value",
-          "title": "population",
-          "axis": {"format": "s"},
-          "sort": "descending"
-        },
-        "color": {
-          "field": "gender",
-          "scale": {"range": ["#675193", "#ca8861"]},
-          "legend": null
-        },
-        "tooltip": [
-            {"field": "Value", "type": "quantitative", "format": ",", "title": "Population:"}
-        ]
+    },
+    {
+    "name": "Year_selection",
+    "value": 2022,
+    "bind": {
+      "input": "range", 
+      "min": 2018, 
+      "max": 2022, 
+      "step": 1,
+      "name": "Year"
       }
-    }, {
-      "width": 20,
-      "view": {"stroke": null},
-      "mark": {
-        "type": "text",
-        "align": "center"
-      },
-      "encoding": {
-        "y": {"field": "Age", 
-        "type": "ordinal", 
-        "axis": null, 
-        "sort": ["100","95","90","85","80","75","70","65","60","55","50", "45", "40", "35","30", "25", "20","15","10","5","0"]},
-        "text": {"field": "Age", "type": "quantitative"}
-      }
-    }, {
-      "transform": [{
-        "filter": {"field": "gender", "equal": "Male"}
-      }],
-      "title": "Male",
-      "mark": "bar",
-      "encoding": {
-        "y": {
-          "field": "Age", "title": null,
-          "axis": null, "sort": "descending"
-        },
-        "x": {
-          "aggregate": "sum", "field": "Value",
-          "title": "population",
-          "axis": {"format": "s"}
-        },
-        "color": {
-          "field": "gender",
-          "legend": null
-        },
-        "tooltip": [
-            {"field": "Value", "type": "quantitative", "format": ",", "title": "Population:"}, 
-            {"field": "Country", "type": "nominal"}
-        ]
-      }
-    }],
-    "config": {
-      "view": {"stroke": null},
-      "axis": {"grid": false}
     }
+  ],
+  "transform": [
+    {"filter": "datum.Year == Year_selection && (datum.Country == Country_selection)"},
+    {"calculate": "datum.Sex == 'Male' ? 'Male' : 'Female'", "as": "Gender"}
+  ],
+  "spacing": 0,
+  "hconcat": [{
+    "transform": [{
+      "filter": {"field": "Gender", "equal": "Female"}
+    }],
+    "title": "Female",
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Age", "axis": null, "sort": [
+        "100+", "95-99", "90-94", "85-89", "80-84", "75-79", "70-74", "65-69", "60-64", "55-59", "50-54", "45-49", "40-44", "35-39", "30-34", "25-29", "20-24", "15-19", "10-14", "5-9", "0-4"
+        ]
+      },
+      "x": {
+        "aggregate": "sum", "field": "Population",
+        "title": "Population",
+        "axis": {"format": "s"},
+        "sort": "descending"
+      },
+      "color": {
+        "field": "Gender",
+        "scale": {"range": ["#675193", "#ca8861"]},
+        "legend": null
+      },
+      "tooltip": [
+        {"field": "Country", "type": "nominal"},
+        {"field": "Gender"},
+        {"field": "Age"},
+        {"field": "Population", "type": "quantitative", "format": ",", "title": "Population:"}
+      ]
+    }
+  }, {
+    "width": 40,
+    "view": {"stroke": null},
+    "mark": {
+      "type": "text",
+      "align": "center"
+    },
+    "encoding": {
+      "y": {"field": "Age", 
+      "type": "ordinal", 
+      "axis": null, 
+      "sort": [
+        "100+", "95-99", "90-94", "85-89", "80-84", "75-79", "70-74", "65-69", "60-64", "55-59", "50-54", "45-49", "40-44", "35-39", "30-34", "25-29", "20-24", "15-19", "10-14", "5-9", "0-4"
+        ]
+      },
+      "text": {"field": "Age", "type": "ordinal"}
+    }
+  }, {
+    "transform": [{
+      "filter": {"field": "Gender", "equal": "Male"}
+    }],
+    "title": "Male",
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Age", "title": null,
+        "axis": null, "sort": [
+        "100+", "95-99", "90-94", "85-89", "80-84", "75-79", "70-74", "65-69", "60-64", "55-59", "50-54", "45-49", "40-44", "35-39", "30-34", "25-29", "20-24", "15-19", "10-14", "5-9", "0-4"
+        ]
+      },
+      "x": {
+        "aggregate": "sum", "field": "Population",
+        "title": "Population",
+        "axis": {"format": "s"}
+      },
+      "color": {
+        "field": "Gender",
+        "legend": null
+      },
+      "tooltip": [
+        {"field": "Country", "type": "nominal"},
+        {"field": "Gender"},
+        {"field": "Age"},
+        {"field": "Population", "type": "quantitative", "format": ",", "title": "Population"}
+      ]
+    }
+  }],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
   }
-  
+}

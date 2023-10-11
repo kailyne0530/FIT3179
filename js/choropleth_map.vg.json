@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "World Population",
-  "width": 800,
+  "width": 1000,
   "height": 400,
   "projection": {"type": "equalEarth"},
   "params": [
@@ -52,18 +51,19 @@
               150
             ],
             "range": ["lightyellow", "darkred"]
-          }
+          },
+          "legend": {"orient": "bottom-right"}
         }, 
         "tooltip": [
-          {"field": "Country", "type": "nominal", "title":"Country Name:"},
-          {"field": "Country Code", "type": "nominal", "title": "Country Code:"},
+          {"field": "Country", "type": "nominal", "title":"Country Name"},
+          {"field": "Country Code", "type": "nominal", "title": "Country Code"},
           {
-            "field": "Population", "type": "quantitative", "title": "Population:", "format": ","
+            "field": "Population", "type": "quantitative", "title": "Population", "format": ","
           },
           {
-            "field": "Area", "type": "quantitative", "title": "Area (sq. mi.):", "format": ","
+            "field": "Area", "type": "quantitative", "title": "Area (sq. mi.)", "format": ","
           },
-          {"field": "Population per Area Size", "type": "quantitative", "title": "Population per Area Size:", "format":".1"}
+          {"field": "Population per Area Size", "type": "quantitative", "title": "Population per Area Size", "format":".1"}
         ]
       }
     },

@@ -1,69 +1,68 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "A ranged dot plot that uses 'layer' to convey changing life expectancy for the five most populous countries (between 1960 and 2020).",
-    "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/life-expectancy-by-country.csv"},
-    "transform": [
-      {
-        "filter": {
-          "field": "Country Name",
-          "oneOf": ["China", "India", "United States", "Indonesia", "Brazil"]
-        }
-      },
-      {
-        "filter": {
-          "field": "Year",
-          "oneOf": [1960, 2020]
-        }
-      }
-    ],
-    "encoding": {
-      "x": {
-        "field": "Value",
-        "type": "quantitative",
-        "title": "Life Expectancy (years)"
-      },
-      "y": {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/life-expectancy.csv"},
+  "transform": [
+    {
+      "filter": {
         "field": "Country Name",
-        "type": "nominal",
-        "title": "Country",
-        "axis": {
-          "offset": 5,
-          "ticks": false,
-          "minExtent": 70,
-          "domain": false
-        }
+        "oneOf": ["China", "India", "United States of America", "Indonesia", "Japan", "Malaysia", "Australia", "United Kingdom", "Phillipines", "South Africa"]
       }
     },
-    "layer": [
-      {
-        "mark": "line",
-        "encoding": {
-          "detail": {
-            "field": "Country Name",
-            "type": "nominal"
-          },
-          "color": {"value": "#db646f"}
-        }
-      },
-      {
-        "mark": {
-          "type": "point",
-          "filled": true
-        },
-        "encoding": {
-          "color": {
-            "field": "Year",
-            "type": "ordinal",
-            "scale": {
-              "domain": [1960, 2020],
-              "range": ["#e6959c", "#911a24"]
-            },
-            "title": "Year"
-          },
-          "size": {"value": 100},
-          "opacity": {"value": 1}
-        }
+    {
+      "filter": {
+        "field": "Year",
+        "oneOf": [1950, 2022]
       }
-    ]
-  }
-  
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "Age"
+    },
+    "y": {
+      "field": "Country Name",
+      "type": "nominal",
+      "title": null,
+      "axis": {
+        "offset": 5,
+        "ticks": false,
+        "minExtent": 70,
+        "domain": false
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": "line",
+      "encoding": {
+        "detail": {
+          "field": "Country Name",
+          "type": "nominal"
+        },
+        "color": {"value": "#db646f"}
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true
+      },
+      "encoding": {
+        "color": {
+          "field": "Year",
+          "type": "ordinal",
+          "scale": {
+            "domain": [1950, 2022],
+            "range": ["#e6959c", "#911a24"]
+          },
+          "title": "Year"
+        },
+        "size": {"value": 100},
+        "opacity": {"value": 1}
+      }
+    }
+  ]
+}

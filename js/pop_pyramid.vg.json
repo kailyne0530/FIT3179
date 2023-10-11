@@ -1,5 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": "container",
   "data": { "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/population-by-age-groups.csv"}, 
   "params": [
     {
@@ -57,7 +59,7 @@
       },
       "x": {
         "aggregate": "sum", "field": "Population",
-        "title": "Population",
+        "title": null,
         "axis": {"format": "s"},
         "sort": "descending"
       },
@@ -105,7 +107,7 @@
       },
       "x": {
         "aggregate": "sum", "field": "Population",
-        "title": "Population",
+        "title": null,
         "axis": {"format": "s"}
       },
       "color": {

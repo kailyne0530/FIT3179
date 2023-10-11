@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "An interactive scatter plot of global health statistics by country and year.",
   "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/birth-death.csv"},
-  "width": 800,
-  "height": 500, 
+  "width": 1000,
+  "height": 400, 
   "params": [
     {
     "name": "Year_selection",
@@ -25,9 +25,9 @@
       ],
       "mark": {
         "type": "text",
-        "fontSize": 100,
-        "x": 420,
-        "y": 250,
+        "fontSize": 110,
+        "x": 500,
+        "y": 200,
         "opacity": 0.06
       },
       "encoding": {"text": {"field": "Year", "type": "ordinal"}}
@@ -95,14 +95,16 @@
               "x": {
                 "field": "Death Rate",
                 "type": "quantitative",
-                "scale": {"domain": [0, 30]},
-                "axis": {"tickCount": 5}
+                "scale": {"domain": [0, 25]},
+                "axis": {"tickCount": 5}, 
+                "title": "Death Rate (per 1000 populations)"
               },
               "y": {
                 "field": "Birth Rate",
                 "type": "quantitative",
                 "scale": {"domain": [0, 50]},
-                "axis": {"tickCount": 5}
+                "axis": {"tickCount": 5}, 
+                "title": "Birth Rate (per 1000 populations)"
               },
               "color": {
                 "field": "Continent", 
@@ -110,6 +112,9 @@
                 "scale": {
                   "domain": ["Africa", "Asia", "Europe", "North America", "Oceania", "South America"],
                   "range": ["#A7C7E7", "#C1E1C1", "#FAC898", "#F8C8DC", "#C3B1E1", "#FFE5B4"]
+                },
+                "legend": {
+                  "orient": "top-right"
                 }
               },
               "opacity": {

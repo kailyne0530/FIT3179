@@ -104,7 +104,14 @@
                 "scale": {"domain": [0, 50]},
                 "axis": {"tickCount": 5}
               },
-              "color": {"field": "Continent", "type": "nominal"},
+              "color": {
+                "field": "Continent", 
+                "type": "nominal",
+                "scale": {
+                  "domain": ["Africa", "Asia", "Europe", "North America", "Oceania", "South America"],
+                  "range": ["#A7C7E7", "#C1E1C1", "#FAC898", "#F8C8DC", "#C3B1E1", "#FFE5B4"]
+                }
+              },
               "opacity": {
                 "condition": {
                   "test": {"or": [

@@ -1,0 +1,731 @@
+Country Name,Year,Value
+South Africa,1950,43.471
+South Africa,1951,44.176
+South Africa,1952,45.061
+South Africa,1953,46.006
+South Africa,1954,47.121
+South Africa,1955,48.296
+South Africa,1956,49.347
+South Africa,1957,50.406
+South Africa,1958,51.271
+South Africa,1959,52.075
+South Africa,1960,52.669
+South Africa,1961,53.085
+South Africa,1962,53.376
+South Africa,1963,53.633
+South Africa,1964,53.906
+South Africa,1965,54.192
+South Africa,1966,54.391
+South Africa,1967,54.626
+South Africa,1968,54.876
+South Africa,1969,55.194
+South Africa,1970,55.579
+South Africa,1971,55.955
+South Africa,1972,56.272
+South Africa,1973,56.722
+South Africa,1974,57.117
+South Africa,1975,57.512
+South Africa,1976,58.006
+South Africa,1977,58.492
+South Africa,1978,58.979
+South Africa,1979,59.395
+South Africa,1980,59.813
+South Africa,1981,60.364
+South Africa,1982,60.933
+South Africa,1983,61.465
+South Africa,1984,61.907
+South Africa,1985,62.38
+South Africa,1986,62.912
+South Africa,1987,63.041
+South Africa,1988,63.345
+South Africa,1989,63.31
+South Africa,1990,63.375
+South Africa,1991,63.265
+South Africa,1992,63.341
+South Africa,1993,63.045
+South Africa,1994,62.612
+South Africa,1995,62.262
+South Africa,1996,61.459
+South Africa,1997,60.805
+South Africa,1998,60.001
+South Africa,1999,59.241
+South Africa,2000,58.47
+South Africa,2001,57.261
+South Africa,2002,55.666
+South Africa,2003,54.331
+South Africa,2004,54.043
+South Africa,2005,53.98
+South Africa,2006,54.278
+South Africa,2007,54.992
+South Africa,2008,56.022
+South Africa,2009,57.447
+South Africa,2010,58.899
+South Africa,2011,60.651
+South Africa,2012,61.846
+South Africa,2013,62.533
+South Africa,2014,63.38
+South Africa,2015,63.95
+South Africa,2016,64.747
+South Africa,2017,65.402
+South Africa,2018,65.674
+South Africa,2019,66.175
+South Africa,2020,65.252
+South Africa,2021,62.341
+China,1950,43.738
+China,1951,44.574
+China,1952,45.414
+China,1953,46.03
+China,1954,46.754
+China,1955,47.165
+China,1956,47.727
+China,1957,48.261
+China,1958,48.768
+China,1959,39.696
+China,1960,33.275
+China,1961,40.468
+China,1962,50.818
+China,1963,51.408
+China,1964,52.156
+China,1965,52.912
+China,1966,53.637
+China,1967,54.351
+China,1968,55.057
+China,1969,55.738
+China,1970,56.607
+China,1971,57.565
+China,1972,58.418
+China,1973,59.389
+China,1974,60.168
+China,1975,60.917
+China,1976,61.796
+China,1977,62.538
+China,1978,63.218
+China,1979,63.865
+China,1980,64.42
+China,1981,64.975
+China,1982,65.463
+China,1983,65.904
+China,1984,66.3
+China,1985,66.643
+China,1986,66.97
+China,1987,67.288
+China,1988,67.581
+China,1989,67.838
+China,1990,68.005
+China,1991,68.169
+China,1992,68.734
+China,1993,69.216
+China,1994,69.52
+China,1995,70.008
+China,1996,70.266
+China,1997,70.672
+China,1998,71.172
+China,1999,71.419
+China,2000,71.881
+China,2001,72.606
+China,2002,72.985
+China,2003,73.371
+China,2004,73.748
+China,2005,74.111
+China,2006,74.504
+China,2007,74.762
+China,2008,74.872
+China,2009,75.343
+China,2010,75.599
+China,2011,75.903
+China,2012,76.192
+China,2013,76.452
+China,2014,76.717
+China,2015,76.977
+China,2016,77.218
+China,2017,77.248
+China,2018,77.744
+China,2019,77.968
+China,2020,78.077
+China,2021,78.211
+Japan,1950,59.232
+Japan,1951,60.967
+Japan,1952,62.974
+Japan,1953,63.303
+Japan,1954,64.511
+Japan,1955,65.686
+Japan,1956,65.534
+Japan,1957,65.413
+Japan,1958,67.016
+Japan,1959,67.429
+Japan,1960,67.69
+Japan,1961,68.342
+Japan,1962,68.638
+Japan,1963,69.717
+Japan,1964,70.169
+Japan,1965,70.231
+Japan,1966,71.029
+Japan,1967,71.378
+Japan,1968,71.649
+Japan,1969,71.901
+Japan,1970,71.987
+Japan,1971,72.808
+Japan,1972,73.241
+Japan,1973,73.406
+Japan,1974,73.834
+Japan,1975,74.342
+Japan,1976,74.746
+Japan,1977,75.311
+Japan,1978,75.642
+Japan,1979,76.153
+Japan,1980,76.126
+Japan,1981,76.549
+Japan,1982,77.059
+Japan,1983,77.096
+Japan,1984,77.496
+Japan,1985,77.79
+Japan,1986,78.204
+Japan,1987,78.622
+Japan,1988,78.537
+Japan,1989,78.971
+Japan,1990,78.984
+Japan,1991,79.252
+Japan,1992,79.292
+Japan,1993,79.434
+Japan,1994,79.824
+Japan,1995,79.67
+Japan,1996,80.349
+Japan,1997,80.572
+Japan,1998,80.64
+Japan,1999,80.608
+Japan,2000,81.176
+Japan,2001,81.509
+Japan,2002,81.795
+Japan,2003,81.856
+Japan,2004,82.131
+Japan,2005,82.012
+Japan,2006,82.376
+Japan,2007,82.554
+Japan,2008,82.638
+Japan,2009,82.974
+Japan,2010,82.919
+Japan,2011,82.676
+Japan,2012,83.175
+Japan,2013,83.411
+Japan,2014,83.653
+Japan,2015,83.893
+Japan,2016,84.066
+Japan,2017,84.198
+Japan,2018,84.297
+Japan,2019,84.426
+Japan,2020,84.688
+Japan,2021,84.784
+India,1950,41.723
+India,1951,41.744
+India,1952,42.038
+India,1953,42.205
+India,1954,42.953
+India,1955,43.388
+India,1956,43.762
+India,1957,44.057
+India,1958,44.423
+India,1959,44.889
+India,1960,45.218
+India,1961,45.398
+India,1962,45.659
+India,1963,45.936
+India,1964,46.184
+India,1965,44.98
+India,1966,45.333
+India,1967,45.674
+India,1968,47.471
+India,1969,47.857
+India,1970,48.241
+India,1971,48.632
+India,1972,49.025
+India,1973,49.539
+India,1974,50.244
+India,1975,50.812
+India,1976,51.388
+India,1977,51.909
+India,1978,52.492
+India,1979,53.06
+India,1980,53.611
+India,1981,54.175
+India,1982,54.732
+India,1983,55.281
+India,1984,55.816
+India,1985,56.334
+India,1986,56.835
+India,1987,57.315
+India,1988,57.777
+India,1989,58.233
+India,1990,58.652
+India,1991,59.055
+India,1992,59.452
+India,1993,59.815
+India,1994,60.216
+India,1995,60.596
+India,1996,60.984
+India,1997,61.388
+India,1998,61.792
+India,1999,62.207
+India,2000,62.669
+India,2001,63.091
+India,2002,63.616
+India,2003,64.094
+India,2004,64.524
+India,2005,64.996
+India,2006,65.412
+India,2007,65.788
+India,2008,66.149
+India,2009,66.513
+India,2010,66.909
+India,2011,67.359
+India,2012,67.887
+India,2013,68.46
+India,2014,69.074
+India,2015,69.636
+India,2016,70.117
+India,2017,70.467
+India,2018,70.71
+India,2019,70.91
+India,2020,70.15
+India,2021,67.24
+Indonesia,1950,39.404
+Indonesia,1951,39.785
+Indonesia,1952,40.691
+Indonesia,1953,41.415
+Indonesia,1954,42.188
+Indonesia,1955,42.921
+Indonesia,1956,43.796
+Indonesia,1957,44.499
+Indonesia,1958,45.046
+Indonesia,1959,45.858
+Indonesia,1960,46.452
+Indonesia,1961,47.117
+Indonesia,1962,47.871
+Indonesia,1963,48.429
+Indonesia,1964,49.232
+Indonesia,1965,42.599
+Indonesia,1966,48.2
+Indonesia,1967,51.066
+Indonesia,1968,51.63
+Indonesia,1969,52.354
+Indonesia,1970,52.992
+Indonesia,1971,53.576
+Indonesia,1972,54.242
+Indonesia,1973,54.85
+Indonesia,1974,55.429
+Indonesia,1975,55.968
+Indonesia,1976,56.514
+Indonesia,1977,57.081
+Indonesia,1978,57.565
+Indonesia,1979,58.153
+Indonesia,1980,58.754
+Indonesia,1981,59.138
+Indonesia,1982,59.757
+Indonesia,1983,60.273
+Indonesia,1984,60.728
+Indonesia,1985,61.307
+Indonesia,1986,61.722
+Indonesia,1987,61.973
+Indonesia,1988,62.211
+Indonesia,1989,62.696
+Indonesia,1990,63.181
+Indonesia,1991,63.537
+Indonesia,1992,64.126
+Indonesia,1993,64.598
+Indonesia,1994,64.856
+Indonesia,1995,65.237
+Indonesia,1996,65.355
+Indonesia,1997,65.733
+Indonesia,1998,65.962
+Indonesia,1999,66.221
+Indonesia,2000,66.433
+Indonesia,2001,66.758
+Indonesia,2002,67.134
+Indonesia,2003,67.413
+Indonesia,2004,65.75
+Indonesia,2005,67.649
+Indonesia,2006,67.914
+Indonesia,2007,68.189
+Indonesia,2008,68.226
+Indonesia,2009,68.494
+Indonesia,2010,68.679
+Indonesia,2011,68.823
+Indonesia,2012,68.973
+Indonesia,2013,69.264
+Indonesia,2014,69.533
+Indonesia,2015,69.699
+Indonesia,2016,69.798
+Indonesia,2017,69.936
+Indonesia,2018,70.338
+Indonesia,2019,70.518
+Indonesia,2020,68.808
+Indonesia,2021,67.57
+Malaysia,1950,46.998
+Malaysia,1951,47.848
+Malaysia,1952,48.885
+Malaysia,1953,49.949
+Malaysia,1954,50.852
+Malaysia,1955,51.819
+Malaysia,1956,52.691
+Malaysia,1957,53.611
+Malaysia,1958,54.56
+Malaysia,1959,55.59
+Malaysia,1960,56.502
+Malaysia,1961,57.434
+Malaysia,1962,58.404
+Malaysia,1963,59.26
+Malaysia,1964,60.063
+Malaysia,1965,60.95
+Malaysia,1966,61.375
+Malaysia,1967,61.797
+Malaysia,1968,62.194
+Malaysia,1969,62.644
+Malaysia,1970,63.111
+Malaysia,1971,63.584
+Malaysia,1972,64.083
+Malaysia,1973,64.62
+Malaysia,1974,65.209
+Malaysia,1975,65.712
+Malaysia,1976,66.277
+Malaysia,1977,66.811
+Malaysia,1978,67.285
+Malaysia,1979,67.762
+Malaysia,1980,68.245
+Malaysia,1981,68.852
+Malaysia,1982,69.24
+Malaysia,1983,69.567
+Malaysia,1984,69.937
+Malaysia,1985,70.318
+Malaysia,1986,70.458
+Malaysia,1987,70.666
+Malaysia,1988,70.896
+Malaysia,1989,71.117
+Malaysia,1990,71.307
+Malaysia,1991,71.442
+Malaysia,1992,71.526
+Malaysia,1993,71.826
+Malaysia,1994,72.163
+Malaysia,1995,72.384
+Malaysia,1996,72.327
+Malaysia,1997,72.284
+Malaysia,1998,72.168
+Malaysia,1999,72.283
+Malaysia,2000,72.775
+Malaysia,2001,73.344
+Malaysia,2002,73.563
+Malaysia,2003,73.796
+Malaysia,2004,73.898
+Malaysia,2005,74.096
+Malaysia,2006,74.164
+Malaysia,2007,74.211
+Malaysia,2008,74.25
+Malaysia,2009,74.227
+Malaysia,2010,74.442
+Malaysia,2011,74.746
+Malaysia,2012,74.944
+Malaysia,2013,75.035
+Malaysia,2014,75.146
+Malaysia,2015,75.094
+Malaysia,2016,75.289
+Malaysia,2017,75.476
+Malaysia,2018,75.644
+Malaysia,2019,75.76
+Malaysia,2020,75.938
+Malaysia,2021,74.884
+Philippines,1950,53.362
+Philippines,1951,53.585
+Philippines,1952,54.302
+Philippines,1953,55.047
+Philippines,1954,55.69
+Philippines,1955,56.398
+Philippines,1956,57.074
+Philippines,1957,57.702
+Philippines,1958,58.263
+Philippines,1959,58.783
+Philippines,1960,59.227
+Philippines,1961,59.619
+Philippines,1962,59.959
+Philippines,1963,60.388
+Philippines,1964,60.541
+Philippines,1965,60.898
+Philippines,1966,61.198
+Philippines,1967,61.447
+Philippines,1968,61.65
+Philippines,1969,61.798
+Philippines,1970,61.692
+Philippines,1971,61.988
+Philippines,1972,61.831
+Philippines,1973,61.641
+Philippines,1974,61.68
+Philippines,1975,61.704
+Philippines,1976,61.614
+Philippines,1977,62.149
+Philippines,1978,62.185
+Philippines,1979,62.349
+Philippines,1980,62.499
+Philippines,1981,62.555
+Philippines,1982,62.784
+Philippines,1983,62.992
+Philippines,1984,63.112
+Philippines,1985,63.505
+Philippines,1986,63.745
+Philippines,1987,64.335
+Philippines,1988,64.898
+Philippines,1989,65.464
+Philippines,1990,65.909
+Philippines,1991,66.304
+Philippines,1992,67.088
+Philippines,1993,67.542
+Philippines,1994,67.942
+Philippines,1995,68.223
+Philippines,1996,68.614
+Philippines,1997,68.884
+Philippines,1998,69.1
+Philippines,1999,69.298
+Philippines,2000,69.413
+Philippines,2001,69.614
+Philippines,2002,69.781
+Philippines,2003,69.924
+Philippines,2004,70.037
+Philippines,2005,70.24
+Philippines,2006,70.282
+Philippines,2007,70.483
+Philippines,2008,70.564
+Philippines,2009,70.633
+Philippines,2010,70.754
+Philippines,2011,70.788
+Philippines,2012,70.881
+Philippines,2013,70.835
+Philippines,2014,71.151
+Philippines,2015,71.268
+Philippines,2016,71.387
+Philippines,2017,71.516
+Philippines,2018,71.689
+Philippines,2019,71.865
+Philippines,2020,72.119
+Philippines,2021,69.266
+United Kingdom,1950,68.631
+United Kingdom,1951,68.235
+United Kingdom,1952,69.518
+United Kingdom,1953,69.797
+United Kingdom,1954,70.165
+United Kingdom,1955,70.129
+United Kingdom,1956,70.401
+United Kingdom,1957,70.521
+United Kingdom,1958,70.702
+United Kingdom,1959,70.826
+United Kingdom,1960,71.024
+United Kingdom,1961,70.79
+United Kingdom,1962,70.859
+United Kingdom,1963,70.764
+United Kingdom,1964,71.549
+United Kingdom,1965,71.524
+United Kingdom,1966,71.439
+United Kingdom,1967,72.075
+United Kingdom,1968,71.687
+United Kingdom,1969,71.665
+United Kingdom,1970,71.884
+United Kingdom,1971,72.236
+United Kingdom,1972,71.99
+United Kingdom,1973,72.187
+United Kingdom,1974,72.378
+United Kingdom,1975,72.652
+United Kingdom,1976,72.637
+United Kingdom,1977,73.114
+United Kingdom,1978,73.045
+United Kingdom,1979,73.162
+United Kingdom,1980,73.593
+United Kingdom,1981,73.919
+United Kingdom,1982,74.041
+United Kingdom,1983,74.295
+United Kingdom,1984,74.677
+United Kingdom,1985,74.538
+United Kingdom,1986,74.796
+United Kingdom,1987,75.148
+United Kingdom,1988,75.261
+United Kingdom,1989,75.395
+United Kingdom,1990,75.736
+United Kingdom,1991,75.91
+United Kingdom,1992,76.306
+United Kingdom,1993,76.163
+United Kingdom,1994,76.722
+United Kingdom,1995,76.616
+United Kingdom,1996,76.875
+United Kingdom,1997,77.142
+United Kingdom,1998,77.277
+United Kingdom,1999,77.376
+United Kingdom,2000,77.853
+United Kingdom,2001,78.124
+United Kingdom,2002,78.241
+United Kingdom,2003,78.334
+United Kingdom,2004,78.904
+United Kingdom,2005,79.112
+United Kingdom,2006,79.355
+United Kingdom,2007,79.542
+United Kingdom,2008,79.665
+United Kingdom,2009,80.167
+United Kingdom,2010,80.401
+United Kingdom,2011,80.805
+United Kingdom,2012,80.866
+United Kingdom,2013,80.929
+United Kingdom,2014,81.16
+United Kingdom,2015,80.924
+United Kingdom,2016,81.075
+United Kingdom,2017,81.168
+United Kingdom,2018,81.125
+United Kingdom,2019,81.725
+United Kingdom,2020,80.434
+United Kingdom,2021,80.742
+United States of America,1950,68.059
+United States of America,1951,68.17
+United States of America,1952,68.366
+United States of America,1953,68.7
+United States of America,1954,69.489
+United States of America,1955,69.546
+United States of America,1956,69.63
+United States of America,1957,69.406
+United States of America,1958,69.661
+United States of America,1959,69.889
+United States of America,1960,69.813
+United States of America,1961,70.239
+United States of America,1962,70.103
+United States of America,1963,69.932
+United States of America,1964,70.19
+United States of America,1965,70.242
+United States of America,1966,70.204
+United States of America,1967,70.519
+United States of America,1968,70.202
+United States of America,1969,70.478
+United States of America,1970,70.735
+United States of America,1971,71.096
+United States of America,1972,71.172
+United States of America,1973,71.388
+United States of America,1974,71.95
+United States of America,1975,72.534
+United States of America,1976,72.834
+United States of America,1977,73.215
+United States of America,1978,73.397
+United States of America,1979,73.82
+United States of America,1980,73.717
+United States of America,1981,74.105
+United States of America,1982,74.453
+United States of America,1983,74.543
+United States of America,1984,74.666
+United States of America,1985,74.642
+United States of America,1986,74.722
+United States of America,1987,74.854
+United States of America,1988,74.828
+United States of America,1989,75.104
+United States of America,1990,75.37
+United States of America,1991,75.523
+United States of America,1992,75.778
+United States of America,1993,75.567
+United States of America,1994,75.738
+United States of America,1995,75.854
+United States of America,1996,76.175
+United States of America,1997,76.498
+United States of America,1998,76.66
+United States of America,1999,76.672
+United States of America,2000,76.811
+United States of America,2001,76.928
+United States of America,2002,77.001
+United States of America,2003,77.154
+United States of America,2004,77.558
+United States of America,2005,77.557
+United States of America,2006,77.839
+United States of America,2007,78.1
+United States of America,2008,78.196
+United States of America,2009,78.564
+United States of America,2010,78.772
+United States of America,2011,78.82
+United States of America,2012,78.944
+United States of America,2013,78.951
+United States of America,2014,79.017
+United States of America,2015,78.869
+United States of America,2016,78.848
+United States of America,2017,78.821
+United States of America,2018,78.99
+United States of America,2019,79.138
+United States of America,2020,77.414
+United States of America,2021,77.198
+Australia,1950,69
+Australia,1951,68.7
+Australia,1952,69.113
+Australia,1953,69.692
+Australia,1954,69.86
+Australia,1955,70.158
+Australia,1956,70.038
+Australia,1957,70.318
+Australia,1958,70.862
+Australia,1959,70.446
+Australia,1960,70.866
+Australia,1961,71.135
+Australia,1962,70.907
+Australia,1963,70.961
+Australia,1964,70.573
+Australia,1965,70.803
+Australia,1966,70.678
+Australia,1967,71.048
+Australia,1968,70.681
+Australia,1969,71.072
+Australia,1970,70.654
+Australia,1971,71.452
+Australia,1972,71.77
+Australia,1973,72.06
+Australia,1974,71.851
+Australia,1975,72.786
+Australia,1976,72.79
+Australia,1977,73.474
+Australia,1978,73.743
+Australia,1979,74.329
+Australia,1980,74.568
+Australia,1981,74.785
+Australia,1982,74.721
+Australia,1983,75.442
+Australia,1984,75.512
+Australia,1985,75.433
+Australia,1986,76.074
+Australia,1987,76.086
+Australia,1988,76.347
+Australia,1989,76.201
+Australia,1990,77.044
+Australia,1991,77.483
+Australia,1992,77.477
+Australia,1993,78.01
+Australia,1994,77.856
+Australia,1995,78.262
+Australia,1996,78.349
+Australia,1997,78.632
+Australia,1998,79.028
+Australia,1999,79.285
+Australia,2000,79.631
+Australia,2001,80.016
+Australia,2002,80.064
+Australia,2003,80.455
+Australia,2004,80.751
+Australia,2005,81.113
+Australia,2006,81.282
+Australia,2007,81.26
+Australia,2008,81.459
+Australia,2009,81.766
+Australia,2010,82.055
+Australia,2011,82.134
+Australia,2012,82.346
+Australia,2013,82.604
+Australia,2014,82.568
+Australia,2015,82.655
+Australia,2016,82.871
+Australia,2017,83.001
+Australia,2018,83.387
+Australia,2019,83.11
+Australia,2020,84.324
+Australia,2021,84.526
+South Africa,2022,61.48
+China,2022,78.587
+Japan,2022,84.82
+India,2022,67.744
+Indonesia,2022,68.25
+Malaysia,2022,76.26
+Philippines,2022,72.187
+United Kingdom,2022,82.156
+United States of America,2022,78.203
+Australia,2022,83.579

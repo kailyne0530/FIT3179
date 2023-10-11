@@ -1,17 +1,17 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "An interactive scatter plot of global health statistics by country and year.",
-  "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/birth-death-life-expectancy.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/birth-death.csv"},
   "width": 800,
   "height": 500, 
   "params": [
     {
     "name": "Year_selection",
-    "value": 2019,
+    "value": 2022,
     "bind": {
       "input": "range", 
-      "min": 2010, 
-      "max": 2019, 
+      "min": 2018, 
+      "max": 2022, 
       "step": 1,
       "name": "Year"
       }
@@ -95,7 +95,7 @@
               "x": {
                 "field": "Death Rate",
                 "type": "quantitative",
-                "scale": {"domain": [0, 20]},
+                "scale": {"domain": [0, 30]},
                 "axis": {"tickCount": 5}
               },
               "y": {

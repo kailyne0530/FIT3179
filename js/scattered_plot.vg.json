@@ -33,44 +33,138 @@
       "encoding": {"text": {"field": "Year", "type": "ordinal"}}
     },    
     {
-      "transform": [
-        {"filter": "datum.Year == Year_selection"}
-      ],
-      "params": [
+      "layer": [
         {
-          "name": "Continent_highlight",
-          "select": {
-            "type": "point",
-            "fields": ["Continent"]
+          "mark": {
+            "type": "line",
+            "size": 4,
+            "color": "lightgray",
+            "strokeCap": "round"
           },
-          "bind": "legend"
+          "encoding": {
+            "x": {
+              "field": "Death Rate",
+              "type": "quantitative"
+            },
+            "y": {
+              "field": "Birth Rate",
+              "type": "quantitative"
+            },
+            "detail": {"field": "Country Name"},
+            "order": {"field": "Year"},
+            "opacity": {
+              "condition": {
+                "test": {"or": [
+                  {"param": "hovered", "empty": false}
+                ]},
+                "value": 0.8
+              },
+              "value": 0
+            }
+          }
+        },
+        {
+          "transform": [
+              {"filter": "datum.Year == Year_selection"}
+            ],
+            "params": [
+              {
+                "name": "Continent_highlight",
+                "select": {
+                  "type": "point",
+                  "fields": ["Continent"]
+                },
+                "bind": "legend"
+              },
+              {
+                "name": "hovered",
+                "select": {
+                  "type": "point",
+                  "fields": ["Country Name"],
+                  "toggle": false,
+                  "on": "mouseover"
+                }
+              }
+            ],
+            "mark": {
+              "type": "point",
+              "filled": true,
+              "opacity": 0.8
+            },
+            "encoding": {
+              "x": {
+                "field": "Death Rate",
+                "type": "quantitative",
+                "scale": {"domain": [0, 20]},
+                "axis": {"tickCount": 5}
+              },
+              "y": {
+                "field": "Birth Rate",
+                "type": "quantitative",
+                "scale": {"domain": [0, 50]},
+                "axis": {"tickCount": 5}
+              },
+              "color": {"field": "Continent", "type": "nominal"},
+              "opacity": {
+                "condition": {
+                  "test": {"or": [
+                    {"param": "hovered", "empty": false},
+                    {"param": "Continent_highlight", "empty": true},
+                    {"field": "Continent", "equal": {"param": "Continent_highlight"}}
+                  ]},
+                  "value": 0.7
+                },
+                "value": 0.1
+              },
+              "size": {
+                "condition": {
+                  "test": {"or": [
+                    {"param": "hovered", "empty": false}
+                  ]},
+                  "value": 200
+                },
+                "value": 100
+              },
+              "tooltip": [
+                {"field": "Country Name", "type": "nominal"},
+                {"field": "Continent", "type": "nominal"},
+                {"field": "Death Rate", "type": "quantitative"},
+                {"field": "Birth Rate", "type": "quantitative"}
+              ]         
+            }
+        },
+        {
+          "transform": [
+            {"filter": {"param": "hovered", "empty": false}}, {"filter": "datum.Year !== Year_selection"}
+          ],
+          "layer": [
+            {
+              "mark": {
+                "type": "text",
+                "yOffset": -12,
+                "fontSize": 6,
+                "color": "gray"
+              },
+              "encoding": {
+                "x": {"field": "Death Rate", "type": "quantitative"},
+                "y": {"field": "Birth Rate", "type": "quantitative"},
+                "text": {"field": "Year"}
+              }
+            },
+            {
+              "mark": {
+                "type": "circle", 
+                "size": 9,
+                "color": "gray"
+              },
+              "encoding": {
+                "x": {"field": "Death Rate", "type": "quantitative"},
+                "y": {"field": "Birth Rate", "type": "quantitative"}
+              }
+            }
+          ]
         }
-      ],
-      "mark": {
-        "type": "point",
-        "opacity": 0.9
-      },
-      "encoding": {
-        "x": {
-          "field": "Death Rate",
-          "type": "quantitative",
-          "scale": {"domain": [0, 20]},
-          "axis": {"tickCount": 10}
-        },
-        "y": {
-          "field": "Birth Rate",
-          "type": "quantitative",
-          "scale": {"domain": [0, 50]}
-        },
-        "color": {"field": "Continent", "type": "nominal"},
-        "opacity": {
-          "condition": {
-            "param": "Continent_highlight",
-            "value": 0.6
-          },
-          "value": 0.2
-        }          
-      }
+      ]
     }
   ]
 }

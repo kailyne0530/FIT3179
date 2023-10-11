@@ -1,0 +1,75 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/population-estimation.csv"
+    },
+    "layer": [
+      {
+        "mark": "line",
+        "encoding": {
+          "x": {
+            "field": "Year", 
+            "type": "ordinal",
+            "axis": {
+              "values": ["1950", "1980", "2010", "2040", "2070", "2100"]
+            }
+          },
+          "y": {
+            "field": "PopTotal", 
+            "type": "quantitative",
+            "axis": {
+              "format": ".0s",
+              "title": "Population"
+            }
+          },
+          "strokeDash": {
+            "field": "Predicted", 
+            "type": "nominal"
+          },
+          "tooltip": [
+            {
+              "field": "Year", 
+              "type": "nominal"
+            },
+            {
+              "field": "PopTotal",
+              "type": "quantitative",
+              "format": ",",
+              "title": "Population"
+            }
+          ]
+        }
+      },
+      {
+        "transform": [
+          {
+            "filter": "datum.Year == '2022'"
+          },
+          {
+            "calculate": "'In 2022, there are ' + format(datum.PopTotal, '.3s') + ' people'",
+            "as" : "annotationText"
+          }
+        ],
+        "mark": {
+          "type": "text",
+          "dy": 20
+        },
+        "encoding": {
+          "x": {
+            "field": "Year",
+            "type": "ordinal"
+          },
+          "y": {
+            "field": "PopTotal",
+            "type": "quantitative"
+          },
+          "text": {
+            "field": "annotationText",
+            "type": "nominal"
+          }
+        }
+      }
+    ]
+  }
+  

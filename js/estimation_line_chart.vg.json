@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 800,
+  "width": "container",
   "data": {
     "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/population-estimation.csv"
   },
@@ -13,13 +13,14 @@
           "type": "ordinal",
           "axis": {
             "values": ["1950", "1980", "2010", "2040", "2070", "2100"],
-            "labelAngle": 0
+            "labelAngle": 0,
+            "grid": true
           }
         },
         "y": {
           "field": "PopTotal",
           "type": "quantitative",
-          "axis": {"labelExpr": "datum.value / 10000000 + 'B'", "title": "Population"}
+          "axis": {"labelExpr": "datum.value / 10000000", "title": "Population (billions)"}
         },
         "strokeDash": {"field": "Predicted", "type": "nominal", "legend": null},
         "tooltip": [
@@ -28,24 +29,27 @@
             "field": "PopTotal",
             "type": "quantitative",
             "format": ",",
-            "title": "Population"
+            "title": "Population (billions)"
           }
         ]
       }
     },
     {
       "transform": [
-        {"filter": "datum.Year == '2022'"},
-        {
-          "calculate": "'In 2022, there are ' + format((datum.PopTotal / 10000000), '.3s') + ' billion people'",
-          "as": "annotationText"
-        }
+        {"filter": "datum.Year == '2022'"}
       ],
-      "mark": {"type": "text", "dy": -40},
+      "mark": {"type": "rule"},
       "encoding": {
-        "x": {"field": "Year", "type": "ordinal"},
-        "y": {"field": "PopTotal", "type": "quantitative"},
-        "text": {"field": "annotationText", "type": "nominal"}
+        "x": {"datum": "2022", "type": "ordinal"},
+        "y": {"field": "PopTotal", "type": "quantitative"}
+      }
+    },
+    {
+      "mark": "text",
+      "encoding": {
+        "x": {"datum": "2022"},
+        "y": {"value": 40}, 
+        "text": {"value": "2022"}
       }
     }
   ]

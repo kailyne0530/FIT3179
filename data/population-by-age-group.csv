@@ -1,0 +1,1471 @@
+Country,Year,Sex,Age,Population
+World,2018,Male,0-4,354861.5395
+World,2019,Male,0-4,352683.7915
+World,2020,Male,0-4,349488.397
+World,2021,Male,0-4,345268.9625
+China,2018,Male,0-4,47477.802
+China,2019,Male,0-4,45604.246
+China,2020,Male,0-4,43090.361
+China,2021,Male,0-4,39707.251
+India,2018,Male,0-4,62141.421
+India,2019,Male,0-4,61477.6425
+India,2020,Male,0-4,60771.7345
+India,2021,Male,0-4,59967.1705
+Pakistan,2018,Male,0-4,14991.292
+Pakistan,2019,Male,0-4,15000.4055
+Pakistan,2020,Male,0-4,15057.1635
+Pakistan,2021,Male,0-4,15144.169
+Indonesia,2018,Male,0-4,11886.975
+Indonesia,2019,Male,0-4,11741.3475
+Indonesia,2020,Male,0-4,11615.0195
+Indonesia,2021,Male,0-4,11507.6145
+United States of America,2018,Male,0-4,10238.886
+United States of America,2019,Male,0-4,10148.2215
+United States of America,2020,Male,0-4,9984.0185
+United States of America,2021,Male,0-4,9797.8895
+World,2022,Male,0-4,340674.0095
+China,2022,Male,0-4,35674.4735
+India,2022,Male,0-4,59256.0955
+Pakistan,2022,Male,0-4,15242.808
+Indonesia,2022,Male,0-4,11419.556
+United States of America,2022,Male,0-4,9668.1165
+World,2018,Female,0-4,333798.9
+World,2019,Female,0-4,332188.8295
+World,2020,Female,0-4,329657.805
+World,2021,Female,0-4,326208.3375
+China,2018,Female,0-4,41413.4065
+China,2019,Female,0-4,39949.145
+China,2020,Female,0-4,37908.9865
+China,2021,Female,0-4,35082.4495
+India,2018,Female,0-4,56980.5565
+India,2019,Female,0-4,56478.2445
+India,2020,Female,0-4,55952.175
+India,2021,Female,0-4,55340.255
+Pakistan,2018,Female,0-4,14308.4385
+Pakistan,2019,Female,0-4,14320.0955
+Pakistan,2020,Female,0-4,14375.8375
+Pakistan,2021,Female,0-4,14460.3095
+Indonesia,2018,Female,0-4,11276.6125
+Indonesia,2019,Female,0-4,11136.0875
+Indonesia,2020,Female,0-4,11012.578
+Indonesia,2021,Female,0-4,10906.702
+United States of America,2018,Female,0-4,9782.577
+United States of America,2019,Female,0-4,9700.3345
+United States of America,2020,Female,0-4,9543.673
+United States of America,2021,Female,0-4,9366.5255
+World,2022,Female,0-4,322432.29
+China,2022,Female,0-4,31664.783
+India,2022,Female,0-4,54808.228
+Pakistan,2022,Female,0-4,14555.3795
+Indonesia,2022,Female,0-4,10819.771
+United States of America,2022,Female,0-4,9244.63
+World,2018,Male,5-9,348162.5305
+World,2019,Male,5-9,350161.0105
+World,2020,Male,5-9,351560.249
+World,2021,Male,5-9,352537.171
+China,2018,Male,5-9,48266.344
+China,2019,Male,5-9,48553.5085
+China,2020,Male,5-9,48569.018
+China,2021,Male,5-9,48525.2305
+India,2018,Male,5-9,65292.5935
+India,2019,Male,5-9,64694.6205
+India,2020,Male,5-9,63921.193
+India,2021,Male,5-9,63226.616
+Pakistan,2018,Male,5-9,14426.6585
+Pakistan,2019,Male,5-9,14586.9435
+Pakistan,2020,Male,5-9,14682.5195
+Pakistan,2021,Male,5-9,14727.0585
+Indonesia,2018,Male,5-9,12290.5535
+Indonesia,2019,Male,5-9,12291.838
+Indonesia,2020,Male,5-9,12259.2095
+Indonesia,2021,Male,5-9,12161.7495
+United States of America,2018,Male,5-9,10661.8825
+United States of America,2019,Male,5-9,10595.8925
+United States of America,2020,Male,5-9,10554.7415
+United States of America,2021,Male,5-9,10509.2135
+World,2022,Male,5-9,352785.5595
+China,2022,Male,5-9,48383.1525
+India,2022,Male,5-9,62513.143
+Pakistan,2022,Male,5-9,14746.8005
+Indonesia,2022,Male,5-9,11999.939
+United States of America,2022,Male,5-9,10452.103
+World,2018,Female,5-9,326162.189
+World,2019,Female,5-9,328256.1555
+World,2020,Female,5-9,329850.2605
+World,2021,Female,5-9,331074.621
+China,2018,Female,5-9,41368.965
+China,2019,Female,5-9,41727.3625
+China,2020,Female,5-9,41871.6965
+China,2021,Female,5-9,41983.007
+India,2018,Female,5-9,59353.169
+India,2019,Female,5-9,58880.5355
+India,2020,Female,5-9,58262.875
+India,2021,Female,5-9,57728.797
+Pakistan,2018,Female,5-9,13728.275
+Pakistan,2019,Female,5-9,13910.1495
+Pakistan,2020,Female,5-9,14023.743
+Pakistan,2021,Female,5-9,14082.6705
+Indonesia,2018,Female,5-9,11665.044
+Indonesia,2019,Female,5-9,11665.5475
+Indonesia,2020,Female,5-9,11634.4765
+Indonesia,2021,Female,5-9,11542.828
+United States of America,2018,Female,5-9,10162.686
+United States of America,2019,Female,5-9,10101.183
+United States of America,2020,Female,5-9,10072.199
+United States of America,2021,Female,5-9,10040.1185
+World,2022,Female,5-9,331633.786
+China,2022,Female,5-9,42028.7115
+India,2022,Female,5-9,57175.7795
+Pakistan,2022,Female,5-9,14112.554
+Indonesia,2022,Female,5-9,11389.8235
+United States of America,2022,Female,5-9,9988.052
+World,2018,Male,10-14,329760.726
+World,2019,Male,10-14,333619.837
+World,2020,Male,10-14,337363.691
+World,2021,Male,10-14,340824.6295
+China,2018,Male,10-14,44314.3655
+China,2019,Male,10-14,45247.282
+China,2020,Male,10-14,46087.634
+China,2021,Male,10-14,46722.986
+India,2018,Male,10-14,66620.7295
+India,2019,Male,10-14,66211.111
+India,2020,Male,10-14,65906.4165
+India,2021,Male,10-14,65685.028
+Pakistan,2018,Male,10-14,13240.8565
+Pakistan,2019,Male,10-14,13418.8565
+Pakistan,2020,Male,10-14,13635.8795
+Pakistan,2021,Male,10-14,13888.8825
+Indonesia,2018,Male,10-14,11734.6155
+Indonesia,2019,Male,10-14,11882.1025
+Indonesia,2020,Male,10-14,12004.5125
+Indonesia,2021,Male,10-14,12119.7275
+United States of America,2018,Male,10-14,11237.187
+United States of America,2019,Male,10-14,11308.633
+United States of America,2020,Male,10-14,11283.687
+United States of America,2021,Male,10-14,11149.9945
+World,2022,Male,10-14,344164.8325
+China,2022,Male,10-14,47514.706
+India,2022,Male,10-14,65447.9385
+Pakistan,2022,Male,10-14,14132.9265
+Indonesia,2022,Male,10-14,12217.9235
+United States of America,2022,Male,10-14,10962.643
+World,2018,Female,10-14,308690.7095
+World,2019,Female,10-14,312295.931
+World,2020,Female,10-14,315818.337
+World,2021,Female,10-14,319109.6125
+China,2018,Female,10-14,37765.9945
+China,2019,Female,10-14,38572.3115
+China,2020,Female,10-14,39317.6135
+China,2021,Female,10-14,39906.963
+India,2018,Female,10-14,60442.701
+India,2019,Female,10-14,60083.1065
+India,2020,Female,10-14,59814.87
+India,2021,Female,10-14,59621.376
+Pakistan,2018,Female,10-14,12484.9425
+Pakistan,2019,Female,10-14,12672.021
+Pakistan,2020,Female,10-14,12906.486
+Pakistan,2021,Female,10-14,13177.0845
+Indonesia,2018,Female,10-14,11129.092
+Indonesia,2019,Female,10-14,11273.44
+Indonesia,2020,Female,10-14,11393.1815
+Indonesia,2021,Female,10-14,11504.071
+United States of America,2018,Female,10-14,10727.856
+United States of America,2019,Female,10-14,10783.5345
+United States of America,2020,Female,10-14,10749.0795
+United States of America,2021,Female,10-14,10614.852
+World,2022,Female,10-14,322325.0705
+China,2022,Female,10-14,40651.8135
+India,2022,Female,10-14,59433.064
+Pakistan,2022,Female,10-14,13440.1725
+Indonesia,2022,Female,10-14,11597.194
+United States of America,2022,Female,10-14,10439.413
+World,2018,Male,15-19,315757.263
+World,2019,Male,15-19,317842.2105
+World,2020,Male,15-19,319816.719
+World,2021,Male,15-19,321861.5515
+China,2018,Male,15-19,42969.542
+China,2019,Male,15-19,42883.181
+China,2020,Male,15-19,42807.806
+China,2021,Male,15-19,42897.821
+India,2018,Male,15-19,67533.94
+India,2019,Male,15-19,67717.1855
+India,2020,Male,15-19,67689.391
+India,2021,Male,15-19,67336.8005
+Pakistan,2018,Male,15-19,12220.0585
+Pakistan,2019,Male,15-19,12386.789
+Pakistan,2020,Male,15-19,12557.5535
+Pakistan,2021,Male,15-19,12718.3045
+Indonesia,2018,Male,15-19,11281.052
+Indonesia,2019,Male,15-19,11285.2095
+Indonesia,2020,Male,15-19,11326.9315
+Indonesia,2021,Male,15-19,11404.3335
+United States of America,2018,Male,15-19,11121.774
+United States of America,2019,Male,15-19,11187.4395
+United States of America,2020,Male,15-19,11223.1035
+United States of America,2021,Male,15-19,11263.8215
+World,2022,Male,15-19,324666.736
+China,2022,Male,15-19,43405.636
+India,2022,Male,15-19,66811.6555
+Pakistan,2022,Male,15-19,12881.039
+Indonesia,2022,Male,15-19,11527.437
+United States of America,2022,Male,15-19,11360.811
+World,2018,Female,15-19,295641.0775
+World,2019,Female,15-19,297693.7945
+World,2020,Female,15-19,299676.7885
+World,2021,Female,15-19,301699.2855
+China,2018,Female,15-19,36850.2685
+China,2019,Female,15-19,36699.3365
+China,2020,Female,15-19,36575.749
+China,2021,Female,15-19,36610.454
+India,2018,Female,15-19,61155.8865
+India,2019,Female,15-19,61354.8505
+India,2020,Female,15-19,61362.594
+India,2021,Female,15-19,61074.946
+Pakistan,2018,Female,15-19,11588.1985
+Pakistan,2019,Female,15-19,11758.4145
+Pakistan,2020,Female,15-19,11916.7325
+Pakistan,2021,Female,15-19,12061.7865
+Indonesia,2018,Female,15-19,10696.599
+Indonesia,2019,Female,15-19,10700.1275
+Indonesia,2020,Female,15-19,10740.3455
+Indonesia,2021,Female,15-19,10815.5865
+United States of America,2018,Female,15-19,10647.788
+United States of America,2019,Female,15-19,10707.683
+United States of America,2020,Female,15-19,10741.8345
+United States of America,2021,Female,15-19,10781.162
+World,2022,Female,15-19,304349.929
+China,2022,Female,15-19,37018.3265
+India,2022,Female,15-19,60609.4155
+Pakistan,2022,Female,15-19,12211.2175
+Indonesia,2022,Female,15-19,10935.749
+United States of America,2022,Female,15-19,10871.3325
+World,2018,Male,20-24,307267.39
+World,2019,Male,20-24,307502.0295
+World,2020,Male,20-24,308351.6835
+World,2021,Male,20-24,309756.3185
+China,2018,Male,20-24,46295.1665
+China,2019,Male,20-24,45025.4135
+China,2020,Male,20-24,44183.4235
+China,2021,Male,20-24,43609.395
+India,2018,Male,20-24,64853.973
+India,2019,Male,20-24,65304.629
+India,2020,Male,20-24,65745.248
+India,2021,Male,20-24,66257.4885
+Pakistan,2018,Male,20-24,10531.69
+Pakistan,2019,Male,20-24,10685.41
+Pakistan,2020,Male,20-24,10900.369
+Pakistan,2021,Male,20-24,11177.371
+Indonesia,2018,Male,20-24,11137.9545
+Indonesia,2019,Male,20-24,11195.088
+Indonesia,2020,Male,20-24,11221.7955
+Indonesia,2021,Male,20-24,11227.225
+United States of America,2018,Male,20-24,11207.0985
+United States of America,2019,Male,20-24,11150.8295
+United States of America,2020,Male,20-24,11166.7395
+United States of America,2021,Male,20-24,11221.6825
+World,2022,Male,20-24,311356.5375
+China,2022,Male,20-24,43078.6885
+India,2022,Male,20-24,66715.974
+Pakistan,2022,Male,20-24,11493.494
+Indonesia,2022,Male,20-24,11205.0565
+United States of America,2022,Male,20-24,11291.824
+World,2018,Female,20-24,289068.827
+World,2019,Female,20-24,289031.9835
+World,2020,Female,20-24,289690.8255
+World,2021,Female,20-24,290940.3335
+China,2018,Female,20-24,40441.7775
+China,2019,Female,20-24,39150.4205
+China,2020,Female,20-24,38261.9175
+China,2021,Female,20-24,37632.232
+India,2018,Female,20-24,58788.854
+India,2019,Female,20-24,59100.381
+India,2020,Female,20-24,59457.333
+India,2021,Female,20-24,59916.372
+Pakistan,2018,Female,20-24,10158.5345
+Pakistan,2019,Female,20-24,10351.905
+Pakistan,2020,Female,20-24,10574.3715
+Pakistan,2021,Female,20-24,10827.801
+Indonesia,2018,Female,20-24,10587.0475
+Indonesia,2019,Female,20-24,10644.5075
+Indonesia,2020,Female,20-24,10670.5745
+Indonesia,2021,Female,20-24,10675.0625
+United States of America,2018,Female,20-24,10769.621
+United States of America,2019,Female,20-24,10720.979
+United States of America,2020,Female,20-24,10740.185
+United States of America,2021,Female,20-24,10798.279
+World,2022,Female,20-24,292420.2025
+China,2022,Female,20-24,37060.4655
+India,2022,Female,20-24,60360.9975
+Pakistan,2022,Female,20-24,11102.356
+Indonesia,2022,Female,20-24,10652.1795
+United States of America,2022,Female,20-24,10869.8645
+World,2018,Male,25-29,311613.9745
+World,2019,Male,25-29,309702.8325
+World,2020,Male,25-29,306985.148
+World,2021,Male,25-29,304920.1675
+China,2018,Male,25-29,59506.629
+China,2019,Male,25-29,56326.866
+China,2020,Male,25-29,52403.4445
+China,2021,Male,25-29,49241.8185
+India,2018,Male,25-29,61140.763
+India,2019,Male,25-29,61741.661
+India,2020,Male,25-29,62448.0555
+India,2021,Male,25-29,63129.3655
+Pakistan,2018,Male,25-29,9117.9515
+Pakistan,2019,Male,25-29,9216.108
+Pakistan,2020,Male,25-29,9352.544
+Pakistan,2021,Male,25-29,9535.8105
+Indonesia,2018,Male,25-29,10692.579
+Indonesia,2019,Male,25-29,10715.994
+Indonesia,2020,Male,25-29,10772.5265
+Indonesia,2021,Male,25-29,10845.6155
+United States of America,2018,Male,25-29,11888.498
+United States of America,2019,Male,25-29,11875.915
+United States of America,2020,Male,25-29,11779.869
+United States of America,2021,Male,25-29,11634.0795
+World,2022,Male,25-29,304344.6485
+China,2022,Male,25-29,47455.717
+India,2022,Male,25-29,63682.639
+Pakistan,2022,Male,25-29,9756.6815
+Indonesia,2022,Male,25-29,10933.757
+United States of America,2022,Male,25-29,11503.7915
+World,2018,Female,25-29,296331.1205
+World,2019,Female,25-29,294153.0385
+World,2020,Female,25-29,291226.9705
+World,2021,Female,25-29,288911.646
+China,2018,Female,25-29,53636.694
+China,2019,Female,25-29,50463.6935
+China,2020,Female,25-29,46643.392
+China,2021,Female,25-29,43545.4215
+India,2018,Female,25-29,56329.4475
+India,2019,Female,25-29,56737.873
+India,2020,Female,25-29,57184.933
+India,2021,Female,25-29,57608.8425
+Pakistan,2018,Female,25-29,8894.21
+Pakistan,2019,Female,25-29,9055.0685
+Pakistan,2020,Female,25-29,9233.591
+Pakistan,2021,Female,25-29,9432.6845
+Indonesia,2018,Female,25-29,10164.1415
+Indonesia,2019,Female,25-29,10187.894
+Indonesia,2020,Female,25-29,10244.8345
+Indonesia,2021,Female,25-29,10320.33
+United States of America,2018,Female,25-29,11546.4375
+United States of America,2019,Female,25-29,11531.0125
+United States of America,2020,Female,25-29,11426.708
+United States of America,2021,Female,25-29,11270.286
+World,2022,Female,25-29,287903.7275
+China,2022,Female,25-29,41723.047
+India,2022,Female,25-29,57937.926
+Pakistan,2022,Female,25-29,9644.895
+Indonesia,2022,Female,25-29,10412.19
+United States of America,2022,Female,25-29,11138.1875
+World,2018,Male,30-34,297603.619
+World,2019,Male,30-34,302565.2045
+World,2020,Male,30-34,307163.7225
+World,2021,Male,30-34,309669.0155
+China,2018,Male,30-34,59357.3805
+China,2019,Male,30-34,61639.7495
+China,2020,Male,30-34,63818.6705
+China,2021,Male,30-34,64179.4745
+India,2018,Male,30-34,57148.264
+India,2019,Male,30-34,57951.6845
+India,2020,Male,30-34,58647.559
+India,2021,Male,30-34,59247.344
+Pakistan,2018,Male,30-34,7547.992
+Pakistan,2019,Male,30-34,7718.6785
+Pakistan,2020,Male,30-34,7936.0755
+Pakistan,2021,Male,30-34,8184.077
+Indonesia,2018,Male,30-34,10646.614
+Indonesia,2019,Male,30-34,10583.4835
+Indonesia,2020,Male,30-34,10537.8305
+Indonesia,2021,Male,30-34,10544.4235
+United States of America,2018,Male,30-34,11416.9145
+United States of America,2019,Male,30-34,11568.3625
+United States of America,2020,Male,30-34,11713.5335
+United States of America,2021,Male,30-34,11834.5045
+World,2022,Male,30-34,309406.267
+China,2022,Male,30-34,61994.246
+India,2022,Male,30-34,59814.5775
+Pakistan,2022,Male,30-34,8436.661
+Indonesia,2022,Male,30-34,10570.21
+United States of America,2022,Male,30-34,11956.043
+World,2018,Female,30-34,285966.211
+World,2019,Female,30-34,290420.7395
+World,2020,Female,30-34,294489.245
+World,2021,Female,30-34,296543.78
+China,2018,Female,30-34,55082.928
+China,2019,Female,30-34,56916.707
+China,2020,Female,30-34,58611.7165
+China,2021,Female,30-34,58624.639
+India,2018,Female,30-34,52824.391
+India,2019,Female,30-34,53603.6525
+India,2020,Female,30-34,54279.61
+India,2021,Female,30-34,54832.812
+Pakistan,2018,Female,30-34,7455.193
+Pakistan,2019,Female,30-34,7668.289
+Pakistan,2020,Female,30-34,7906.3245
+Pakistan,2021,Female,30-34,8160.09
+Indonesia,2018,Female,30-34,10163.7245
+Indonesia,2019,Female,30-34,10094.546
+Indonesia,2020,Female,30-34,10044.726
+Indonesia,2021,Female,30-34,10045.8965
+United States of America,2018,Female,30-34,11116.12
+United States of America,2019,Female,30-34,11273.789
+United States of America,2020,Female,30-34,11437.5075
+United States of America,2021,Female,30-34,11580.5845
+World,2022,Female,30-34,295973.101
+China,2022,Female,30-34,56312.633
+India,2022,Female,30-34,55325.0285
+Pakistan,2022,Female,30-34,8416.1875
+Indonesia,2022,Female,30-34,10066.3945
+United States of America,2022,Female,30-34,11712.855
+World,2018,Male,35-39,269635.5815
+World,2019,Male,35-39,274724.378
+World,2020,Male,35-39,279421.7905
+World,2021,Male,35-39,284144.3275
+China,2018,Male,35-39,51559.273
+China,2019,Male,35-39,52586.82
+China,2020,Male,35-39,53756.875
+China,2021,Male,35-39,55289.049
+India,2018,Male,35-39,50918.972
+India,2019,Male,35-39,52121.119
+India,2020,Male,35-39,53259.451
+India,2021,Male,35-39,54325.266
+Pakistan,2018,Male,35-39,6136.336
+Pakistan,2019,Male,35-39,6321.141
+Pakistan,2020,Male,35-39,6523.5845
+Pakistan,2021,Male,35-39,6738.389
+Indonesia,2018,Male,35-39,10541.602
+Indonesia,2019,Male,35-39,10635.701
+Indonesia,2020,Male,35-39,10674.4455
+Indonesia,2021,Male,35-39,10645.7675
+United States of America,2018,Male,35-39,11115.637
+United States of America,2019,Male,35-39,11252.331
+United States of America,2020,Male,35-39,11330.9785
+United States of America,2021,Male,35-39,11377.7535
+World,2022,Male,35-39,288850.9925
+China,2022,Male,35-39,56989.2915
+India,2022,Male,35-39,55315.4685
+Pakistan,2022,Male,35-39,6961.6965
+Indonesia,2022,Male,35-39,10580.3155
+United States of America,2022,Male,35-39,11442.6255
+World,2018,Female,35-39,260838.474
+World,2019,Female,35-39,265713.829
+World,2020,Female,35-39,270283.1505
+World,2021,Female,35-39,274850.2365
+China,2018,Female,35-39,48793.3865
+China,2019,Female,35-39,49656.0735
+China,2020,Female,35-39,50620.897
+China,2021,Female,35-39,51884.0045
+India,2018,Female,35-39,47214.88
+India,2019,Female,35-39,48328.8485
+India,2020,Female,35-39,49403.3145
+India,2021,Female,35-39,50436.1835
+Pakistan,2018,Female,35-39,6061.3345
+Pakistan,2019,Female,35-39,6293.706
+Pakistan,2020,Female,35-39,6532.325
+Pakistan,2021,Female,35-39,6775.5015
+Indonesia,2018,Female,35-39,10167.77
+Indonesia,2019,Female,35-39,10235.475
+Indonesia,2020,Female,35-39,10251.4395
+Indonesia,2021,Female,35-39,10206.443
+United States of America,2018,Female,35-39,10944.994
+United States of America,2019,Female,35-39,11044.6215
+United States of America,2020,Female,35-39,11099.327
+United States of America,2021,Female,35-39,11135.3445
+World,2022,Female,35-39,279304.075
+China,2022,Female,35-39,53251.08
+India,2022,Female,35-39,51398.545
+Pakistan,2022,Female,35-39,7020.204
+Indonesia,2022,Female,35-39,10130.0865
+United States of America,2022,Female,35-39,11196.842
+World,2018,Male,40-44,244767.4965
+World,2019,Male,40-44,245901.8695
+World,2020,Male,40-44,248929.2785
+World,2021,Male,40-44,253383.654
+China,2018,Male,40-44,50737.4925
+China,2019,Male,40-44,48478.142
+China,2020,Male,40-44,47616.175
+China,2021,Male,40-44,47931.809
+India,2018,Male,40-44,44929.0465
+India,2019,Male,40-44,45718.441
+India,2020,Male,40-44,46635.6835
+India,2021,Male,40-44,47639.454
+Pakistan,2018,Male,40-44,5048.577
+Pakistan,2019,Male,40-44,5144.83
+Pakistan,2020,Male,40-44,5266.4895
+Pakistan,2021,Male,40-44,5428.4055
+Indonesia,2018,Male,40-44,9670.4935
+Indonesia,2019,Male,40-44,9818.587
+Indonesia,2020,Male,40-44,9966.5625
+Indonesia,2021,Male,40-44,10102.397
+United States of America,2018,Male,40-44,10205.0155
+United States of America,2019,Male,40-44,10367.0135
+United States of America,2020,Male,40-44,10575.02
+United States of America,2021,Male,40-44,10798.907
+World,2022,Male,40-44,259072.0725
+China,2022,Male,40-44,49465.926
+India,2022,Male,40-44,48681.4735
+Pakistan,2022,Male,40-44,5629.7785
+Indonesia,2022,Male,40-44,10235.302
+United States of America,2022,Male,40-44,11001.689
+World,2018,Female,40-44,239031.0265
+World,2019,Female,40-44,239993.747
+World,2020,Female,40-44,242808.4065
+World,2021,Female,40-44,247020.5725
+China,2018,Female,40-44,48631.0885
+China,2019,Female,40-44,46383.293
+China,2020,Female,40-44,45475.3345
+China,2021,Female,40-44,45692.5145
+India,2018,Female,40-44,42103.0475
+India,2019,Female,40-44,42803.598
+India,2020,Female,40-44,43621.841
+India,2021,Female,40-44,44528.837
+Pakistan,2018,Female,40-44,4958.2055
+Pakistan,2019,Female,40-44,5090.3945
+Pakistan,2020,Female,40-44,5245.9935
+Pakistan,2021,Female,40-44,5434.848
+Indonesia,2018,Female,40-44,9450.651
+Indonesia,2019,Female,40-44,9577.279
+Indonesia,2020,Female,40-44,9702.4365
+Indonesia,2021,Female,40-44,9814.8015
+United States of America,2018,Female,40-44,10184.931
+United States of America,2019,Female,40-44,10327.542
+United States of America,2020,Female,40-44,10515.728
+United States of America,2021,Female,40-44,10719.0455
+World,2022,Female,40-44,252470.3375
+China,2022,Female,40-44,47064.1425
+India,2022,Female,40-44,45490.4125
+Pakistan,2022,Female,40-44,5659.7325
+Indonesia,2022,Female,40-44,9923.4215
+United States of America,2022,Female,40-44,10895.2145
+World,2018,Male,45-49,238748.743
+World,2019,Male,45-49,240001.399
+World,2020,Male,45-49,240137.305
+World,2021,Male,45-49,239508.4715
+China,2018,Male,45-49,63028.259
+China,2019,Male,45-49,61632.5375
+China,2020,Male,45-49,59212.7195
+China,2021,Male,45-49,56168.768
+India,2018,Male,45-49,39413.305
+India,2019,Male,45-49,40324.192
+India,2020,Male,45-49,41235.3035
+India,2021,Male,45-49,42078.0545
+Pakistan,2018,Male,45-49,4316.977
+Pakistan,2019,Male,45-49,4383.446
+Pakistan,2020,Male,45-49,4467.786
+Pakistan,2021,Male,45-49,4566.557
+Indonesia,2018,Male,45-49,8755.285
+Indonesia,2019,Male,45-49,8897.0785
+Indonesia,2020,Male,45-49,9028.4855
+Indonesia,2021,Male,45-49,9154.906
+United States of America,2018,Male,45-49,10749.561
+United States of America,2019,Male,45-49,10626.4995
+United States of America,2020,Male,45-49,10417.4625
+United States of America,2021,Male,45-49,10183.5815
+World,2022,Male,45-49,238983.448
+China,2022,Male,45-49,53104.7565
+India,2022,Male,45-49,42843.543
+Pakistan,2022,Male,45-49,4678.4635
+Indonesia,2022,Male,45-49,9278.938
+United States of America,2022,Male,45-49,10095.9465
+World,2018,Female,45-49,236137.206
+World,2019,Female,45-49,237193.5825
+World,2020,Female,45-49,237207.805
+World,2021,Female,45-49,236494.4645
+China,2018,Female,45-49,61289.462
+China,2019,Female,45-49,59827.8395
+China,2020,Female,45-49,57384.4965
+China,2021,Female,45-49,54348.801
+India,2018,Female,45-49,37457.7265
+India,2019,Female,45-49,38305.7545
+India,2020,Female,45-49,39150.349
+India,2021,Female,45-49,39938.6245
+Pakistan,2018,Female,45-49,4250.648
+Pakistan,2019,Female,45-49,4341.168
+Pakistan,2020,Female,45-49,4446.2755
+Pakistan,2021,Female,45-49,4562.1175
+Indonesia,2018,Female,45-49,8646.849
+Indonesia,2019,Female,45-49,8780.5655
+Indonesia,2020,Female,45-49,8903.698
+Indonesia,2021,Female,45-49,9021.929
+United States of America,2018,Female,45-49,10745.913
+United States of America,2019,Female,45-49,10617.759
+United States of America,2020,Female,45-49,10416.584
+United States of America,2021,Female,45-49,10199.846
+World,2022,Female,45-49,235879.4755
+China,2022,Female,45-49,51305.4555
+India,2022,Female,45-49,40658.4605
+Pakistan,2022,Female,45-49,4686.2755
+Indonesia,2022,Female,45-49,9135.2185
+United States of America,2022,Female,45-49,10120.7125
+World,2018,Male,50-54,214916.8635
+World,2019,Male,50-54,217595.423
+World,2020,Male,50-54,221073.249
+World,2021,Male,50-54,224758.0485
+China,2018,Male,50-54,58670.715
+China,2019,Male,50-54,59001.429
+China,2020,Male,50-54,59974.3505
+China,2021,Male,50-54,60904.575
+India,2018,Male,50-54,34147.2235
+India,2019,Male,50-54,34835.5665
+India,2020,Male,50-54,35543.107
+India,2021,Male,50-54,36249.2095
+Pakistan,2018,Male,50-54,3823.718
+Pakistan,2019,Male,50-54,3853.212
+Pakistan,2020,Male,50-54,3887.82
+Pakistan,2021,Male,50-54,3932.4535
+Indonesia,2018,Male,50-54,7642.5325
+Indonesia,2019,Male,50-54,7822.951
+Indonesia,2020,Male,50-54,7986.6785
+Indonesia,2021,Male,50-54,8122.18
+United States of America,2018,Male,50-54,10688.959
+United States of America,2019,Male,50-54,10605.684
+United States of America,2020,Male,50-54,10613.046
+United States of America,2021,Male,50-54,10668.184
+World,2022,Male,50-54,228341.491
+China,2022,Male,50-54,61760.313
+India,2022,Male,50-54,36952.7245
+Pakistan,2022,Male,50-54,3991.006
+Indonesia,2022,Male,50-54,8244.1795
+United States of America,2022,Male,50-54,10667.3525
+World,2018,Female,50-54,216560.051
+World,2019,Female,50-54,218987.179
+World,2020,Female,50-54,222219.758
+World,2021,Female,50-54,225708.8925
+China,2018,Female,50-54,58095.827
+China,2019,Female,50-54,58371.771
+China,2020,Female,50-54,59264.199
+China,2021,Female,50-54,60090.73
+India,2018,Female,50-54,32747.491
+India,2019,Female,50-54,33429.3495
+India,2020,Female,50-54,34130.1035
+India,2021,Female,50-54,34835.1025
+Pakistan,2018,Female,50-54,3800.936
+Pakistan,2019,Female,50-54,3846.016
+Pakistan,2020,Female,50-54,3893.915
+Pakistan,2021,Female,50-54,3950.4825
+Indonesia,2018,Female,50-54,7640.0705
+Indonesia,2019,Female,50-54,7818.5415
+Indonesia,2020,Female,50-54,7981.0235
+Indonesia,2021,Female,50-54,8118.721
+United States of America,2018,Female,50-54,10899.029
+United States of America,2019,Female,50-54,10740.7505
+United States of America,2020,Female,50-54,10689.109
+United States of America,2021,Female,50-54,10719.1915
+World,2022,Female,50-54,229121.7235
+China,2022,Female,50-54,60830.57
+India,2022,Female,50-54,35534.4535
+Pakistan,2022,Female,50-54,4019.69
+Indonesia,2022,Female,50-54,8242.9835
+United States of America,2022,Female,50-54,10717.6325
+World,2018,Male,55-59,175587.8395
+World,2019,Male,55-59,183195.554
+World,2020,Male,55-59,190547.423
+World,2021,Male,55-59,197414.3725
+China,2018,Male,55-59,38617.924
+China,2019,Male,55-59,43438.849
+China,2020,Male,55-59,48456.9615
+China,2021,Male,55-59,53579.503
+India,2018,Male,55-59,28923.6525
+India,2019,Male,55-59,29612.4175
+India,2020,Male,55-59,30253.405
+India,2021,Male,55-59,30768.7375
+Pakistan,2018,Male,55-59,3281.677
+Pakistan,2019,Male,55-59,3342.6835
+Pakistan,2020,Male,55-59,3395.5665
+Pakistan,2021,Male,55-59,3440.9225
+Indonesia,2018,Male,55-59,6202.249
+Indonesia,2019,Male,55-59,6419.2505
+Indonesia,2020,Male,55-59,6615.9025
+Indonesia,2021,Male,55-59,6788.6315
+United States of America,2018,Male,55-59,10972.5815
+United States of America,2019,Male,55-59,10980.8235
+United States of America,2020,Male,55-59,10896.2155
+United States of America,2021,Male,55-59,10695.653
+World,2022,Male,55-59,202006.0505
+China,2022,Male,55-59,56476.1525
+India,2022,Male,55-59,31237.363
+Pakistan,2022,Male,55-59,3484.645
+Indonesia,2022,Male,55-59,6951.8385
+United States of America,2022,Male,55-59,10488.52
+World,2018,Female,55-59,181783.049
+World,2019,Female,55-59,189288.004
+World,2020,Female,55-59,196591.977
+World,2021,Female,55-59,203475.6325
+China,2018,Female,55-59,38955.6775
+China,2019,Female,55-59,43794.531
+China,2020,Female,55-59,48855.5875
+China,2021,Female,55-59,54038.601
+India,2018,Female,55-59,28103.0945
+India,2019,Female,55-59,28764.776
+India,2020,Female,55-59,29401.712
+India,2021,Female,55-59,29953.5375
+Pakistan,2018,Female,55-59,3323.8575
+Pakistan,2019,Female,55-59,3399.529
+Pakistan,2020,Female,55-59,3465.229
+Pakistan,2021,Female,55-59,3521.7955
+Indonesia,2018,Female,55-59,6326.5415
+Indonesia,2019,Female,55-59,6546.0255
+Indonesia,2020,Female,55-59,6750.304
+Indonesia,2021,Female,55-59,6936.3795
+United States of America,2018,Female,55-59,11365.692
+United States of America,2019,Female,55-59,11366.677
+United States of America,2020,Female,55-59,11291.1
+United States of America,2021,Female,55-59,11099.4105
+World,2022,Female,55-59,208054.801
+China,2022,Female,55-59,56966.636
+India,2022,Female,55-59,30477.139
+Pakistan,2022,Female,55-59,3574.1745
+Indonesia,2022,Female,55-59,7112.8955
+United States of America,2022,Female,55-59,10875.93
+World,2018,Male,60-64,152209.851
+World,2019,Male,60-64,154194.471
+World,2020,Male,60-64,154990.172
+World,2021,Male,60-64,155384.737
+China,2018,Male,60-64,39673.083
+China,2019,Male,60-64,38616.1385
+China,2020,Male,60-64,36522.815
+China,2021,Male,60-64,34365.1505
+India,2018,Male,60-64,23466.372
+India,2019,Male,60-64,24048.7615
+India,2020,Male,60-64,24594.476
+India,2021,Male,60-64,25049.6815
+Pakistan,2018,Male,60-64,2519.6125
+Pakistan,2019,Male,60-64,2612.1615
+Pakistan,2020,Male,60-64,2698.6325
+Pakistan,2021,Male,60-64,2777.36
+Indonesia,2018,Male,60-64,4573.162
+Indonesia,2019,Male,60-64,4786.9255
+Indonesia,2020,Male,60-64,4989.358
+Indonesia,2021,Male,60-64,5169.6215
+United States of America,2018,Male,60-64,9995.387
+United States of America,2019,Male,60-64,10183.643
+United States of America,2020,Male,60-64,10311.7915
+United States of America,2021,Male,60-64,10380.0355
+World,2022,Male,60-64,157178.0845
+China,2022,Male,60-64,33837.527
+India,2022,Male,60-64,25463.94
+Pakistan,2022,Male,60-64,2851.536
+Indonesia,2022,Male,60-64,5342.435
+United States of America,2022,Male,60-64,10394.2385
+World,2018,Female,60-64,163454.7145
+World,2019,Female,60-64,165392.07
+World,2020,Female,60-64,166125.1655
+World,2021,Female,60-64,166553.713
+China,2018,Female,60-64,41589.6865
+China,2019,Female,60-64,40379.2435
+China,2020,Female,60-64,38121.5545
+China,2021,Female,60-64,35829.344
+India,2018,Female,60-64,23353.3885
+India,2019,Female,60-64,23966.692
+India,2020,Female,60-64,24542.975
+India,2021,Female,60-64,25038.908
+Pakistan,2018,Female,60-64,2616.1815
+Pakistan,2019,Female,60-64,2726.09
+Pakistan,2020,Female,60-64,2830.334
+Pakistan,2021,Female,60-64,2926.7425
+Indonesia,2018,Female,60-64,4848.8265
+Indonesia,2019,Female,60-64,5071.48
+Indonesia,2020,Female,60-64,5288.732
+Indonesia,2021,Female,60-64,5490.7905
+United States of America,2018,Female,60-64,10605.093
+United States of America,2019,Female,60-64,10757.4205
+United States of America,2020,Female,60-64,10867.547
+United States of America,2021,Female,60-64,10950.197
+World,2022,Female,60-64,168407.265
+China,2022,Female,60-64,35204.0435
+India,2022,Female,60-64,25492.648
+Pakistan,2022,Female,60-64,3016.0445
+Indonesia,2022,Female,60-64,5684.9625
+United States of America,2022,Female,60-64,10990.7925
+World,2018,Male,65-69,118167.3125
+World,2019,Male,65-69,122578.6115
+World,2020,Male,65-69,126676.0515
+World,2021,Male,65-69,129882.8155
+China,2018,Male,65-69,30893.5195
+China,2019,Male,65-69,32652.325
+China,2020,Male,65-69,34197.753
+China,2021,Male,65-69,35226.9645
+India,2018,Male,65-69,17533.4915
+India,2019,Male,65-69,18348.8255
+India,2020,Male,65-69,18942.7915
+India,2021,Male,65-69,19370.847
+Pakistan,2018,Male,65-69,1723.684
+Pakistan,2019,Male,65-69,1791.9745
+Pakistan,2020,Male,65-69,1871.731
+Pakistan,2021,Male,65-69,1952.2375
+Indonesia,2018,Male,65-69,3069.74
+Indonesia,2019,Male,65-69,3225.4565
+Indonesia,2020,Male,65-69,3379.1605
+Indonesia,2021,Male,65-69,3514.858
+United States of America,2018,Male,65-69,7975.701
+United States of America,2019,Male,65-69,8320.6685
+United States of America,2020,Male,65-69,8765.506
+United States of America,2021,Male,65-69,8949.8535
+World,2022,Male,65-69,132742.503
+China,2022,Male,65-69,35964.0145
+India,2022,Male,65-69,19708.44
+Pakistan,2022,Male,65-69,2032.7515
+Indonesia,2022,Male,65-69,3649.5255
+United States of America,2022,Male,65-69,9022.551
+World,2018,Female,65-69,132707.0845
+World,2019,Female,65-69,137795.2095
+World,2020,Female,65-69,142507.921
+World,2021,Female,65-69,146245.893
+China,2018,Female,65-69,34103.9835
+China,2019,Female,65-69,36206.523
+China,2020,Female,65-69,37926.7015
+China,2021,Female,65-69,38993.2765
+India,2018,Female,65-69,17735.236
+India,2019,Female,65-69,18560.826
+India,2020,Female,65-69,19232.661
+India,2021,Female,65-69,19773.3325
+Pakistan,2018,Female,65-69,1861.9435
+Pakistan,2019,Female,65-69,1943.1195
+Pakistan,2020,Female,65-69,2038.6165
+Pakistan,2021,Female,65-69,2139.1615
+Indonesia,2018,Female,65-69,3483.4475
+Indonesia,2019,Female,65-69,3636.9485
+Indonesia,2020,Female,65-69,3808.2545
+Indonesia,2021,Female,65-69,3976.2615
+United States of America,2018,Female,65-69,8832.018
+United States of America,2019,Female,65-69,9180.203
+United States of America,2020,Female,65-69,9636.742
+United States of America,2021,Female,65-69,9818.7275
+World,2022,Female,65-69,149479.9695
+China,2022,Female,65-69,39668.8915
+India,2022,Female,65-69,20225.4425
+Pakistan,2022,Female,65-69,2238.879
+Indonesia,2022,Female,65-69,4144.8555
+United States of America,2022,Female,65-69,9893.546
+World,2018,Male,70-74,79391.98
+World,2019,Male,70-74,83616.9565
+World,2020,Male,70-74,88188.064
+World,2021,Male,70-74,92233.782
+China,2018,Male,70-74,18990.7045
+China,2019,Male,70-74,20202.3655
+China,2020,Male,70-74,21693.623
+China,2021,Male,70-74,23275.718
+India,2018,Male,70-74,10597.856
+India,2019,Male,70-74,11230.4275
+India,2020,Male,70-74,11995.529
+India,2021,Male,70-74,12639.641
+Pakistan,2018,Male,70-74,1257.205
+Pakistan,2019,Male,70-74,1261.556
+Pakistan,2020,Male,70-74,1262.0145
+Pakistan,2021,Male,70-74,1264.629
+Indonesia,2018,Male,70-74,2077.6735
+Indonesia,2019,Male,70-74,2115.3165
+Indonesia,2020,Male,70-74,2152.209
+Indonesia,2021,Male,70-74,2181.361
+United States of America,2018,Male,70-74,6098.201
+United States of America,2019,Male,70-74,6329.6125
+United States of America,2020,Male,70-74,6504.483
+United States of America,2021,Male,70-74,6728.8235
+World,2022,Male,70-74,95840.1475
+China,2022,Male,70-74,25035.411
+India,2022,Male,70-74,13215.051
+Pakistan,2022,Male,70-74,1281.399
+Indonesia,2022,Male,70-74,2226.8025
+United States of America,2022,Male,70-74,6936.8285
+World,2018,Female,70-74,93282.465
+World,2019,Female,70-74,98477.629
+World,2020,Female,70-74,104266.686
+World,2021,Female,70-74,109634.2625
+China,2018,Female,70-74,21084.738
+China,2019,Female,70-74,22678.0805
+China,2020,Female,70-74,24695.148
+China,2021,Female,70-74,26887.271
+India,2018,Female,70-74,11628.5175
+India,2019,Female,70-74,12193.809
+India,2020,Female,70-74,12886.7525
+India,2021,Female,70-74,13496.4525
+Pakistan,2018,Female,70-74,1364.147
+Pakistan,2019,Female,70-74,1399.749
+Pakistan,2020,Female,70-74,1427.0495
+Pakistan,2021,Female,70-74,1453.908
+Indonesia,2018,Female,70-74,2710.845
+Indonesia,2019,Female,70-74,2738.397
+Indonesia,2020,Female,70-74,2756.495
+Indonesia,2021,Female,70-74,2768.2455
+United States of America,2018,Female,70-74,7109.6515
+United States of America,2019,Female,70-74,7358.983
+United States of America,2020,Female,70-74,7554.2825
+United States of America,2021,Female,70-74,7844.096
+World,2022,Female,70-74,114407.175
+China,2022,Female,70-74,29299.775
+India,2022,Female,70-74,14062.6975
+Pakistan,2022,Female,70-74,1492.3545
+Indonesia,2022,Female,70-74,2805.768
+United States of America,2022,Female,70-74,8052.656
+World,2018,Male,75-79,53565.168
+World,2019,Male,75-79,54556.247
+World,2020,Male,75-79,55412.777
+World,2021,Male,75-79,56562.761
+China,2018,Male,75-79,12388.5545
+China,2019,Male,75-79,12667.729
+China,2020,Male,75-79,13042.71
+China,2021,Male,75-79,13509.535
+India,2018,Male,75-79,6609.5595
+India,2019,Male,75-79,6818.9345
+India,2020,Male,75-79,7031.714
+India,2021,Male,75-79,7166.071
+Pakistan,2018,Male,75-79,766.0475
+Pakistan,2019,Male,75-79,788.623
+Pakistan,2020,Male,75-79,805.684
+Pakistan,2021,Male,75-79,816.744
+Indonesia,2018,Male,75-79,1350.7065
+Indonesia,2019,Male,75-79,1366.201
+Indonesia,2020,Male,75-79,1369.544
+Indonesia,2021,Male,75-79,1355.1715
+United States of America,2018,Male,75-79,4019.0705
+United States of America,2019,Male,75-79,4186.8475
+United States of America,2020,Male,75-79,4282.7735
+United States of America,2021,Male,75-79,4526.904
+World,2022,Male,75-79,58704.728
+China,2022,Male,75-79,14205.3255
+India,2022,Male,75-79,7261.0425
+Pakistan,2022,Male,75-79,825.9225
+Indonesia,2022,Male,75-79,1338.5525
+United States of America,2022,Male,75-79,4874.4065
+World,2018,Female,75-79,69064.4825
+World,2019,Female,75-79,69847.924
+World,2020,Female,75-79,70671.571
+World,2021,Female,75-79,72060.353
+China,2018,Female,75-79,14851.7035
+China,2019,Female,75-79,15248.528
+China,2020,Female,75-79,15773.823
+China,2021,Female,75-79,16420.7135
+India,2018,Female,75-79,7886.9525
+India,2019,Female,75-79,8066.5225
+India,2020,Female,75-79,8263.871
+India,2021,Female,75-79,8407.784
+Pakistan,2018,Female,75-79,843.7195
+Pakistan,2019,Female,75-79,881.59
+Pakistan,2020,Female,75-79,917.0905
+Pakistan,2021,Female,75-79,947.7225
+Indonesia,2018,Female,75-79,1938.8645
+Indonesia,2019,Female,75-79,1973.33
+Indonesia,2020,Female,75-79,1994.4865
+Indonesia,2021,Female,75-79,1995.396
+United States of America,2018,Female,75-79,4887.917
+United States of America,2019,Female,75-79,5085.9615
+United States of America,2020,Female,75-79,5235.297
+United States of America,2021,Female,75-79,5522.105
+World,2022,Female,75-79,74770.6695
+China,2022,Female,75-79,17281.721
+India,2022,Female,75-79,8529.8175
+Pakistan,2022,Female,75-79,976.595
+Indonesia,2022,Female,75-79,1988.1725
+United States of America,2022,Female,75-79,5945.42
+World,2018,Male,80-84,32830.327
+World,2019,Male,80-84,33779.419
+World,2020,Male,80-84,34587.609
+World,2021,Male,80-84,35082.949
+China,2018,Male,80-84,7672.95
+China,2019,Male,80-84,7794.768
+China,2020,Male,80-84,7916.7
+China,2021,Male,80-84,8085.536
+India,2018,Male,80-84,3670.105
+India,2019,Male,80-84,3823.1675
+India,2020,Male,80-84,3936.978
+India,2021,Male,80-84,3944.3485
+Pakistan,2018,Male,80-84,354.5745
+Pakistan,2019,Male,80-84,364.578
+Pakistan,2020,Male,80-84,373.597
+Pakistan,2021,Male,80-84,380.5765
+Indonesia,2018,Male,80-84,687.371
+Indonesia,2019,Male,80-84,707.646
+Indonesia,2020,Male,80-84,715.3345
+Indonesia,2021,Male,80-84,704.209
+United States of America,2018,Male,80-84,2584.777
+United States of America,2019,Male,80-84,2632.9675
+United States of America,2020,Male,80-84,2725.0455
+United States of America,2021,Male,80-84,2787.665
+World,2022,Male,80-84,35444.7815
+China,2022,Male,80-84,8268.2125
+India,2022,Male,80-84,3900.737
+Pakistan,2022,Male,80-84,389.0345
+Indonesia,2022,Male,80-84,689.1755
+United States of America,2022,Male,80-84,2866.9845
+World,2018,Female,80-84,48118.398
+World,2019,Female,80-84,49385.973
+World,2020,Female,80-84,50471.463
+World,2021,Female,80-84,51212.9755
+China,2018,Female,80-84,10601.8025
+China,2019,Female,80-84,10706.469
+China,2020,Female,80-84,10837.0245
+China,2021,Female,80-84,11067.766
+India,2018,Female,80-84,4751.989
+India,2019,Female,80-84,4939.995
+India,2020,Female,80-84,5084.991
+India,2021,Female,80-84,5115.3045
+Pakistan,2018,Female,80-84,413.9875
+Pakistan,2019,Female,80-84,431.6005
+Pakistan,2020,Female,80-84,449.514
+Pakistan,2021,Female,80-84,466.787
+Indonesia,2018,Female,80-84,1089.451
+Indonesia,2019,Female,80-84,1128.856
+Indonesia,2020,Female,80-84,1155.7705
+Indonesia,2021,Female,80-84,1161.0745
+United States of America,2018,Female,80-84,3443.043
+United States of America,2019,Female,80-84,3485.899
+United States of America,2020,Female,80-84,3561.5375
+United States of America,2021,Female,80-84,3656.4965
+World,2022,Female,80-84,51630.118
+China,2022,Female,80-84,11339.456
+India,2022,Female,80-84,5074.916
+Pakistan,2022,Female,80-84,485.2165
+Indonesia,2022,Female,80-84,1158.7785
+United States of America,2022,Female,80-84,3786.936
+World,2018,Male,85-89,15428.926
+World,2019,Male,85-89,15955.9695
+World,2020,Male,85-89,16353.919
+World,2021,Male,85-89,16645.3995
+China,2018,Male,85-89,3261.7155
+China,2019,Male,85-89,3439.0095
+China,2020,Male,85-89,3588.8915
+China,2021,Male,85-89,3720.9305
+India,2018,Male,85-89,1602.7255
+India,2019,Male,85-89,1685.508
+India,2020,Male,85-89,1739.5965
+India,2021,Male,85-89,1718.5755
+Pakistan,2018,Male,85-89,115.3785
+Pakistan,2019,Male,85-89,118.6435
+Pakistan,2020,Male,85-89,120.5975
+Pakistan,2021,Male,85-89,120.983
+Indonesia,2018,Male,85-89,238.2225
+Indonesia,2019,Male,85-89,247.6915
+Indonesia,2020,Male,85-89,250.2775
+Indonesia,2021,Male,85-89,242.788
+United States of America,2018,Male,85-89,1614.0875
+United States of America,2019,Male,85-89,1603.2515
+United States of America,2020,Male,85-89,1559.2005
+United States of America,2021,Male,85-89,1562.0575
+World,2022,Male,85-89,17007.5815
+China,2022,Male,85-89,3862.4205
+India,2022,Male,85-89,1671.821
+Pakistan,2022,Male,85-89,122.1935
+Indonesia,2022,Male,85-89,235.0235
+United States of America,2022,Male,85-89,1593.8765
+World,2018,Female,85-89,26821.887
+World,2019,Female,85-89,27579.1455
+World,2020,Female,85-89,28294.726
+World,2021,Female,85-89,28894.267
+China,2018,Female,85-89,5548.026
+China,2019,Female,85-89,5836.4005
+China,2020,Female,85-89,6116.0375
+China,2021,Female,85-89,6377.8755
+India,2018,Female,85-89,2147.3835
+India,2019,Female,85-89,2269.0665
+India,2020,Female,85-89,2373.9205
+India,2021,Female,85-89,2401.0775
+Pakistan,2018,Female,85-89,146.8955
+Pakistan,2019,Female,85-89,153.6535
+Pakistan,2020,Female,85-89,159.8505
+Pakistan,2021,Female,85-89,164.986
+Indonesia,2018,Female,85-89,425.8945
+Indonesia,2019,Female,85-89,448.0615
+Indonesia,2020,Female,85-89,463.198
+Indonesia,2021,Female,85-89,464.527
+United States of America,2018,Female,85-89,2326.6935
+United States of America,2019,Female,85-89,2373.926
+United States of America,2020,Female,85-89,2382.1855
+United States of America,2021,Female,85-89,2389.709
+World,2022,Female,85-89,29498.2145
+China,2022,Female,85-89,6593.628
+India,2022,Female,85-89,2383.208
+Pakistan,2022,Female,85-89,170.239
+Indonesia,2022,Female,85-89,462.2225
+United States of America,2022,Female,85-89,2410.6325
+World,2018,Male,90-94,4891.9405
+World,2019,Male,90-94,5183.7175
+World,2020,Male,90-94,5448.2315
+World,2021,Male,90-94,5626.6725
+China,2018,Male,90-94,841.5225
+China,2019,Male,90-94,894.973
+China,2020,Male,90-94,945.4955
+China,2021,Male,90-94,991.6055
+India,2018,Male,90-94,497.799
+India,2019,Male,90-94,539.388
+India,2020,Male,90-94,569.1225
+India,2021,Male,90-94,568.315
+Pakistan,2018,Male,90-94,17.784
+Pakistan,2019,Male,90-94,18.712
+Pakistan,2020,Male,90-94,19.645
+Pakistan,2021,Male,90-94,20.389
+Indonesia,2018,Male,90-94,51.117
+Indonesia,2019,Male,90-94,53.9785
+Indonesia,2020,Male,90-94,54.9715
+Indonesia,2021,Male,90-94,53.159
+United States of America,2018,Male,90-94,589.5595
+United States of America,2019,Male,90-94,606.5255
+United States of America,2020,Male,90-94,649.1265
+United States of America,2021,Male,90-94,695.4265
+World,2022,Male,90-94,5762.1855
+China,2022,Male,90-94,1041.454
+India,2022,Male,90-94,550.8465
+Pakistan,2022,Male,90-94,21.2435
+Indonesia,2022,Male,90-94,50.752
+United States of America,2022,Male,90-94,728.786
+World,2018,Female,90-94,11029.112
+World,2019,Female,90-94,11473.842
+World,2020,Female,90-94,11921.6405
+World,2021,Female,90-94,12275.325
+China,2018,Female,90-94,1976.608
+China,2019,Female,90-94,2092.8845
+China,2020,Female,90-94,2208.0205
+China,2021,Female,90-94,2323.7625
+India,2018,Female,90-94,691.449
+India,2019,Female,90-94,744.8895
+India,2020,Female,90-94,792.682
+India,2021,Female,90-94,812.0165
+Pakistan,2018,Female,90-94,31.474
+Pakistan,2019,Female,90-94,33.272
+Pakistan,2020,Female,90-94,35.006
+Pakistan,2021,Female,90-94,36.5145
+Indonesia,2018,Female,90-94,103.688
+Indonesia,2019,Female,90-94,111.231
+Indonesia,2020,Female,90-94,116.796
+Indonesia,2021,Female,90-94,118.1735
+United States of America,2018,Female,90-94,1084.943
+United States of America,2019,Female,90-94,1049.5415
+United States of America,2020,Female,90-94,1080.675
+United States of America,2021,Female,90-94,1143.976
+World,2022,Female,90-94,12573.5195
+China,2022,Female,90-94,2440.107
+India,2022,Female,90-94,810.306
+Pakistan,2022,Female,90-94,38.051
+Indonesia,2022,Female,90-94,117.69
+United States of America,2022,Female,90-94,1214.699
+World,2018,Male,95-99,878.8895
+World,2019,Male,95-99,953.549
+World,2020,Male,95-99,1013.4925
+World,2021,Male,95-99,1069.1625
+China,2018,Male,95-99,83.7135
+China,2019,Male,95-99,94.904
+China,2020,Male,95-99,106.267
+China,2021,Male,95-99,114.829
+India,2018,Male,95-99,95.3355
+India,2019,Male,95-99,106.0505
+India,2020,Male,95-99,115.542
+India,2021,Male,95-99,119.5825
+Pakistan,2018,Male,95-99,0.237
+Pakistan,2019,Male,95-99,0.276
+Pakistan,2020,Male,95-99,0.376
+Pakistan,2021,Male,95-99,0.5265
+Indonesia,2018,Male,95-99,5.8355
+Indonesia,2019,Male,95-99,6.2285
+Indonesia,2020,Male,95-99,6.448
+Indonesia,2021,Male,95-99,6.364
+United States of America,2018,Male,95-99,142.2955
+United States of America,2019,Male,95-99,150.7065
+United States of America,2020,Male,95-99,148.438
+United States of America,2021,Male,95-99,153.3075
+World,2022,Male,95-99,1125.8725
+China,2022,Male,95-99,123.3885
+India,2022,Male,95-99,120.1485
+Pakistan,2022,Male,95-99,0.7935
+Indonesia,2022,Male,95-99,6.1925
+United States of America,2022,Male,95-99,164.2085
+World,2018,Female,95-99,2778.961
+World,2019,Female,95-99,2964.3735
+World,2020,Female,95-99,3115.8625
+World,2021,Female,95-99,3252.813
+China,2018,Female,95-99,353.081
+China,2019,Female,95-99,391.8445
+China,2020,Female,95-99,432.2475
+China,2021,Female,95-99,464.7165
+India,2018,Female,95-99,139.933
+India,2019,Female,95-99,154.076
+India,2020,Female,95-99,167.892
+India,2021,Female,95-99,176.266
+Pakistan,2018,Female,95-99,2.01
+Pakistan,2019,Female,95-99,2.383
+Pakistan,2020,Female,95-99,2.7895
+Pakistan,2021,Female,95-99,3.2455
+Indonesia,2018,Female,95-99,13.9495
+Indonesia,2019,Female,95-99,14.9795
+Indonesia,2020,Female,95-99,15.8755
+Indonesia,2021,Female,95-99,16.318
+United States of America,2018,Female,95-99,358.4025
+United States of America,2019,Female,95-99,351.048
+United States of America,2020,Female,95-99,331.3545
+United States of America,2021,Female,95-99,338.595
+World,2022,Female,95-99,3378.364
+China,2022,Female,95-99,494.883
+India,2022,Female,95-99,179.824
+Pakistan,2022,Female,95-99,3.732
+Indonesia,2022,Female,95-99,16.53
+United States of America,2022,Female,95-99,355.419
+World,2018,Male,100+,87.3045
+World,2019,Male,100+,93.3745
+World,2020,Male,100+,103.22
+World,2021,Male,100+,113.2575
+China,2018,Male,100+,1.4075
+China,2019,Male,100+,1.678
+China,2020,Male,100+,2.0655
+China,2021,Male,100+,2.508
+India,2018,Male,100+,12.1025
+India,2019,Male,100+,13.7245
+India,2020,Male,100+,15.1505
+India,2021,Male,100+,15.833
+Pakistan,2018,Male,100+,0.0165
+Pakistan,2019,Male,100+,0.0145
+Pakistan,2020,Male,100+,0.013
+Pakistan,2021,Male,100+,0.0065
+Indonesia,2018,Male,100+,0.3465
+Indonesia,2019,Male,100+,0.367
+Indonesia,2020,Male,100+,0.3785
+Indonesia,2021,Male,100+,0.3745
+United States of America,2018,Male,100+,15.2465
+United States of America,2019,Male,100+,16.9625
+United States of America,2020,Male,100+,19.6275
+United States of America,2021,Male,100+,22.304
+World,2022,Male,100+,121.0685
+China,2022,Male,100+,3.2245
+India,2022,Male,100+,15.8755
+Pakistan,2022,Male,100+,0.006
+Indonesia,2022,Male,100+,0.365
+United States of America,2022,Male,100+,24.792
+World,2018,Female,100+,388.617
+World,2019,Female,100+,410.1975
+World,2020,Female,100+,444.323
+World,2021,Female,100+,479.9085
+China,2018,Female,100+,26.3005
+China,2019,Female,100+,29.6585
+China,2020,Female,100+,33.8785
+China,2021,Female,100+,38.4645
+India,2018,Female,100+,17.9825
+India,2019,Female,100+,20.1465
+India,2020,Female,100+,22.2245
+India,2021,Female,100+,23.5855
+Pakistan,2018,Female,100+,0.024
+Pakistan,2019,Female,100+,0.023
+Pakistan,2020,Female,100+,0.0245
+Pakistan,2021,Female,100+,0.025
+Indonesia,2018,Female,100+,1.053
+Indonesia,2019,Female,100+,1.116
+Indonesia,2020,Female,100+,1.163
+Indonesia,2021,Female,100+,1.1765
+United States of America,2018,Female,100+,60.3115
+United States of America,2019,Female,100+,61.9925
+United States of America,2020,Female,100+,64.941
+United States of America,2021,Female,100+,67.435
+World,2022,Female,100+,511.744
+China,2022,Female,100+,43.131
+India,2022,Female,100+,24.366
+Pakistan,2022,Female,100+,0.0325
+Indonesia,2022,Female,100+,1.176
+United States of America,2022,Female,100+,70.9525
+Australia,2018,Female,0-4,764.4125
+Australia,2019,Female,0-4,762.271
+Australia,2020,Female,0-4,756.3795
+Australia,2021,Female,0-4,747.1985
+Australia,2018,Female,5-9,780.873
+Australia,2019,Female,5-9,786.0865
+Australia,2020,Female,5-9,788.3605
+Australia,2021,Female,5-9,789.216
+Australia,2018,Female,10-14,736.322
+Australia,2019,Female,10-14,755.543
+Australia,2020,Female,10-14,771.013
+Australia,2021,Female,10-14,780.947
+Australia,2018,Female,15-19,725.7735
+Australia,2019,Female,15-19,727.024
+Australia,2020,Female,15-19,726.242
+Australia,2021,Female,15-19,731.661
+Australia,2018,Female,20-24,848.647
+Australia,2019,Female,20-24,850.3155
+Australia,2020,Female,20-24,838.9435
+Australia,2021,Female,20-24,821.2285
+Australia,2018,Female,25-29,937.1345
+Australia,2019,Female,25-29,949.3185
+Australia,2020,Female,25-29,953.981
+Australia,2021,Female,25-29,948.8265
+Australia,2018,Female,30-34,941.588
+Australia,2019,Female,30-34,960.37
+Australia,2020,Female,30-34,976.6855
+Australia,2021,Female,30-34,986.865
+Australia,2018,Female,35-39,865.0465
+Australia,2019,Female,35-39,897.3355
+Australia,2020,Female,35-39,926.319
+Australia,2021,Female,35-39,948.8215
+Australia,2018,Female,40-44,802.206
+Australia,2019,Female,40-44,805.752
+Australia,2020,Female,40-44,817.6195
+Australia,2021,Female,40-44,836.0105
+Australia,2018,Female,45-49,849.2
+Australia,2019,Female,45-49,852.269
+Australia,2020,Female,45-49,847.0585
+Australia,2021,Female,45-49,834.102
+Australia,2018,Female,50-54,780.462
+Australia,2019,Female,50-54,786.481
+Australia,2020,Female,50-54,801.2615
+Australia,2021,Female,50-54,822.5325
+Australia,2018,Female,55-59,778.5835
+Australia,2019,Female,55-59,785.8375
+Australia,2020,Female,55-59,786.733
+Australia,2021,Female,55-59,783.0385
+Australia,2018,Female,60-64,697.6895
+Australia,2019,Female,60-64,712.6805
+Australia,2020,Female,60-64,728.1805
+Australia,2021,Female,60-64,743.6775
+Australia,2018,Female,65-69,617.71
+Australia,2019,Female,65-69,629.4095
+Australia,2020,Female,65-69,641.4675
+Australia,2021,Female,65-69,654.2535
+Australia,2018,Female,70-74,515.6005
+Australia,2019,Female,70-74,539
+Australia,2020,Female,70-74,559.631
+Australia,2021,Female,70-74,575.1715
+Australia,2018,Female,75-79,367.8515
+Australia,2019,Female,75-79,383.4815
+Australia,2020,Female,75-79,401.4655
+Australia,2021,Female,75-79,423.6675
+Australia,2018,Female,80-84,267.8495
+Australia,2019,Female,80-84,277.293
+Australia,2020,Female,80-84,286.887
+Australia,2021,Female,80-84,296.4245
+Australia,2018,Female,85-89,183.822
+Australia,2019,Female,85-89,184.406
+Australia,2020,Female,85-89,186.406
+Australia,2021,Female,85-89,189.7105
+Australia,2018,Female,90-94,97.3695
+Australia,2019,Female,90-94,99.97
+Australia,2020,Female,90-94,101.445
+Australia,2021,Female,90-94,102.1935
+Australia,2018,Female,95-99,27.489
+Australia,2019,Female,95-99,29.6895
+Australia,2020,Female,95-99,31.61
+Australia,2021,Female,95-99,33.1235
+Australia,2018,Female,100+,3.4545
+Australia,2019,Female,100+,3.7175
+Australia,2020,Female,100+,4.151
+Australia,2021,Female,100+,4.671
+Australia,2022,Female,0-4,742.644
+Australia,2022,Female,5-9,786.2745
+Australia,2022,Female,10-14,786.847
+Australia,2022,Female,15-19,745.834
+Australia,2022,Female,20-24,806.5175
+Australia,2022,Female,25-29,940.873
+Australia,2022,Female,30-34,994.2285
+Australia,2022,Female,35-39,967.098
+Australia,2022,Female,40-44,860.8665
+Australia,2022,Female,45-49,821.558
+Australia,2022,Female,50-54,842.34
+Australia,2022,Female,55-59,779.14
+Australia,2022,Female,60-64,757.735
+Australia,2022,Female,65-69,668.148
+Australia,2022,Female,70-74,583.963
+Australia,2022,Female,75-79,451.7485
+Australia,2022,Female,80-84,306.76
+Australia,2022,Female,85-89,194.942
+Australia,2022,Female,90-94,102.42
+Australia,2022,Female,95-99,34.0375
+Australia,2022,Female,100+,5.0905
+Australia,2018,Male,0-4,808.1795
+Australia,2019,Male,0-4,806.44
+Australia,2020,Male,0-4,800.287
+Australia,2021,Male,0-4,790.2745
+Australia,2018,Male,5-9,822.821
+Australia,2019,Male,5-9,828.2435
+Australia,2020,Male,5-9,830.864
+Australia,2021,Male,5-9,832.395
+Australia,2018,Male,10-14,778.53
+Australia,2019,Male,10-14,797.7425
+Australia,2020,Male,10-14,812.767
+Australia,2021,Male,10-14,822.536
+Australia,2018,Male,15-19,765.3185
+Australia,2019,Male,15-19,766.4325
+Australia,2020,Male,15-19,764.329
+Australia,2021,Male,15-19,770.035
+Australia,2018,Male,20-24,890.534
+Australia,2019,Male,20-24,893.872
+Australia,2020,Male,20-24,880.8915
+Australia,2021,Male,20-24,861.463
+Australia,2018,Male,25-29,941.2235
+Australia,2019,Male,25-29,961.5035
+Australia,2020,Male,25-29,977.0135
+Australia,2021,Male,25-29,980.407
+Australia,2018,Male,30-34,920.9355
+Australia,2019,Male,30-34,937.815
+Australia,2020,Male,30-34,956.086
+Australia,2021,Male,30-34,970.414
+Australia,2018,Male,35-39,857.2125
+Australia,2019,Male,35-39,886.583
+Australia,2020,Male,35-39,912.631
+Australia,2021,Male,35-39,931.951
+Australia,2018,Male,40-44,794.025
+Australia,2019,Male,40-44,797.583
+Australia,2020,Male,40-44,809.854
+Australia,2021,Male,40-44,828.6175
+Australia,2018,Male,45-49,817.159
+Australia,2019,Male,45-49,824.298
+Australia,2020,Male,45-49,824.778
+Australia,2021,Male,45-49,817.9375
+Australia,2018,Male,50-54,750.5
+Australia,2019,Male,50-54,753.5145
+Australia,2020,Male,50-54,766.23
+Australia,2021,Male,50-54,785.9345
+Australia,2018,Male,55-59,748.8435
+Australia,2019,Male,55-59,755.7615
+Australia,2020,Male,55-59,757.095
+Australia,2021,Male,55-59,753.5555
+Australia,2018,Male,60-64,662.0585
+Australia,2019,Male,60-64,676.2075
+Australia,2020,Male,60-64,691.276
+Australia,2021,Male,60-64,706.538
+Australia,2018,Male,65-69,590.4905
+Australia,2019,Male,65-69,595.8875
+Australia,2020,Male,65-69,603.487
+Australia,2021,Male,65-69,613.517
+Australia,2018,Male,70-74,497.18
+Australia,2019,Male,70-74,518.444
+Australia,2020,Male,70-74,535.4605
+Australia,2021,Male,70-74,546.492
+Australia,2018,Male,75-79,335.1375
+Australia,2019,Male,75-79,351.406
+Australia,2020,Male,75-79,369.566
+Australia,2021,Male,75-79,391.551
+Australia,2018,Male,80-84,218.8325
+Australia,2019,Male,80-84,228.854
+Australia,2020,Male,80-84,239.5965
+Australia,2021,Male,80-84,250.3595
+Australia,2018,Male,85-89,127.255
+Australia,2019,Male,85-89,129.3835
+Australia,2020,Male,85-89,132.7455
+Australia,2021,Male,85-89,137.125
+Australia,2018,Male,90-94,52.95
+Australia,2019,Male,90-94,56.412
+Australia,2020,Male,90-94,58.901
+Australia,2021,Male,90-94,60.557
+Australia,2018,Male,95-99,10.1115
+Australia,2019,Male,95-99,11.5515
+Australia,2020,Male,95-99,13.146
+Australia,2021,Male,95-99,14.619
+Australia,2018,Male,100+,0.848
+Australia,2019,Male,100+,0.984
+Australia,2020,Male,100+,1.206
+Australia,2021,Male,100+,1.4695
+Australia,2022,Male,0-4,784.864
+Australia,2022,Male,5-9,829.9015
+Australia,2022,Male,10-14,828.535
+Australia,2022,Male,15-19,785.0155
+Australia,2022,Male,20-24,845.0515
+Australia,2022,Male,25-29,977.3495
+Australia,2022,Male,30-34,984.2735
+Australia,2022,Male,35-39,947.1665
+Australia,2022,Male,40-44,853.4265
+Australia,2022,Male,45-49,810.1025
+Australia,2022,Male,50-54,805.761
+Australia,2022,Male,55-59,748.378
+Australia,2022,Male,60-64,721.104
+Australia,2022,Male,65-69,625.03
+Australia,2022,Male,70-74,550.286
+Australia,2022,Male,75-79,418.7825
+Australia,2022,Male,80-84,261.3425
+Australia,2022,Male,85-89,143.0065
+Australia,2022,Male,90-94,61.503
+Australia,2022,Male,95-99,15.781
+Australia,2022,Male,100+,1.6875

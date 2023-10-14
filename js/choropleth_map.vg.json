@@ -1,76 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 1000,
+  "width": "container",
   "height": 400,
   "projection": {"type": "equalEarth"},
-  "params": [
-    {
-    "name": "Year_selection",
-    "value": 2022,
-    "bind": {
-      "input": "range", 
-      "min": 2018, 
-      "max": 2022, 
-      "step": 1,
-      "name": "Year"
-      }
-    }
-  ],
   "layer": [
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/world-population.csv"
-      },
-      "transform": [
-        {"filter": "datum.Year == Year_selection"},
-        {
-          "lookup": "Country",
-          "from": {
-            "data": {
-              "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/js/ne_110m_admin_0_countries.topojson",
-              "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-            },
-            "key": "properties.NAME"
-          },
-          "as": "geo"
-        },
-        {"calculate": "datum.Population/datum.Area", "as": "Population per Area Size"}
-      ],
-      "mark": {"type": "geoshape", "stroke": "white"},
-      "encoding": {
-        "shape": {
-          "field": "geo",
-          "type": "geojson"
-        }, 
-        "color": {
-          "field": "Population per Area Size",
-          "type": "quantitative",
-          "scale": {
-            "domain": [
-              0,
-              100,
-              150,
-              200,
-              250,
-              300
-            ],
-            "range": ["white", "darkred"]
-          },
-          "legend": {"orient": "bottom-right"}
-        }, 
-        "tooltip": [
-          {"field": "Country", "type": "nominal", "title":"Country Name"},
-          {"field": "Country Code", "type": "nominal", "title": "Country Code"},
-          {
-            "field": "Population", "type": "quantitative", "title": "Population", "format": ","
-          },
-          {
-            "field": "Area", "type": "quantitative", "title": "Area (sq. mi.)", "format": ","
-          },
-          {"field": "Population per Area Size", "type": "quantitative", "title": "Population per Area Size", "format":".1"}
-        ]
-      }
-    },
     {
       "data": {
               "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/js/ne_110m_admin_0_countries.topojson",
@@ -87,7 +20,7 @@
           },
           "as": "popData"
         },
-        {"filter": "!datum.popData || (datum.popData && datum.popData.Year !== Year_selection)"},
+        {"filter": "!datum.popData || (datum.popData && datum.popData.Year !== 2022)"},
         {"filter": "!datum.popData"},
         {
           "calculate": "'Data is not available in ' + datum.properties.NAME",
@@ -102,7 +35,7 @@
         "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/js/oceans.topojson",
         "format": {"type": "topojson", "feature": "oceans"}
       },
-      "mark": {"type": "geoshape", "fill": "#87CEEB"}
+      "mark": {"type": "geoshape", "fill": "lightblue", "stroke": "lightblue"}
     },
     {
       "data": {
@@ -110,7 +43,66 @@
         "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
       "mark": {"type": "geoshape", "fill": null, "stroke": "#E5E4E2"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/world-population.csv"
+      },
+      "transform": [
+        {"filter": "datum.Year == 2022"},
+        {
+          "lookup": "Country",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/js/ne_110m_admin_0_countries.topojson",
+              "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+            },
+            "key": "properties.NAME"
+          },
+          "as": "geo"
+        },
+        {"calculate": "datum.Population/datum.Area", "as": "Population per Area Size"}
+      ],
+      "mark": {"type": "geoshape", "stroke": "#f0f0f0", "cursor":"pointer","strokeWidth": 1},
+      "encoding": {
+        "shape": {
+          "field": "geo",
+          "type": "geojson"
+        }, 
+        "color": {
+          "field": "Population per Area Size",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [
+              0,
+              20,
+              50,
+              100,
+              250,
+              500,
+              1000,
+              5000,
+              10000,
+              20000
+            ],
+            "scheme": "reds"
+          },
+          "legend": {"orient": "right"},
+          "title": "Density"
+        }, 
+        "tooltip": [
+          {"field": "Country", "type": "nominal", "title":"Country Name"},
+          {"field": "Country Code", "type": "nominal", "title": "Country Code"},
+          {
+            "field": "Population", "type": "quantitative", "title": "Population", "format": ","
+          },
+          {
+            "field": "Area", "type": "quantitative", "title": "Area (sq. mi.)", "format": ","
+          },
+          {"field": "Population per Area Size", "type": "quantitative", "title": "Population Density", "format":".1"}
+        ]
+      }
     }
-  ],
-  "config": {}
+  ]
 }

@@ -1,29 +1,37 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "height": 500,
   "hconcat": [
     {
       "layer": [
         {
+          "width": 154,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='Oceania'"}],
           "layer":[
             {
               "mark": {
                 "type": "text",
-                "x": 70,
+                "x": 77,
                 "y": 20,
-                "fontSize": 12,
-                "opacity": 0.5
+                "fontSize": 16, "fontWeight":"bold",
+                "opacity": 0.5, "color": "#BF40BF"
               },
               "encoding": {
                 "text": {"field": "Continents"}
               }
             },
             {
+              "mark": {"type": "text", "color": "#BF40BF", "fontSize": 12},
+              "encoding": {
+                "x": {"datum": "2020"},
+                "y": {"value": 165}, 
+                "text": {"value": "9.38M"}
+              }
+            },
+            {
               "mark": {"type": "area", "line": true, "point": true, "color": "#C3B1E1"},
               "encoding": {
-                "x": {"field": "Year", "type": "ordinal"},
+                "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
@@ -35,7 +43,7 @@
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#BF40BF"},
+              "mark": {"type": "point", "line": true, "point": true, "color": "#BF40BF", "cursor":"pointer"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -48,37 +56,46 @@
     {
       "layer": [
         {
+          "width": 154,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='South America'"}],
           "layer":[
             {
               "mark": {
                 "type": "text",
-                "x": 70,
+                "x": 77,
                 "y": 20,
-                "fontSize": 12,
-                "opacity": 0.5
+                "fontSize": 16, "fontWeight":"bold",
+                "opacity": 0.5, "color": "#FFC000"
               },
               "encoding": {
                 "text": {"field": "Continents"}
               }
             },
             {
-              "mark": {"type": "area", "line": true, "point": true, "color": "#FFE5B4"},
+              "mark": {"type": "text", "color": "#FFC000", "fontSize": 12},
+              "encoding": {
+                "x": {"datum": "2020"},
+                "y": {"value": 155}, 
+                "text": {"value": "14.8M"}
+              }
+            },
+            {
+              "mark": {"type": "area", "line": true, "point": true, "color": "#FFEA00"},
+              "encoding": {
+                "x": {"field": "Year", "type": "ordinal", "title": null},
+                "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
+              }
+            },
+            {
+              "mark": {"type": "line", "line": true, "point": true, "color": "#FFC000"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "line", "line": true, "point": true, "color": "#FAD5A5"},
-              "encoding": {
-                "x": {"field": "Year", "type": "ordinal"},
-                "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
-              }
-            },
-            {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#FAD5A5"},
+              "mark": {"type": "point", "line": true, "point": true, "color": "#FFC000", "cursor":"pointer"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -91,25 +108,34 @@
     {
       "layer": [
         {
+          "width": 154,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='Africa'"}],
           "layer":[
             {
               "mark": {
                 "type": "text",
-                "x": 70,
+                "x": 77,
                 "y": 20,
-                "fontSize": 12,
-                "opacity": 0.5
+                "fontSize": 16, "fontWeight":"bold",
+                "opacity": 0.5, "color": "#6F8FAF"
               },
               "encoding": {
                 "text": {"field": "Continents"}
               }
             },
             {
+              "mark": {"type": "text", "color": "#6F8FAF", "fontSize": 12},
+              "encoding": {
+                "x": {"datum": "2020"},
+                "y": {"value": 135}, 
+                "text": {"value": "25.4M"}
+              }
+            },
+            {
               "mark": {"type": "area", "line": true, "point": true, "color": "#A7C7E7"},
               "encoding": {
-                "x": {"field": "Year", "type": "ordinal"},
+                "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
@@ -121,7 +147,7 @@
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#6F8FAF"},
+              "mark": {"type": "point", "line": true, "point": true, "color": "#6F8FAF", "cursor":"pointer"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -134,25 +160,34 @@
     {
       "layer": [
         {
+          "width": 154,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='North America'"}],
           "layer":[
             {
               "mark": {
                 "type": "text",
-                "x": 70,
+                "x": 77,
                 "y": 20,
-                "fontSize": 12,
-                "opacity": 0.5
+                "fontSize": 16, "fontWeight":"bold",
+                "opacity": 0.5, "color": "#E37383"
               },
               "encoding": {
                 "text": {"field": "Continents"}
               }
             },
             {
+              "mark": {"type": "text", "color": "#E37383", "fontSize": 12},
+              "encoding": {
+                "x": {"datum": "2020"},
+                "y": {"value": 65}, 
+                "text": {"value": "58.7M"}
+              }
+            },
+            {
               "mark": {"type": "area", "line": true, "point": true, "color":"#F8C8DC"},
               "encoding": {
-                "x": {"field": "Year", "type": "ordinal"},
+                "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
@@ -164,7 +199,7 @@
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#E37383"},
+              "mark": {"type": "point", "line": true, "point": true, "color": "#E37383", "cursor":"pointer"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -177,25 +212,34 @@
     {
       "layer": [
         {
+          "width": 154,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='Asia'"}],
           "layer":[
             {
               "mark": {
                 "type": "text",
-                "x": 70,
+                "x": 77,
                 "y": 20,
-                "fontSize": 12,
-                "opacity": 0.5
+                "fontSize": 16, "fontWeight":"bold",
+                "opacity": 0.5, "color": "#478778"
               },
               "encoding": {
                 "text": {"field": "Continents"}
               }
             },
             {
+              "mark": {"type": "text", "color": "#478778", "fontSize": 12},
+              "encoding": {
+                "x": {"datum": "2020"},
+                "y": {"value": 15}, 
+                "text": {"value": "85.6M"}
+              }
+            },
+            {
               "mark": {"type": "area", "line": true, "point": true, "color": "#C1E1C1"},
               "encoding": {
-                "x": {"field": "Year", "type": "ordinal"},
+                "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
@@ -207,7 +251,7 @@
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#478778"},
+              "mark": {"type": "point", "line": true, "point": true, "color": "#478778", "cursor":"pointer"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -220,26 +264,35 @@
     {
       "layer": [
         {
+          "width": 154,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='Europe'"}],
           "layer":[
             {
               "mark": {
                 "type": "text",
-                "x": 70,
+                "x": 77,
                 "y": 20,
-                "fontSize": 12,
-                "opacity": 0.5
+                "fontSize": 16, "fontWeight":"bold",
+                "opacity": 0.5, "color": "#FA8072"
               },
               "encoding": {
                 "text": {"field": "Continents"}
               }
             },
             {
+              "mark": {"type": "text", "color": "#FA8072", "fontSize": 12},
+              "encoding": {
+                "x": {"datum": "2020"},
+                "y": {"value": 15}, 
+                "text": {"value": "86.7M"}
+              }
+            },
+            {
               "mark": {"type": "area", "line": true, "point": true, "color": "#FAC898"},
               "encoding": {
-                "x": {"field": "Year", "type": "ordinal"},
-                "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": {"labelExpr": "datum.value / 10000000", "title": "Migrant Stock (millions)", "orient": "right", "grid": false}}
+                "x": {"field": "Year", "type": "ordinal", "title": null},
+                "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": {"labelExpr": "datum.value / 1000000", "title": "Migrant Stock (millions)", "orient": "right", "grid": false}}
               }
             },
             {
@@ -250,7 +303,7 @@
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#FA8072"},
+              "mark": {"type": "point", "line": true, "point": true, "color": "#FA8072", "cursor":"pointer"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": {"orient": "right", "grid": false}}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]

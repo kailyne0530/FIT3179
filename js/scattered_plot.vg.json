@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "An interactive scatter plot of global health statistics by country and year.",
   "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/birth-death.csv"},
-  "width": 1000,
+  "width": 1100,
   "height": 400, 
   "params": [
     {
@@ -39,7 +39,8 @@
             "type": "line",
             "size": 4,
             "color": "lightgray",
-            "strokeCap": "round"
+            "strokeCap": "round",
+            "cursor": "pointer"
           },
           "encoding": {
             "x": {
@@ -89,7 +90,8 @@
             "mark": {
               "type": "point",
               "filled": true,
-              "opacity": 0.8
+              "opacity": 0.8,
+              "cursor": "pointer"
             },
             "encoding": {
               "x": {
@@ -97,14 +99,14 @@
                 "type": "quantitative",
                 "scale": {"domain": [0, 25]},
                 "axis": {"tickCount": 5}, 
-                "title": "Death Rate (per 1000 populations)"
+                "title": "Death Rate (per 1,000 population)"
               },
               "y": {
                 "field": "Birth Rate",
                 "type": "quantitative",
                 "scale": {"domain": [0, 50]},
                 "axis": {"tickCount": 5}, 
-                "title": "Birth Rate (per 1000 populations)"
+                "title": "Birth Rate (per 1,000 population)"
               },
               "color": {
                 "field": "Continent", 

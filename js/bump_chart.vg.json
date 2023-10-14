@@ -1,0 +1,90 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.1.0.json",
+  "width": 500,
+  "height": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/top10-countries.csv"
+  },
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 2018,
+        "max": 2022,
+        "step": 1,
+        "name": "Year"
+      }
+    }
+  ],
+  "transform": [
+    {
+      "sort": [{"field": "Value", "order": "descending"}],
+      "window": [{"op": "rank", "as": "rank"}],
+      "groupby": ["Factors"]
+    },
+    {
+      "lookup": "Country",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/BumpChart/flags.csv"
+        },
+        "key": "Country",
+        "fields": ["ImageURL"]
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Factors",
+      "type": "ordinal",
+      "sort": "ascending",
+      "title": "Factors",
+      "axis": {
+        "grid": true,
+        "domain": false,
+        "ticks": true,
+        "offset": 20,
+        "labelAngle": 0
+      }
+    },
+    "y": {
+      "field": "Rank",
+      "type": "ordinal",
+      "axis": {"labels": true, "grid": false, "domain": false, "offset": -10},
+      "sort": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+    },
+    "color": {"field": "Country", "type": "nominal"}
+  },
+  "layer": [
+    {
+      "transform": [
+        {
+          "filter": "datum.Year == Year_selection"
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "size": 4,
+        "point": {
+          "filled": false,
+          "fill": "white",
+          "size": 80,
+          "strokeWidth": 4
+        }
+      },
+      "encoding": {"color": {"field": "Country"}, "opacity": {"value": 0.8}}
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.Year == Year_selection"
+        }
+      ],
+      "mark": {"type": "image", "width": 40, "height": 20, "cursor": "pointer"},
+      "encoding": {"url": {"field": "ImageURL", "type": "nominal"}, "tooltip": [{"field": "Factors", "type": "ordinal"}, {"field": "Value", "type": "quantitative"}, {"field": "Country", "type": "ordinal"}, {"field": "Rank", "type": "ordinal"}]}
+    }
+  ],
+  "config": {"style": {"cell": {"stroke": "transparent"}}}
+}

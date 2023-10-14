@@ -6,7 +6,7 @@
   },
   "layer": [
     {
-      "mark": "line",
+      "mark": {"type":"line", "cursor": "pointer"},
       "encoding": {
         "x": {
           "field": "Year",
@@ -15,7 +15,8 @@
             "values": ["1950", "1980", "2010", "2040", "2070", "2100"],
             "labelAngle": 0,
             "grid": true
-          }
+          },
+          "title": null
         },
         "y": {
           "field": "PopTotal",
@@ -36,21 +37,116 @@
     },
     {
       "transform": [
-        {"filter": "datum.Year == '2022'"}
+        {"filter": "datum.Year == '2023'"}
       ],
-      "mark": {"type": "rule"},
+      "mark": {"type": "circle", "point": true, "cursor": "pointer"},
       "encoding": {
-        "x": {"datum": "2022", "type": "ordinal"},
-        "y": {"field": "PopTotal", "type": "quantitative"}
+        "x": {"datum": "2023", "type": "ordinal"},
+        "y": {"field": "PopTotal", "type": "quantitative"},
+        "tooltip": [
+          {"field": "Year", "type": "nominal"},
+          {
+            "field": "PopTotal",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Population (billions)"
+          }
+        ],
+        "size": {"value": 60}
       }
     },
     {
-      "mark": "text",
+      "transform": [
+        {"filter": "datum.Year == '2100'"}
+      ],
+      "mark": {"type": "circle", "point": true, "cursor": "pointer"},
       "encoding": {
-        "x": {"datum": "2022"},
-        "y": {"value": 40}, 
-        "text": {"value": "2022"}
+        "x": {"datum": "2100", "type": "ordinal"},
+        "y": {"field": "PopTotal", "type": "quantitative"},
+        "tooltip": [
+          {"field": "Year", "type": "nominal"},
+          {
+            "field": "PopTotal",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Population (billions)"
+          }
+        ],
+        "size": {"value": 60}
+      }
+    },
+    {
+      "transform": [
+        {"filter": "datum.Year == '2086'"}
+      ],
+      "mark": {"type": "circle", "point": true, "cursor": "pointer"},
+      "encoding": {
+        "x": {"datum": "2086", "type": "ordinal"},
+        "y": {"field": "PopTotal", "type": "quantitative"},
+        "tooltip": [
+          {"field": "Year", "type": "nominal"},
+          {
+            "field": "PopTotal",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Population (billions)"
+          }
+        ],
+        "size": {"value": 60},
+        "color": {"value": "red"}
+      }
+    },
+    {
+      "mark": {"type": "text", "fontWeight": "bold"},
+      "encoding": {
+        "x": {"datum": "2023"},
+        "y": {"value": 70}, 
+        "text": {"value": "8.0 B"}
+      }
+    },
+    {
+      "mark": {"type": "text", "fontWeight": "lighter"},
+      "encoding": {
+        "x": {"datum": "2023"},
+        "y": {"value": 85}, 
+        "text": {"value": "people globally"}
+      }
+    },
+    {
+      "mark": {"type": "text", "fontWeight": "lighter"},
+      "encoding": {
+        "x": {"datum": "2023"},
+        "y": {"value": 98}, 
+        "text": {"value": "in 2023"}
+      }
+    },
+    {
+      "mark": {"type": "text", "fontWeight": "bold"},
+      "encoding": {
+        "x": {"datum": "2100"},
+        "y": {"value": 30}, 
+        "text": {"value": "10.3 B"}
+      }
+    },
+    {
+      "mark": {"type": "text", "fontWeight": "lighter"},
+      "encoding": {
+        "x": {"datum": "2100"},
+        "y": {"value": 45}, 
+        "text": {"value": "people globally"}
+      }
+    },
+    {
+      "mark": {"type": "text", "fontWeight": "lighter"},
+      "encoding": {
+        "x": {"datum": "2100"},
+        "y": {"value": 58}, 
+        "text": {"value": "in 2100"}
       }
     }
-  ]
+  ],
+  "config": {
+    "background": "transparent",
+    "font": "Open Sans"
+  }
 }

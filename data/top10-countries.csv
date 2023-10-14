@@ -1,31 +1,151 @@
-Country,Factors,Value,Rank
-Philippines,Birth Rate,21.618,1
-Australia,Birth Rate,19.31,2
-Indonesia,Birth Rate,16.267,3
-Japan,Birth Rate,16.196,4
-Malaysia,Birth Rate,15.016,5
-United States,Birth Rate,11.5,6
-United Kingdom,Birth Rate,11.033,7
-South Africa,Birth Rate,10.039,8
-China,Birth Rate,7.544,9
-India,Birth Rate,6.576,10
-India,Death Rate,12.655,1
-Australia,Death Rate,12.032,2
-Japan,Death Rate,9.59,3
-United Kingdom,Death Rate,9.31,4
-South Africa,Death Rate,9.098,5
-Indonesia,Death Rate,9.074,6
-China,Death Rate,7.379,7
-United States,Death Rate,6.816,8
-Philippines,Death Rate,5.568,9
-Malaysia,Death Rate,5.443,10
-United States,Migration Rate,5.362,1
-United Kingdom,Migration Rate,2.956,2
-South Africa,Migration Rate,2.459,3
-Malaysia,Migration Rate,1.445,4
-Australia,Migration Rate,0.977,5
-India,Migration Rate,0.807,6
-Japan,Migration Rate,-0.181,10
-China,Migration Rate,-0.218,9
-Indonesia,Migration Rate,-0.344,8
-Philippines,Migration Rate,-0.606,7
+Year,Country,Factors,Value,Rank
+2022,Australia,Birth Rate,19.31,2
+2022,Australia,Death Rate,12.032,2
+2022,Australia,Migration Rate,0.977,5
+2022,China,Birth Rate,7.544,9
+2022,China,Death Rate,7.379,7
+2022,China,Migration Rate,-0.218,9
+2022,India,Birth Rate,6.576,10
+2022,India,Death Rate,12.655,1
+2022,India,Migration Rate,0.807,6
+2022,Indonesia,Birth Rate,16.267,3
+2022,Indonesia,Death Rate,9.074,6
+2022,Indonesia,Migration Rate,-0.344,8
+2022,Japan,Birth Rate,16.196,4
+2022,Japan,Death Rate,9.59,3
+2022,Japan,Migration Rate,-0.181,10
+2022,Malaysia,Birth Rate,15.016,5
+2022,Malaysia,Death Rate,5.443,10
+2022,Malaysia,Migration Rate,1.445,4
+2022,Philippines,Birth Rate,21.618,1
+2022,Philippines,Death Rate,5.568,9
+2022,Philippines,Migration Rate,-0.606,7
+2022,South Africa,Birth Rate,10.039,8
+2022,South Africa,Death Rate,9.098,5
+2022,South Africa,Migration Rate,2.459,3
+2022,United Kingdom,Birth Rate,11.033,7
+2022,United Kingdom,Death Rate,9.31,4
+2022,United Kingdom,Migration Rate,2.956,2
+2022,United States,Birth Rate,11.5,6
+2022,United States,Death Rate,6.816,8
+2022,United States,Migration Rate,5.362,1
+2021,Philippines,Birth Rate,21.813,1
+2021,Australia,Birth Rate,19.821,2
+2021,Japan,Birth Rate,16.425,3
+2021,Indonesia,Birth Rate,16.419,4
+2021,Malaysia,Birth Rate,15.24,5
+2021,United States,Birth Rate,11.542,6
+2021,United Kingdom,Birth Rate,11.056,7
+2021,South Africa,Birth Rate,10.081,8
+2021,China,Birth Rate,7.633,9
+2021,India,Birth Rate,6.571,10
+2021,India,Death Rate,12.64,1
+2021,Australia,Death Rate,11.432,2
+2021,Japan,Death Rate,10.065,3
+2021,United Kingdom,Death Rate,9.743,4
+2021,South Africa,Death Rate,9.716,5
+2021,Indonesia,Death Rate,9.448,6
+2021,China,Death Rate,7.448,7
+2021,Philippines,Death Rate,7.311,8
+2021,United States,Death Rate,6.422,9
+2021,Malaysia,Death Rate,6.034,10
+2021,United States,Migration Rate,4.56,1
+2021,South Africa,Migration Rate,3.007,2
+2021,United Kingdom,Migration Rate,1.668,3
+2021,Malaysia,Migration Rate,1.376,4
+2021,India,Migration Rate,0.703,5
+2021,Australia,Migration Rate,0.184,6
+2021,Japan,Migration Rate,-0.055,10
+2021,China,Migration Rate,-0.14,9
+2021,Indonesia,Migration Rate,-0.215,8
+2021,Philippines,Migration Rate,-0.703,7
+2020,Philippines,Birth Rate,22.039,1
+2020,Australia,Birth Rate,20.326,2
+2020,Japan,Birth Rate,16.649,3
+2020,Indonesia,Birth Rate,16.572,4
+2020,Malaysia,Birth Rate,15.417,5
+2020,United States,Birth Rate,11.576,6
+2020,United Kingdom,Birth Rate,10.939,7
+2020,South Africa,Birth Rate,10.136,8
+2020,China,Birth Rate,8.597,9
+2020,India,Birth Rate,6.61,10
+2020,India,Death Rate,12.07,1
+2020,South Africa,Death Rate,10.053,2
+2020,United Kingdom,Death Rate,9.651,3
+2020,Australia,Death Rate,9.425,4
+2020,Japan,Death Rate,8.964,5
+2020,Indonesia,Death Rate,7.35,6
+2020,China,Death Rate,7.265,7
+2020,United States,Death Rate,6.35,8
+2020,Philippines,Death Rate,5.566,9
+2020,Malaysia,Death Rate,5.311,10
+2020,United States,Migration Rate,4.605,1
+2020,South Africa,Migration Rate,3.153,2
+2020,United Kingdom,Migration Rate,2.013,3
+2020,Malaysia,Migration Rate,1.733,4
+2020,India,Migration Rate,0.7,5
+2020,Australia,Migration Rate,0.525,6
+2020,China,Migration Rate,-0.024,10
+2020,Indonesia,Migration Rate,-0.025,9
+2020,Japan,Migration Rate,-0.092,8
+2020,Philippines,Migration Rate,-0.374,7
+2019,Philippines,Birth Rate,22.254,1
+2019,Australia,Birth Rate,21.276,2
+2019,Indonesia,Birth Rate,17.049,3
+2019,Japan,Birth Rate,16.91,4
+2019,Malaysia,Birth Rate,15.58,5
+2019,United States,Birth Rate,12.09,6
+2019,United Kingdom,Birth Rate,11.258,7
+2019,South Africa,Birth Rate,10.637,8
+2019,China,Birth Rate,10.293,9
+2019,India,Birth Rate,6.663,10
+2019,India,Death Rate,12.087,1
+2019,South Africa,Death Rate,8.78,2
+2019,Australia,Death Rate,8.614,3
+2019,United Kingdom,Death Rate,8.325,4
+2019,Japan,Death Rate,7.539,5
+2019,China,Death Rate,7.078,6
+2019,Indonesia,Death Rate,6.71,7
+2019,United States,Death Rate,6.616,8
+2019,Philippines,Death Rate,5.609,9
+2019,Malaysia,Death Rate,5.253,10
+2019,United States,Migration Rate,9.345,1
+2019,United Kingdom,Migration Rate,3.472,2
+2019,South Africa,Migration Rate,3.318,3
+2019,Malaysia,Migration Rate,1.856,4
+2019,India,Migration Rate,1.464,5
+2019,Australia,Migration Rate,0.391,6
+2019,Japan,Migration Rate,-0.15,10
+2019,China,Migration Rate,-0.213,9
+2019,Philippines,Migration Rate,-0.218,8
+2019,Indonesia,Migration Rate,-0.429,7
+2018,Philippines,Birth Rate,22.445,1
+2018,Australia,Birth Rate,21.137,2
+2018,Indonesia,Birth Rate,17.651,3
+2018,Japan,Birth Rate,17.179,4
+2018,Malaysia,Birth Rate,15.978,5
+2018,United States,Birth Rate,12.876,6
+2018,United Kingdom,Birth Rate,11.468,7
+2018,South Africa,Birth Rate,11.029,8
+2018,China,Birth Rate,10.948,9
+2018,India,Birth Rate,7.016,10
+2018,India,Death Rate,11.835,1
+2018,South Africa,Death Rate,9.283,2
+2018,Australia,Death Rate,8.765,3
+2018,United Kingdom,Death Rate,8.387,4
+2018,Japan,Death Rate,7.496,5
+2018,China,Death Rate,6.981,6
+2018,Indonesia,Death Rate,6.644,7
+2018,United States,Death Rate,6.381,8
+2018,Philippines,Death Rate,5.631,9
+2018,Malaysia,Death Rate,5.175,10
+2018,United States,Migration Rate,8.857,1
+2018,United Kingdom,Migration Rate,3.622,2
+2018,South Africa,Migration Rate,3.477,3
+2018,Malaysia,Migration Rate,1.872,4
+2018,India,Migration Rate,1.407,5
+2018,Australia,Migration Rate,0.475,6
+2018,Philippines,Migration Rate,-0.142,10
+2018,Japan,Migration Rate,-0.149,9
+2018,China,Migration Rate,-0.209,8
+2018,Indonesia,Migration Rate,-0.41,7

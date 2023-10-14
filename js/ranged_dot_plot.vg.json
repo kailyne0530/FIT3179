@@ -48,7 +48,8 @@
     {
       "mark": {
         "type": "point",
-        "filled": true
+        "filled": true,
+        "cursor": "pointer"
       },
       "encoding": {
         "color": {
@@ -61,7 +62,12 @@
           "title": "Year"
         },
         "size": {"value": 100},
-        "opacity": {"value": 1}
+        "opacity": {"value": 1},
+        "tooltip": [
+          {"field": "Year", "type": "nominal"},
+          {"field": "Country Name", "type": "ordinal"},
+          {"field": "Value", "type": "quantitative", "title": "Age"}
+        ]
       }
     }
   ]

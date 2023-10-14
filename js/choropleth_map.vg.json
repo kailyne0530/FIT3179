@@ -47,10 +47,14 @@
           "type": "quantitative",
           "scale": {
             "domain": [
-              1,
-              150
+              0,
+              100,
+              150,
+              200,
+              250,
+              300
             ],
-            "range": ["lightyellow", "darkred"]
+            "range": ["white", "darkred"]
           },
           "legend": {"orient": "bottom-right"}
         }, 

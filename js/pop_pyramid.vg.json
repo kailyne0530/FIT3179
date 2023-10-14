@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": "container",
-  "height": "container",
-  "data": { "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/population-by-age-group.csv"}, 
+  "data": {
+    "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/population-by-age-group.csv"
+  },
   "params": [
     {
       "name": "Country_selection",
@@ -18,7 +18,7 @@
           "Pakistan",
           "Australia"
         ],
-        "labels":[
+        "labels": [
           "World",
           "China",
           "India",
@@ -31,147 +31,299 @@
       }
     },
     {
-    "name": "Year_selection",
-    "value": 2022,
-    "bind": {
-      "input": "range", 
-      "min": 2018, 
-      "max": 2022, 
-      "step": 1,
-      "name": "Year"
+      "name": "Year_selection",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 2018,
+        "max": 2022,
+        "step": 1,
+        "name": "Year"
       }
     },
     {
       "name": "highlight",
-      "select": {"type": "point", "on": "mouseover"}
+      "select": {
+        "type": "point",
+        "on": "mouseover"
+      }
     },
     {
-      "name": "select", 
+      "name": "select",
       "select": "point"
     }
   ],
   "transform": [
-    {"filter": "datum.Year == Year_selection && (datum.Country == Country_selection)"},
-    {"calculate": "datum.Sex == 'Male' ? 'Male' : 'Female'", "as": "Gender"}
+    {
+      "filter": "datum.Year == Year_selection && (datum.Country == Country_selection)"
+    },
+    {
+      "calculate": "datum.Sex == 'Male' ? 'Male' : 'Female'",
+      "as": "Gender"
+    }
   ],
   "spacing": 0,
-  "hconcat": [{
-    "transform": [{
-      "filter": {"field": "Gender", "equal": "Female"}
-    }],
-    "title": "Female",
-    "mark": {"type": "bar", "fill": "#F8C8DC", "stroke": "black", "cursor": "pointer"},
-    "encoding": {
-      "y": {
-        "field": "Age", "axis": null, "sort": [
-        "100+", "95-99", "90-94", "85-89", "80-84", "75-79", "70-74", "65-69", "60-64", "55-59", "50-54", "45-49", "40-44", "35-39", "30-34", "25-29", "20-24", "15-19", "10-14", "5-9", "0-4"
-        ]
-      },
-      "x": {
-        "aggregate": "sum", "field": "Population",
-        "title": null,
-        "axis": {"format": "s"},
-        "sort": "descending"
-      },
-      "color": {
-        "field": "Gender",
-        "scale": {"range": ["#F8C8DC", "#87CEEB"]},
-        "legend": null
-      },
-      "tooltip": [
-        {"field": "Country", "type": "nominal"},
-        {"field": "Gender"},
-        {"field": "Age"},
-        {"field": "Population", "type": "quantitative", "format": ",", "title": "Population:"}
+  "hconcat": [
+    {
+      "width": 150,
+      "height": 300,
+      "transform": [
+        {
+          "filter": {
+            "field": "Gender",
+            "equal": "Female"
+          }
+        }
       ],
-      "fillOpacity": {
-      "condition": {"param": "select", "value": 1},
-      "value": 0.3
+      "title": "Female",
+      "mark": {
+        "type": "bar",
+        "fill": "#F8C8DC",
+        "stroke": "black",
+        "cursor": "pointer"
       },
-      "strokeWidth": {
-        "condition": [
+      "encoding": {
+        "y": {
+          "field": "Age",
+          "axis": null,
+          "sort": [
+            "100+",
+            "95-99",
+            "90-94",
+            "85-89",
+            "80-84",
+            "75-79",
+            "70-74",
+            "65-69",
+            "60-64",
+            "55-59",
+            "50-54",
+            "45-49",
+            "40-44",
+            "35-39",
+            "30-34",
+            "25-29",
+            "20-24",
+            "15-19",
+            "10-14",
+            "5-9",
+            "0-4"
+          ]
+        },
+        "x": {
+          "aggregate": "sum",
+          "field": "Population",
+          "title": null,
+          "axis": {
+            "format": "s"
+          },
+          "sort": "descending"
+        },
+        "color": {
+          "field": "Gender",
+          "scale": {
+            "range": [
+              "#F8C8DC",
+              "#87CEEB"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
           {
-            "param": "select",
-            "empty": false,
-            "value": 2
+            "field": "Country",
+            "type": "nominal"
           },
           {
-            "param": "highlight",
-            "empty": false,
-            "value": 1
+            "field": "Gender"
+          },
+          {
+            "field": "Age"
+          },
+          {
+            "field": "Population",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Population:"
           }
         ],
-        "value": 0
+        "fillOpacity": {
+          "condition": {
+            "param": "select",
+            "value": 1
+          },
+          "value": 0.3
+        },
+        "strokeWidth": {
+          "condition": [
+            {
+              "param": "select",
+              "empty": false,
+              "value": 2
+            },
+            {
+              "param": "highlight",
+              "empty": false,
+              "value": 1
+            }
+          ],
+          "value": 0
+        }
       }
-    }
-  }, {
-    "width": 40,
-    "view": {"stroke": null},
-    "mark": {
-      "type": "text",
-      "align": "center"
     },
-    "encoding": {
-      "y": {"field": "Age", 
-      "type": "ordinal", 
-      "axis": null, 
-      "sort": [
-        "100+", "95-99", "90-94", "85-89", "80-84", "75-79", "70-74", "65-69", "60-64", "55-59", "50-54", "45-49", "40-44", "35-39", "30-34", "25-29", "20-24", "15-19", "10-14", "5-9", "0-4"
-        ]
+    {
+      "width": 60,
+      "height": 300,
+      "view": {
+        "stroke": null
       },
-      "text": {"field": "Age", "type": "ordinal"}
-    }
-  }, {
-    "transform": [{
-      "filter": {"field": "Gender", "equal": "Male"}
-    }],
-    "title": "Male",
-    "mark": {"type": "bar", "fill": "#87CEEB", "stroke": "black", "cursor": "pointer"},
-    "encoding": {
-      "y": {
-        "field": "Age", "title": null,
-        "axis": null, "sort": [
-        "100+", "95-99", "90-94", "85-89", "80-84", "75-79", "70-74", "65-69", "60-64", "55-59", "50-54", "45-49", "40-44", "35-39", "30-34", "25-29", "20-24", "15-19", "10-14", "5-9", "0-4"
-        ]
+      "mark": {
+        "type": "text",
+        "align": "center"
       },
-      "x": {
-        "aggregate": "sum", "field": "Population",
-        "title": null,
-        "axis": {"format": "s"}
-      },
-      "color": {
-        "field": "Gender",
-        "legend": null
-      },
-      "tooltip": [
-        {"field": "Country", "type": "nominal"},
-        {"field": "Gender"},
-        {"field": "Age"},
-        {"field": "Population", "type": "quantitative", "format": ",", "title": "Population"}
+      "encoding": {
+        "y": {
+          "field": "Age",
+          "type": "ordinal",
+          "axis": null,
+          "sort": [
+            "100+",
+            "95-99",
+            "90-94",
+            "85-89",
+            "80-84",
+            "75-79",
+            "70-74",
+            "65-69",
+            "60-64",
+            "55-59",
+            "50-54",
+            "45-49",
+            "40-44",
+            "35-39",
+            "30-34",
+            "25-29",
+            "20-24",
+            "15-19",
+            "10-14",
+            "5-9",
+            "0-4"
+          ]
+        },
+        "text": {
+          "field": "Age",
+          "type": "ordinal"
+        }
+      }
+    },
+    {
+      "width": 150,
+      "height": 300,
+      "transform": [
+        {
+          "filter": {
+            "field": "Gender",
+            "equal": "Male"
+          }
+        }
       ],
-      "fillOpacity": {
-      "condition": {"param": "select", "value": 1},
-      "value": 0.3
+      "title": "Male",
+      "mark": {
+        "type": "bar",
+        "fill": "#87CEEB",
+        "stroke": "black",
+        "cursor": "pointer"
       },
-      "strokeWidth": {
-        "condition": [
+      "encoding": {
+        "y": {
+          "field": "Age",
+          "title": null,
+          "axis": null,
+          "sort": [
+            "100+",
+            "95-99",
+            "90-94",
+            "85-89",
+            "80-84",
+            "75-79",
+            "70-74",
+            "65-69",
+            "60-64",
+            "55-59",
+            "50-54",
+            "45-49",
+            "40-44",
+            "35-39",
+            "30-34",
+            "25-29",
+            "20-24",
+            "15-19",
+            "10-14",
+            "5-9",
+            "0-4"
+          ]
+        },
+        "x": {
+          "aggregate": "sum",
+          "field": "Population",
+          "title": null,
+          "axis": {
+            "format": "s"
+          }
+        },
+        "color": {
+          "field": "Gender",
+          "legend": null
+        },
+        "tooltip": [
           {
-            "param": "select",
-            "empty": false,
-            "value": 2
+            "field": "Country",
+            "type": "nominal"
           },
           {
-            "param": "highlight",
-            "empty": false,
-            "value": 1
+            "field": "Gender"
+          },
+          {
+            "field": "Age"
+          },
+          {
+            "field": "Population",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Population"
           }
         ],
-        "value": 0
+        "fillOpacity": {
+          "condition": {
+            "param": "select",
+            "value": 1
+          },
+          "value": 0.3
+        },
+        "strokeWidth": {
+          "condition": [
+            {
+              "param": "select",
+              "empty": false,
+              "value": 2
+            },
+            {
+              "param": "highlight",
+              "empty": false,
+              "value": 1
+            }
+          ],
+          "value": 0
+        }
       }
     }
-  }],
+  ],
   "config": {
-    "view": {"stroke": null},
-    "axis": {"grid": false}
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "grid": false
+    }
   }
 }

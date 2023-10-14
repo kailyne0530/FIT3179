@@ -40,7 +40,7 @@
       "field": "Factors",
       "type": "ordinal",
       "sort": "ascending",
-      "title": "Factors",
+      "title": "Drivers",
       "axis": {
         "grid": true,
         "domain": false,
@@ -52,7 +52,7 @@
     "y": {
       "field": "Rank",
       "type": "ordinal",
-      "axis": {"labels": true, "grid": false, "domain": false, "offset": -10},
+      "axis": {"labels": true, "grid": true, "domain": false, "offset": -10},
       "sort": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
     },
     "color": {"field": "Country", "type": "nominal"}

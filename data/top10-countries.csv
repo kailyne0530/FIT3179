@@ -1,0 +1,31 @@
+Country,Factors,Value,Rank
+Philippines,Birth Rate,21.618,1
+Australia,Birth Rate,19.31,2
+Indonesia,Birth Rate,16.267,3
+Japan,Birth Rate,16.196,4
+Malaysia,Birth Rate,15.016,5
+United States,Birth Rate,11.5,6
+United Kingdom,Birth Rate,11.033,7
+South Africa,Birth Rate,10.039,8
+China,Birth Rate,7.544,9
+India,Birth Rate,6.576,10
+India,Death Rate,12.655,1
+Australia,Death Rate,12.032,2
+Japan,Death Rate,9.59,3
+United Kingdom,Death Rate,9.31,4
+South Africa,Death Rate,9.098,5
+Indonesia,Death Rate,9.074,6
+China,Death Rate,7.379,7
+United States,Death Rate,6.816,8
+Philippines,Death Rate,5.568,9
+Malaysia,Death Rate,5.443,10
+United States,Migration Rate,5.362,1
+United Kingdom,Migration Rate,2.956,2
+South Africa,Migration Rate,2.459,3
+Malaysia,Migration Rate,1.445,4
+Australia,Migration Rate,0.977,5
+India,Migration Rate,0.807,6
+Japan,Migration Rate,-0.181,10
+China,Migration Rate,-0.218,9
+Indonesia,Migration Rate,-0.344,8
+Philippines,Migration Rate,-0.606,7

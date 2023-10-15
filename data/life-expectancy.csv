@@ -575,78 +575,78 @@ United Kingdom,2018,81.125
 United Kingdom,2019,81.725
 United Kingdom,2020,80.434
 United Kingdom,2021,80.742
-United States of America,1950,68.059
-United States of America,1951,68.17
-United States of America,1952,68.366
-United States of America,1953,68.7
-United States of America,1954,69.489
-United States of America,1955,69.546
-United States of America,1956,69.63
-United States of America,1957,69.406
-United States of America,1958,69.661
-United States of America,1959,69.889
-United States of America,1960,69.813
-United States of America,1961,70.239
-United States of America,1962,70.103
-United States of America,1963,69.932
-United States of America,1964,70.19
-United States of America,1965,70.242
-United States of America,1966,70.204
-United States of America,1967,70.519
-United States of America,1968,70.202
-United States of America,1969,70.478
-United States of America,1970,70.735
-United States of America,1971,71.096
-United States of America,1972,71.172
-United States of America,1973,71.388
-United States of America,1974,71.95
-United States of America,1975,72.534
-United States of America,1976,72.834
-United States of America,1977,73.215
-United States of America,1978,73.397
-United States of America,1979,73.82
-United States of America,1980,73.717
-United States of America,1981,74.105
-United States of America,1982,74.453
-United States of America,1983,74.543
-United States of America,1984,74.666
-United States of America,1985,74.642
-United States of America,1986,74.722
-United States of America,1987,74.854
-United States of America,1988,74.828
-United States of America,1989,75.104
-United States of America,1990,75.37
-United States of America,1991,75.523
-United States of America,1992,75.778
-United States of America,1993,75.567
-United States of America,1994,75.738
-United States of America,1995,75.854
-United States of America,1996,76.175
-United States of America,1997,76.498
-United States of America,1998,76.66
-United States of America,1999,76.672
-United States of America,2000,76.811
-United States of America,2001,76.928
-United States of America,2002,77.001
-United States of America,2003,77.154
-United States of America,2004,77.558
-United States of America,2005,77.557
-United States of America,2006,77.839
-United States of America,2007,78.1
-United States of America,2008,78.196
-United States of America,2009,78.564
-United States of America,2010,78.772
-United States of America,2011,78.82
-United States of America,2012,78.944
-United States of America,2013,78.951
-United States of America,2014,79.017
-United States of America,2015,78.869
-United States of America,2016,78.848
-United States of America,2017,78.821
-United States of America,2018,78.99
-United States of America,2019,79.138
-United States of America,2020,77.414
-United States of America,2021,77.198
+United States,1950,68.059
+United States,1951,68.17
+United States,1952,68.366
+United States,1953,68.7
+United States,1954,69.489
+United States,1955,69.546
+United States,1956,69.63
+United States,1957,69.406
+United States,1958,69.661
+United States,1959,69.889
+United States,1960,69.813
+United States,1961,70.239
+United States,1962,70.103
+United States,1963,69.932
+United States,1964,70.19
+United States,1965,70.242
+United States,1966,70.204
+United States,1967,70.519
+United States,1968,70.202
+United States,1969,70.478
+United States,1970,70.735
+United States,1971,71.096
+United States,1972,71.172
+United States,1973,71.388
+United States,1974,71.95
+United States,1975,72.534
+United States,1976,72.834
+United States,1977,73.215
+United States,1978,73.397
+United States,1979,73.82
+United States,1980,73.717
+United States,1981,74.105
+United States,1982,74.453
+United States,1983,74.543
+United States,1984,74.666
+United States,1985,74.642
+United States,1986,74.722
+United States,1987,74.854
+United States,1988,74.828
+United States,1989,75.104
+United States,1990,75.37
+United States,1991,75.523
+United States,1992,75.778
+United States,1993,75.567
+United States,1994,75.738
+United States,1995,75.854
+United States,1996,76.175
+United States,1997,76.498
+United States,1998,76.66
+United States,1999,76.672
+United States,2000,76.811
+United States,2001,76.928
+United States,2002,77.001
+United States,2003,77.154
+United States,2004,77.558
+United States,2005,77.557
+United States,2006,77.839
+United States,2007,78.1
+United States,2008,78.196
+United States,2009,78.564
+United States,2010,78.772
+United States,2011,78.82
+United States,2012,78.944
+United States,2013,78.951
+United States,2014,79.017
+United States,2015,78.869
+United States,2016,78.848
+United States,2017,78.821
+United States,2018,78.99
+United States,2019,79.138
+United States,2020,77.414
+United States,2021,77.198
 Australia,1950,69
 Australia,1951,68.7
 Australia,1952,69.113
@@ -727,5 +727,5 @@ Indonesia,2022,68.25
 Malaysia,2022,76.26
 Philippines,2022,72.187
 United Kingdom,2022,82.156
-United States of America,2022,78.203
+United States,2022,78.203
 Australia,2022,83.579

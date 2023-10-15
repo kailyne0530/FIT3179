@@ -6,7 +6,7 @@
     {
       "filter": {
         "field": "Country Name",
-        "oneOf": ["China", "India", "United States of America", "Indonesia", "Japan", "Malaysia", "Australia", "United Kingdom", "Philippines", "South Africa"]
+        "oneOf": ["China", "India", "United States", "Indonesia", "Japan", "Malaysia", "Australia", "United Kingdom", "Philippines", "South Africa"]
       }
     },
     {

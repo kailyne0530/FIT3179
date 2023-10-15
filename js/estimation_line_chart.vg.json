@@ -1,6 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": "container",
+  "height": 160,
   "data": {
     "url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/population-estimation.csv"
   },
@@ -142,6 +143,14 @@
         "x": {"datum": "2100"},
         "y": {"value": 58}, 
         "text": {"value": "in 2100"}
+      }
+    },
+    {
+      "mark": {"type": "text", "fontWeight": "lighter", "color":"red"},
+      "encoding": {
+        "x": {"datum": "2086"},
+        "y": {"value": 25}, 
+        "text": {"value": "10.4 B"}
       }
     }
   ],

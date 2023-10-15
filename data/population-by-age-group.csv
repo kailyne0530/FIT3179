@@ -1,2521 +1,2521 @@
-Country,Year,Sex,Age,Population
-World,2018,Male,0-4,354862
-World,2019,Male,0-4,352684
-World,2020,Male,0-4,349489
-World,2021,Male,0-4,345269
-China,2018,Male,0-4,47478
-China,2019,Male,0-4,45605
-China,2020,Male,0-4,43091
-China,2021,Male,0-4,39708
-India,2018,Male,0-4,62142
-India,2019,Male,0-4,61478
-India,2020,Male,0-4,60772
-India,2021,Male,0-4,59968
-Pakistan,2018,Male,0-4,14992
-Pakistan,2019,Male,0-4,15001
-Pakistan,2020,Male,0-4,15058
-Pakistan,2021,Male,0-4,15145
-Indonesia,2018,Male,0-4,11887
-Indonesia,2019,Male,0-4,11742
-Indonesia,2020,Male,0-4,11616
-Indonesia,2021,Male,0-4,11508
-United States,2018,Male,0-4,10239
-United States,2019,Male,0-4,10149
-United States,2020,Male,0-4,9985
-United States,2021,Male,0-4,9798
-World,2022,Male,0-4,340675
-China,2022,Male,0-4,35675
-India,2022,Male,0-4,59257
-Pakistan,2022,Male,0-4,15243
-Indonesia,2022,Male,0-4,11420
-United States,2022,Male,0-4,9669
-World,2018,Female,0-4,333799
-World,2019,Female,0-4,332189
-World,2020,Female,0-4,329658
-World,2021,Female,0-4,326209
-China,2018,Female,0-4,41414
-China,2019,Female,0-4,39950
-China,2020,Female,0-4,37909
-China,2021,Female,0-4,35083
-India,2018,Female,0-4,56981
-India,2019,Female,0-4,56479
-India,2020,Female,0-4,55953
-India,2021,Female,0-4,55341
-Pakistan,2018,Female,0-4,14309
-Pakistan,2019,Female,0-4,14321
-Pakistan,2020,Female,0-4,14376
-Pakistan,2021,Female,0-4,14461
-Indonesia,2018,Female,0-4,11277
-Indonesia,2019,Female,0-4,11137
-Indonesia,2020,Female,0-4,11013
-Indonesia,2021,Female,0-4,10907
-United States,2018,Female,0-4,9783
-United States,2019,Female,0-4,9701
-United States,2020,Female,0-4,9544
-United States,2021,Female,0-4,9367
-World,2022,Female,0-4,322433
-China,2022,Female,0-4,31665
-India,2022,Female,0-4,54809
-Pakistan,2022,Female,0-4,14556
-Indonesia,2022,Female,0-4,10820
-United States,2022,Female,0-4,9245
-World,2018,Male,45055,348163
-World,2019,Male,45055,350162
-World,2020,Male,45055,351561
-World,2021,Male,45055,352538
-China,2018,Male,45055,48267
-China,2019,Male,45055,48554
-China,2020,Male,45055,48570
-China,2021,Male,45055,48526
-India,2018,Male,45055,65293
-India,2019,Male,45055,64695
-India,2020,Male,45055,63922
-India,2021,Male,45055,63227
-Pakistan,2018,Male,45055,14427
-Pakistan,2019,Male,45055,14587
-Pakistan,2020,Male,45055,14683
-Pakistan,2021,Male,45055,14728
-Indonesia,2018,Male,45055,12291
-Indonesia,2019,Male,45055,12292
-Indonesia,2020,Male,45055,12260
-Indonesia,2021,Male,45055,12162
-United States,2018,Male,45055,10662
-United States,2019,Male,45055,10596
-United States,2020,Male,45055,10555
-United States,2021,Male,45055,10510
-World,2022,Male,45055,352786
-China,2022,Male,45055,48384
-India,2022,Male,45055,62514
-Pakistan,2022,Male,45055,14747
-Indonesia,2022,Male,45055,12000
-United States,2022,Male,45055,10453
-World,2018,Female,45055,326163
-World,2019,Female,45055,328257
-World,2020,Female,45055,329851
-World,2021,Female,45055,331075
-China,2018,Female,45055,41369
-China,2019,Female,45055,41728
-China,2020,Female,45055,41872
-China,2021,Female,45055,41984
-India,2018,Female,45055,59354
-India,2019,Female,45055,58881
-India,2020,Female,45055,58263
-India,2021,Female,45055,57729
-Pakistan,2018,Female,45055,13729
-Pakistan,2019,Female,45055,13911
-Pakistan,2020,Female,45055,14024
-Pakistan,2021,Female,45055,14083
-Indonesia,2018,Female,45055,11666
-Indonesia,2019,Female,45055,11666
-Indonesia,2020,Female,45055,11635
-Indonesia,2021,Female,45055,11543
-United States,2018,Female,45055,10163
-United States,2019,Female,45055,10102
-United States,2020,Female,45055,10073
-United States,2021,Female,45055,10041
-World,2022,Female,45055,331634
-China,2022,Female,45055,42029
-India,2022,Female,45055,57176
-Pakistan,2022,Female,45055,14113
-Indonesia,2022,Female,45055,11390
-United States,2022,Female,45055,9989
-World,2018,Male,45213,329761
-World,2019,Male,45213,333620
-World,2020,Male,45213,337364
-World,2021,Male,45213,340825
-China,2018,Male,45213,44315
-China,2019,Male,45213,45248
-China,2020,Male,45213,46088
-China,2021,Male,45213,46723
-India,2018,Male,45213,66621
-India,2019,Male,45213,66212
-India,2020,Male,45213,65907
-India,2021,Male,45213,65686
-Pakistan,2018,Male,45213,13241
-Pakistan,2019,Male,45213,13419
-Pakistan,2020,Male,45213,13636
-Pakistan,2021,Male,45213,13889
-Indonesia,2018,Male,45213,11735
-Indonesia,2019,Male,45213,11883
-Indonesia,2020,Male,45213,12005
-Indonesia,2021,Male,45213,12120
-United States,2018,Male,45213,11238
-United States,2019,Male,45213,11309
-United States,2020,Male,45213,11284
-United States,2021,Male,45213,11150
-World,2022,Male,45213,344165
-China,2022,Male,45213,47515
-India,2022,Male,45213,65448
-Pakistan,2022,Male,45213,14133
-Indonesia,2022,Male,45213,12218
-United States,2022,Male,45213,10963
-World,2018,Female,45213,308691
-World,2019,Female,45213,312296
-World,2020,Female,45213,315819
-World,2021,Female,45213,319110
-China,2018,Female,45213,37766
-China,2019,Female,45213,38573
-China,2020,Female,45213,39318
-China,2021,Female,45213,39907
-India,2018,Female,45213,60443
-India,2019,Female,45213,60084
-India,2020,Female,45213,59815
-India,2021,Female,45213,59622
-Pakistan,2018,Female,45213,12485
-Pakistan,2019,Female,45213,12673
-Pakistan,2020,Female,45213,12907
-Pakistan,2021,Female,45213,13178
-Indonesia,2018,Female,45213,11130
-Indonesia,2019,Female,45213,11274
-Indonesia,2020,Female,45213,11394
-Indonesia,2021,Female,45213,11505
-United States,2018,Female,45213,10728
-United States,2019,Female,45213,10784
-United States,2020,Female,45213,10750
-United States,2021,Female,45213,10615
-World,2022,Female,45213,322326
-China,2022,Female,45213,40652
-India,2022,Female,45213,59434
-Pakistan,2022,Female,45213,13441
-Indonesia,2022,Female,45213,11598
-United States,2022,Female,45213,10440
-World,2018,Male,15-19,315758
-World,2019,Male,15-19,317843
-World,2020,Male,15-19,319817
-World,2021,Male,15-19,321862
-China,2018,Male,15-19,42970
-China,2019,Male,15-19,42884
-China,2020,Male,15-19,42808
-China,2021,Male,15-19,42898
-India,2018,Male,15-19,67534
-India,2019,Male,15-19,67718
-India,2020,Male,15-19,67690
-India,2021,Male,15-19,67337
-Pakistan,2018,Male,15-19,12221
-Pakistan,2019,Male,15-19,12387
-Pakistan,2020,Male,15-19,12558
-Pakistan,2021,Male,15-19,12719
-Indonesia,2018,Male,15-19,11282
-Indonesia,2019,Male,15-19,11286
-Indonesia,2020,Male,15-19,11327
-Indonesia,2021,Male,15-19,11405
-United States,2018,Male,15-19,11122
-United States,2019,Male,15-19,11188
-United States,2020,Male,15-19,11224
-United States,2021,Male,15-19,11264
-World,2022,Male,15-19,324667
-China,2022,Male,15-19,43406
-India,2022,Male,15-19,66812
-Pakistan,2022,Male,15-19,12882
-Indonesia,2022,Male,15-19,11528
-United States,2022,Male,15-19,11361
-World,2018,Female,15-19,295642
-World,2019,Female,15-19,297694
-World,2020,Female,15-19,299677
-World,2021,Female,15-19,301700
-China,2018,Female,15-19,36851
-China,2019,Female,15-19,36700
-China,2020,Female,15-19,36576
-China,2021,Female,15-19,36611
-India,2018,Female,15-19,61156
-India,2019,Female,15-19,61355
-India,2020,Female,15-19,61363
-India,2021,Female,15-19,61075
-Pakistan,2018,Female,15-19,11589
-Pakistan,2019,Female,15-19,11759
-Pakistan,2020,Female,15-19,11917
-Pakistan,2021,Female,15-19,12062
-Indonesia,2018,Female,15-19,10697
-Indonesia,2019,Female,15-19,10701
-Indonesia,2020,Female,15-19,10741
-Indonesia,2021,Female,15-19,10816
-United States,2018,Female,15-19,10648
-United States,2019,Female,15-19,10708
-United States,2020,Female,15-19,10742
-United States,2021,Female,15-19,10782
-World,2022,Female,15-19,304350
-China,2022,Female,15-19,37019
-India,2022,Female,15-19,60610
-Pakistan,2022,Female,15-19,12212
-Indonesia,2022,Female,15-19,10936
-United States,2022,Female,15-19,10872
-World,2018,Male,20-24,307268
-World,2019,Male,20-24,307503
-World,2020,Male,20-24,308352
-World,2021,Male,20-24,309757
-China,2018,Male,20-24,46296
-China,2019,Male,20-24,45026
-China,2020,Male,20-24,44184
-China,2021,Male,20-24,43610
-India,2018,Male,20-24,64854
-India,2019,Male,20-24,65305
-India,2020,Male,20-24,65746
-India,2021,Male,20-24,66258
-Pakistan,2018,Male,20-24,10532
-Pakistan,2019,Male,20-24,10686
-Pakistan,2020,Male,20-24,10901
-Pakistan,2021,Male,20-24,11178
-Indonesia,2018,Male,20-24,11138
-Indonesia,2019,Male,20-24,11196
-Indonesia,2020,Male,20-24,11222
-Indonesia,2021,Male,20-24,11228
-United States,2018,Male,20-24,11208
-United States,2019,Male,20-24,11151
-United States,2020,Male,20-24,11167
-United States,2021,Male,20-24,11222
-World,2022,Male,20-24,311357
-China,2022,Male,20-24,43079
-India,2022,Male,20-24,66716
-Pakistan,2022,Male,20-24,11494
-Indonesia,2022,Male,20-24,11206
-United States,2022,Male,20-24,11292
-World,2018,Female,20-24,289069
-World,2019,Female,20-24,289032
-World,2020,Female,20-24,289691
-World,2021,Female,20-24,290941
-China,2018,Female,20-24,40442
-China,2019,Female,20-24,39151
-China,2020,Female,20-24,38262
-China,2021,Female,20-24,37633
-India,2018,Female,20-24,58789
-India,2019,Female,20-24,59101
-India,2020,Female,20-24,59458
-India,2021,Female,20-24,59917
-Pakistan,2018,Female,20-24,10159
-Pakistan,2019,Female,20-24,10352
-Pakistan,2020,Female,20-24,10575
-Pakistan,2021,Female,20-24,10828
-Indonesia,2018,Female,20-24,10588
-Indonesia,2019,Female,20-24,10645
-Indonesia,2020,Female,20-24,10671
-Indonesia,2021,Female,20-24,10676
-United States,2018,Female,20-24,10770
-United States,2019,Female,20-24,10721
-United States,2020,Female,20-24,10741
-United States,2021,Female,20-24,10799
-World,2022,Female,20-24,292421
-China,2022,Female,20-24,37061
-India,2022,Female,20-24,60361
-Pakistan,2022,Female,20-24,11103
-Indonesia,2022,Female,20-24,10653
-United States,2022,Female,20-24,10870
-World,2018,Male,25-29,311614
-World,2019,Male,25-29,309703
-World,2020,Male,25-29,306986
-World,2021,Male,25-29,304921
-China,2018,Male,25-29,59507
-China,2019,Male,25-29,56327
-China,2020,Male,25-29,52404
-China,2021,Male,25-29,49242
-India,2018,Male,25-29,61141
-India,2019,Male,25-29,61742
-India,2020,Male,25-29,62449
-India,2021,Male,25-29,63130
-Pakistan,2018,Male,25-29,9118
-Pakistan,2019,Male,25-29,9217
-Pakistan,2020,Male,25-29,9353
-Pakistan,2021,Male,25-29,9536
-Indonesia,2018,Male,25-29,10693
-Indonesia,2019,Male,25-29,10716
-Indonesia,2020,Male,25-29,10773
-Indonesia,2021,Male,25-29,10846
-United States,2018,Male,25-29,11889
-United States,2019,Male,25-29,11876
-United States,2020,Male,25-29,11780
-United States,2021,Male,25-29,11635
-World,2022,Male,25-29,304345
-China,2022,Male,25-29,47456
-India,2022,Male,25-29,63683
-Pakistan,2022,Male,25-29,9757
-Indonesia,2022,Male,25-29,10934
-United States,2022,Male,25-29,11504
-World,2018,Female,25-29,296332
-World,2019,Female,25-29,294154
-World,2020,Female,25-29,291227
-World,2021,Female,25-29,288912
-China,2018,Female,25-29,53637
-China,2019,Female,25-29,50464
-China,2020,Female,25-29,46644
-China,2021,Female,25-29,43546
-India,2018,Female,25-29,56330
-India,2019,Female,25-29,56738
-India,2020,Female,25-29,57185
-India,2021,Female,25-29,57609
-Pakistan,2018,Female,25-29,8895
-Pakistan,2019,Female,25-29,9056
-Pakistan,2020,Female,25-29,9234
-Pakistan,2021,Female,25-29,9433
-Indonesia,2018,Female,25-29,10165
-Indonesia,2019,Female,25-29,10188
-Indonesia,2020,Female,25-29,10245
-Indonesia,2021,Female,25-29,10321
-United States,2018,Female,25-29,11547
-United States,2019,Female,25-29,11532
-United States,2020,Female,25-29,11427
-United States,2021,Female,25-29,11271
-World,2022,Female,25-29,287904
-China,2022,Female,25-29,41724
-India,2022,Female,25-29,57938
-Pakistan,2022,Female,25-29,9645
-Indonesia,2022,Female,25-29,10413
-United States,2022,Female,25-29,11139
-World,2018,Male,30-34,297604
-World,2019,Male,30-34,302566
-World,2020,Male,30-34,307164
-World,2021,Male,30-34,309670
-China,2018,Male,30-34,59358
-China,2019,Male,30-34,61640
-China,2020,Male,30-34,63819
-China,2021,Male,30-34,64180
-India,2018,Male,30-34,57149
-India,2019,Male,30-34,57952
-India,2020,Male,30-34,58648
-India,2021,Male,30-34,59248
-Pakistan,2018,Male,30-34,7548
-Pakistan,2019,Male,30-34,7719
-Pakistan,2020,Male,30-34,7937
-Pakistan,2021,Male,30-34,8185
-Indonesia,2018,Male,30-34,10647
-Indonesia,2019,Male,30-34,10584
-Indonesia,2020,Male,30-34,10538
-Indonesia,2021,Male,30-34,10545
-United States,2018,Male,30-34,11417
-United States,2019,Male,30-34,11569
-United States,2020,Male,30-34,11714
-United States,2021,Male,30-34,11835
-World,2022,Male,30-34,309407
-China,2022,Male,30-34,61995
-India,2022,Male,30-34,59815
-Pakistan,2022,Male,30-34,8437
-Indonesia,2022,Male,30-34,10571
-United States,2022,Male,30-34,11957
-World,2018,Female,30-34,285967
-World,2019,Female,30-34,290421
-World,2020,Female,30-34,294490
-World,2021,Female,30-34,296544
-China,2018,Female,30-34,55083
-China,2019,Female,30-34,56917
-China,2020,Female,30-34,58612
-China,2021,Female,30-34,58625
-India,2018,Female,30-34,52825
-India,2019,Female,30-34,53604
-India,2020,Female,30-34,54280
-India,2021,Female,30-34,54833
-Pakistan,2018,Female,30-34,7456
-Pakistan,2019,Female,30-34,7669
-Pakistan,2020,Female,30-34,7907
-Pakistan,2021,Female,30-34,8161
-Indonesia,2018,Female,30-34,10164
-Indonesia,2019,Female,30-34,10095
-Indonesia,2020,Female,30-34,10045
-Indonesia,2021,Female,30-34,10046
-United States,2018,Female,30-34,11117
-United States,2019,Female,30-34,11274
-United States,2020,Female,30-34,11438
-United States,2021,Female,30-34,11581
-World,2022,Female,30-34,295974
-China,2022,Female,30-34,56313
-India,2022,Female,30-34,55326
-Pakistan,2022,Female,30-34,8417
-Indonesia,2022,Female,30-34,10067
-United States,2022,Female,30-34,11713
-World,2018,Male,35-39,269636
-World,2019,Male,35-39,274725
-World,2020,Male,35-39,279422
-World,2021,Male,35-39,284145
-China,2018,Male,35-39,51560
-China,2019,Male,35-39,52587
-China,2020,Male,35-39,53757
-China,2021,Male,35-39,55290
-India,2018,Male,35-39,50919
-India,2019,Male,35-39,52122
-India,2020,Male,35-39,53260
-India,2021,Male,35-39,54326
-Pakistan,2018,Male,35-39,6137
-Pakistan,2019,Male,35-39,6322
-Pakistan,2020,Male,35-39,6524
-Pakistan,2021,Male,35-39,6739
-Indonesia,2018,Male,35-39,10542
-Indonesia,2019,Male,35-39,10636
-Indonesia,2020,Male,35-39,10675
-Indonesia,2021,Male,35-39,10646
-United States,2018,Male,35-39,11116
-United States,2019,Male,35-39,11253
-United States,2020,Male,35-39,11331
-United States,2021,Male,35-39,11378
-World,2022,Male,35-39,288851
-China,2022,Male,35-39,56990
-India,2022,Male,35-39,55316
-Pakistan,2022,Male,35-39,6962
-Indonesia,2022,Male,35-39,10581
-United States,2022,Male,35-39,11443
-World,2018,Female,35-39,260839
-World,2019,Female,35-39,265714
-World,2020,Female,35-39,270284
-World,2021,Female,35-39,274851
-China,2018,Female,35-39,48794
-China,2019,Female,35-39,49657
-China,2020,Female,35-39,50621
-China,2021,Female,35-39,51885
-India,2018,Female,35-39,47215
-India,2019,Female,35-39,48329
-India,2020,Female,35-39,49404
-India,2021,Female,35-39,50437
-Pakistan,2018,Female,35-39,6062
-Pakistan,2019,Female,35-39,6294
-Pakistan,2020,Female,35-39,6533
-Pakistan,2021,Female,35-39,6776
-Indonesia,2018,Female,35-39,10168
-Indonesia,2019,Female,35-39,10236
-Indonesia,2020,Female,35-39,10252
-Indonesia,2021,Female,35-39,10207
-United States,2018,Female,35-39,10945
-United States,2019,Female,35-39,11045
-United States,2020,Female,35-39,11100
-United States,2021,Female,35-39,11136
-World,2022,Female,35-39,279305
-China,2022,Female,35-39,53252
-India,2022,Female,35-39,51399
-Pakistan,2022,Female,35-39,7021
-Indonesia,2022,Female,35-39,10131
-United States,2022,Female,35-39,11197
-World,2018,Male,40-44,244768
-World,2019,Male,40-44,245902
-World,2020,Male,40-44,248930
-World,2021,Male,40-44,253384
-China,2018,Male,40-44,50738
-China,2019,Male,40-44,48479
-China,2020,Male,40-44,47617
-China,2021,Male,40-44,47932
-India,2018,Male,40-44,44930
-India,2019,Male,40-44,45719
-India,2020,Male,40-44,46636
-India,2021,Male,40-44,47640
-Pakistan,2018,Male,40-44,5049
-Pakistan,2019,Male,40-44,5145
-Pakistan,2020,Male,40-44,5267
-Pakistan,2021,Male,40-44,5429
-Indonesia,2018,Male,40-44,9671
-Indonesia,2019,Male,40-44,9819
-Indonesia,2020,Male,40-44,9967
-Indonesia,2021,Male,40-44,10103
-United States,2018,Male,40-44,10206
-United States,2019,Male,40-44,10368
-United States,2020,Male,40-44,10576
-United States,2021,Male,40-44,10799
-World,2022,Male,40-44,259073
-China,2022,Male,40-44,49466
-India,2022,Male,40-44,48682
-Pakistan,2022,Male,40-44,5630
-Indonesia,2022,Male,40-44,10236
-United States,2022,Male,40-44,11002
-World,2018,Female,40-44,239032
-World,2019,Female,40-44,239994
-World,2020,Female,40-44,242809
-World,2021,Female,40-44,247021
-China,2018,Female,40-44,48632
-China,2019,Female,40-44,46384
-China,2020,Female,40-44,45476
-China,2021,Female,40-44,45693
-India,2018,Female,40-44,42104
-India,2019,Female,40-44,42804
-India,2020,Female,40-44,43622
-India,2021,Female,40-44,44529
-Pakistan,2018,Female,40-44,4959
-Pakistan,2019,Female,40-44,5091
-Pakistan,2020,Female,40-44,5246
-Pakistan,2021,Female,40-44,5435
-Indonesia,2018,Female,40-44,9451
-Indonesia,2019,Female,40-44,9578
-Indonesia,2020,Female,40-44,9703
-Indonesia,2021,Female,40-44,9815
-United States,2018,Female,40-44,10185
-United States,2019,Female,40-44,10328
-United States,2020,Female,40-44,10516
-United States,2021,Female,40-44,10720
-World,2022,Female,40-44,252471
-China,2022,Female,40-44,47065
-India,2022,Female,40-44,45491
-Pakistan,2022,Female,40-44,5660
-Indonesia,2022,Female,40-44,9924
-United States,2022,Female,40-44,10896
-World,2018,Male,45-49,238749
-World,2019,Male,45-49,240002
-World,2020,Male,45-49,240138
-World,2021,Male,45-49,239509
-China,2018,Male,45-49,63029
-China,2019,Male,45-49,61633
-China,2020,Male,45-49,59213
-China,2021,Male,45-49,56169
-India,2018,Male,45-49,39414
-India,2019,Male,45-49,40325
-India,2020,Male,45-49,41236
-India,2021,Male,45-49,42079
-Pakistan,2018,Male,45-49,4317
-Pakistan,2019,Male,45-49,4384
-Pakistan,2020,Male,45-49,4468
-Pakistan,2021,Male,45-49,4567
-Indonesia,2018,Male,45-49,8756
-Indonesia,2019,Male,45-49,8898
-Indonesia,2020,Male,45-49,9029
-Indonesia,2021,Male,45-49,9155
-United States,2018,Male,45-49,10750
-United States,2019,Male,45-49,10627
-United States,2020,Male,45-49,10418
-United States,2021,Male,45-49,10184
-World,2022,Male,45-49,238984
-China,2022,Male,45-49,53105
-India,2022,Male,45-49,42844
-Pakistan,2022,Male,45-49,4679
-Indonesia,2022,Male,45-49,9279
-United States,2022,Male,45-49,10096
-World,2018,Female,45-49,236138
-World,2019,Female,45-49,237194
-World,2020,Female,45-49,237208
-World,2021,Female,45-49,236495
-China,2018,Female,45-49,61290
-China,2019,Female,45-49,59828
-China,2020,Female,45-49,57385
-China,2021,Female,45-49,54349
-India,2018,Female,45-49,37458
-India,2019,Female,45-49,38306
-India,2020,Female,45-49,39151
-India,2021,Female,45-49,39939
-Pakistan,2018,Female,45-49,4251
-Pakistan,2019,Female,45-49,4342
-Pakistan,2020,Female,45-49,4447
-Pakistan,2021,Female,45-49,4563
-Indonesia,2018,Female,45-49,8647
-Indonesia,2019,Female,45-49,8781
-Indonesia,2020,Female,45-49,8904
-Indonesia,2021,Female,45-49,9022
-United States,2018,Female,45-49,10746
-United States,2019,Female,45-49,10618
-United States,2020,Female,45-49,10417
-United States,2021,Female,45-49,10200
-World,2022,Female,45-49,235880
-China,2022,Female,45-49,51306
-India,2022,Female,45-49,40659
-Pakistan,2022,Female,45-49,4687
-Indonesia,2022,Female,45-49,9136
-United States,2022,Female,45-49,10121
-World,2018,Male,50-54,214917
-World,2019,Male,50-54,217596
-World,2020,Male,50-54,221074
-World,2021,Male,50-54,224759
-China,2018,Male,50-54,58671
-China,2019,Male,50-54,59002
-China,2020,Male,50-54,59975
-China,2021,Male,50-54,60905
-India,2018,Male,50-54,34148
-India,2019,Male,50-54,34836
-India,2020,Male,50-54,35544
-India,2021,Male,50-54,36250
-Pakistan,2018,Male,50-54,3824
-Pakistan,2019,Male,50-54,3854
-Pakistan,2020,Male,50-54,3888
-Pakistan,2021,Male,50-54,3933
-Indonesia,2018,Male,50-54,7643
-Indonesia,2019,Male,50-54,7823
-Indonesia,2020,Male,50-54,7987
-Indonesia,2021,Male,50-54,8123
-United States,2018,Male,50-54,10689
-United States,2019,Male,50-54,10606
-United States,2020,Male,50-54,10614
-United States,2021,Male,50-54,10669
-World,2022,Male,50-54,228342
-China,2022,Male,50-54,61761
-India,2022,Male,50-54,36953
-Pakistan,2022,Male,50-54,3992
-Indonesia,2022,Male,50-54,8245
-United States,2022,Male,50-54,10668
-World,2018,Female,50-54,216561
-World,2019,Female,50-54,218988
-World,2020,Female,50-54,222220
-World,2021,Female,50-54,225709
-China,2018,Female,50-54,58096
-China,2019,Female,50-54,58372
-China,2020,Female,50-54,59265
-China,2021,Female,50-54,60091
-India,2018,Female,50-54,32748
-India,2019,Female,50-54,33430
-India,2020,Female,50-54,34131
-India,2021,Female,50-54,34836
-Pakistan,2018,Female,50-54,3801
-Pakistan,2019,Female,50-54,3847
-Pakistan,2020,Female,50-54,3894
-Pakistan,2021,Female,50-54,3951
-Indonesia,2018,Female,50-54,7641
-Indonesia,2019,Female,50-54,7819
-Indonesia,2020,Female,50-54,7982
-Indonesia,2021,Female,50-54,8119
-United States,2018,Female,50-54,10900
-United States,2019,Female,50-54,10741
-United States,2020,Female,50-54,10690
-United States,2021,Female,50-54,10720
-World,2022,Female,50-54,229122
-China,2022,Female,50-54,60831
-India,2022,Female,50-54,35535
-Pakistan,2022,Female,50-54,4020
-Indonesia,2022,Female,50-54,8243
-United States,2022,Female,50-54,10718
-World,2018,Male,55-59,175588
-World,2019,Male,55-59,183196
-World,2020,Male,55-59,190548
-World,2021,Male,55-59,197415
-China,2018,Male,55-59,38618
-China,2019,Male,55-59,43439
-China,2020,Male,55-59,48457
-China,2021,Male,55-59,53580
-India,2018,Male,55-59,28924
-India,2019,Male,55-59,29613
-India,2020,Male,55-59,30254
-India,2021,Male,55-59,30769
-Pakistan,2018,Male,55-59,3282
-Pakistan,2019,Male,55-59,3343
-Pakistan,2020,Male,55-59,3396
-Pakistan,2021,Male,55-59,3441
-Indonesia,2018,Male,55-59,6203
-Indonesia,2019,Male,55-59,6420
-Indonesia,2020,Male,55-59,6616
-Indonesia,2021,Male,55-59,6789
-United States,2018,Male,55-59,10973
-United States,2019,Male,55-59,10981
-United States,2020,Male,55-59,10897
-United States,2021,Male,55-59,10696
-World,2022,Male,55-59,202007
-China,2022,Male,55-59,56477
-India,2022,Male,55-59,31238
-Pakistan,2022,Male,55-59,3485
-Indonesia,2022,Male,55-59,6952
-United States,2022,Male,55-59,10489
-World,2018,Female,55-59,181784
-World,2019,Female,55-59,189289
-World,2020,Female,55-59,196592
-World,2021,Female,55-59,203476
-China,2018,Female,55-59,38956
-China,2019,Female,55-59,43795
-China,2020,Female,55-59,48856
-China,2021,Female,55-59,54039
-India,2018,Female,55-59,28104
-India,2019,Female,55-59,28765
-India,2020,Female,55-59,29402
-India,2021,Female,55-59,29954
-Pakistan,2018,Female,55-59,3324
-Pakistan,2019,Female,55-59,3400
-Pakistan,2020,Female,55-59,3466
-Pakistan,2021,Female,55-59,3522
-Indonesia,2018,Female,55-59,6327
-Indonesia,2019,Female,55-59,6547
-Indonesia,2020,Female,55-59,6751
-Indonesia,2021,Female,55-59,6937
-United States,2018,Female,55-59,11366
-United States,2019,Female,55-59,11367
-United States,2020,Female,55-59,11292
-United States,2021,Female,55-59,11100
-World,2022,Female,55-59,208055
-China,2022,Female,55-59,56967
-India,2022,Female,55-59,30478
-Pakistan,2022,Female,55-59,3575
-Indonesia,2022,Female,55-59,7113
-United States,2022,Female,55-59,10876
-World,2018,Male,60-64,152210
-World,2019,Male,60-64,154195
-World,2020,Male,60-64,154991
-World,2021,Male,60-64,155385
-China,2018,Male,60-64,39674
-China,2019,Male,60-64,38617
-China,2020,Male,60-64,36523
-China,2021,Male,60-64,34366
-India,2018,Male,60-64,23467
-India,2019,Male,60-64,24049
-India,2020,Male,60-64,24595
-India,2021,Male,60-64,25050
-Pakistan,2018,Male,60-64,2520
-Pakistan,2019,Male,60-64,2613
-Pakistan,2020,Male,60-64,2699
-Pakistan,2021,Male,60-64,2778
-Indonesia,2018,Male,60-64,4574
-Indonesia,2019,Male,60-64,4787
-Indonesia,2020,Male,60-64,4990
-Indonesia,2021,Male,60-64,5170
-United States,2018,Male,60-64,9996
-United States,2019,Male,60-64,10184
-United States,2020,Male,60-64,10312
-United States,2021,Male,60-64,10381
-World,2022,Male,60-64,157179
-China,2022,Male,60-64,33838
-India,2022,Male,60-64,25464
-Pakistan,2022,Male,60-64,2852
-Indonesia,2022,Male,60-64,5343
-United States,2022,Male,60-64,10395
-World,2018,Female,60-64,163455
-World,2019,Female,60-64,165393
-World,2020,Female,60-64,166126
-World,2021,Female,60-64,166554
-China,2018,Female,60-64,41590
-China,2019,Female,60-64,40380
-China,2020,Female,60-64,38122
-China,2021,Female,60-64,35830
-India,2018,Female,60-64,23354
-India,2019,Female,60-64,23967
-India,2020,Female,60-64,24543
-India,2021,Female,60-64,25039
-Pakistan,2018,Female,60-64,2617
-Pakistan,2019,Female,60-64,2727
-Pakistan,2020,Female,60-64,2831
-Pakistan,2021,Female,60-64,2927
-Indonesia,2018,Female,60-64,4849
-Indonesia,2019,Female,60-64,5072
-Indonesia,2020,Female,60-64,5289
-Indonesia,2021,Female,60-64,5491
-United States,2018,Female,60-64,10606
-United States,2019,Female,60-64,10758
-United States,2020,Female,60-64,10868
-United States,2021,Female,60-64,10951
-World,2022,Female,60-64,168408
-China,2022,Female,60-64,35205
-India,2022,Female,60-64,25493
-Pakistan,2022,Female,60-64,3017
-Indonesia,2022,Female,60-64,5685
-United States,2022,Female,60-64,10991
-World,2018,Male,65-69,118168
-World,2019,Male,65-69,122579
-World,2020,Male,65-69,126677
-World,2021,Male,65-69,129883
-China,2018,Male,65-69,30894
-China,2019,Male,65-69,32653
-China,2020,Male,65-69,34198
-China,2021,Male,65-69,35227
-India,2018,Male,65-69,17534
-India,2019,Male,65-69,18349
-India,2020,Male,65-69,18943
-India,2021,Male,65-69,19371
-Pakistan,2018,Male,65-69,1724
-Pakistan,2019,Male,65-69,1792
-Pakistan,2020,Male,65-69,1872
-Pakistan,2021,Male,65-69,1953
-Indonesia,2018,Male,65-69,3070
-Indonesia,2019,Male,65-69,3226
-Indonesia,2020,Male,65-69,3380
-Indonesia,2021,Male,65-69,3515
-United States,2018,Male,65-69,7976
-United States,2019,Male,65-69,8321
-United States,2020,Male,65-69,8766
-United States,2021,Male,65-69,8950
-World,2022,Male,65-69,132743
-China,2022,Male,65-69,35965
-India,2022,Male,65-69,19709
-Pakistan,2022,Male,65-69,2033
-Indonesia,2022,Male,65-69,3650
-United States,2022,Male,65-69,9023
-World,2018,Female,65-69,132708
-World,2019,Female,65-69,137796
-World,2020,Female,65-69,142508
-World,2021,Female,65-69,146246
-China,2018,Female,65-69,34104
-China,2019,Female,65-69,36207
-China,2020,Female,65-69,37927
-China,2021,Female,65-69,38994
-India,2018,Female,65-69,17736
-India,2019,Female,65-69,18561
-India,2020,Female,65-69,19233
-India,2021,Female,65-69,19774
-Pakistan,2018,Female,65-69,1862
-Pakistan,2019,Female,65-69,1944
-Pakistan,2020,Female,65-69,2039
-Pakistan,2021,Female,65-69,2140
-Indonesia,2018,Female,65-69,3484
-Indonesia,2019,Female,65-69,3637
-Indonesia,2020,Female,65-69,3809
-Indonesia,2021,Female,65-69,3977
-United States,2018,Female,65-69,8833
-United States,2019,Female,65-69,9181
-United States,2020,Female,65-69,9637
-United States,2021,Female,65-69,9819
-World,2022,Female,65-69,149480
-China,2022,Female,65-69,39669
-India,2022,Female,65-69,20226
-Pakistan,2022,Female,65-69,2239
-Indonesia,2022,Female,65-69,4145
-United States,2022,Female,65-69,9894
-World,2018,Male,70-74,79392
-World,2019,Male,70-74,83617
-World,2020,Male,70-74,88189
-World,2021,Male,70-74,92234
-China,2018,Male,70-74,18991
-China,2019,Male,70-74,20203
-China,2020,Male,70-74,21694
-China,2021,Male,70-74,23276
-India,2018,Male,70-74,10598
-India,2019,Male,70-74,11231
-India,2020,Male,70-74,11996
-India,2021,Male,70-74,12640
-Pakistan,2018,Male,70-74,1258
-Pakistan,2019,Male,70-74,1262
-Pakistan,2020,Male,70-74,1263
-Pakistan,2021,Male,70-74,1265
-Indonesia,2018,Male,70-74,2078
-Indonesia,2019,Male,70-74,2116
-Indonesia,2020,Male,70-74,2153
-Indonesia,2021,Male,70-74,2182
-United States,2018,Male,70-74,6099
-United States,2019,Male,70-74,6330
-United States,2020,Male,70-74,6505
-United States,2021,Male,70-74,6729
-World,2022,Male,70-74,95841
-China,2022,Male,70-74,25036
-India,2022,Male,70-74,13216
-Pakistan,2022,Male,70-74,1282
-Indonesia,2022,Male,70-74,2227
-United States,2022,Male,70-74,6937
-World,2018,Female,70-74,93283
-World,2019,Female,70-74,98478
-World,2020,Female,70-74,104267
-World,2021,Female,70-74,109635
-China,2018,Female,70-74,21085
-China,2019,Female,70-74,22679
-China,2020,Female,70-74,24696
-China,2021,Female,70-74,26888
-India,2018,Female,70-74,11629
-India,2019,Female,70-74,12194
-India,2020,Female,70-74,12887
-India,2021,Female,70-74,13497
-Pakistan,2018,Female,70-74,1365
-Pakistan,2019,Female,70-74,1400
-Pakistan,2020,Female,70-74,1428
-Pakistan,2021,Female,70-74,1454
-Indonesia,2018,Female,70-74,2711
-Indonesia,2019,Female,70-74,2739
-Indonesia,2020,Female,70-74,2757
-Indonesia,2021,Female,70-74,2769
-United States,2018,Female,70-74,7110
-United States,2019,Female,70-74,7359
-United States,2020,Female,70-74,7555
-United States,2021,Female,70-74,7845
-World,2022,Female,70-74,114408
-China,2022,Female,70-74,29300
-India,2022,Female,70-74,14063
-Pakistan,2022,Female,70-74,1493
-Indonesia,2022,Female,70-74,2806
-United States,2022,Female,70-74,8053
-World,2018,Male,75-79,53566
-World,2019,Male,75-79,54557
-World,2020,Male,75-79,55413
-World,2021,Male,75-79,56563
-China,2018,Male,75-79,12389
-China,2019,Male,75-79,12668
-China,2020,Male,75-79,13043
-China,2021,Male,75-79,13510
-India,2018,Male,75-79,6610
-India,2019,Male,75-79,6819
-India,2020,Male,75-79,7032
-India,2021,Male,75-79,7167
-Pakistan,2018,Male,75-79,767
-Pakistan,2019,Male,75-79,789
-Pakistan,2020,Male,75-79,806
-Pakistan,2021,Male,75-79,817
-Indonesia,2018,Male,75-79,1351
-Indonesia,2019,Male,75-79,1367
-Indonesia,2020,Male,75-79,1370
-Indonesia,2021,Male,75-79,1356
-United States,2018,Male,75-79,4020
-United States,2019,Male,75-79,4187
-United States,2020,Male,75-79,4283
-United States,2021,Male,75-79,4527
-World,2022,Male,75-79,58705
-China,2022,Male,75-79,14206
-India,2022,Male,75-79,7262
-Pakistan,2022,Male,75-79,826
-Indonesia,2022,Male,75-79,1339
-United States,2022,Male,75-79,4875
-World,2018,Female,75-79,69065
-World,2019,Female,75-79,69848
-World,2020,Female,75-79,70672
-World,2021,Female,75-79,72061
-China,2018,Female,75-79,14852
-China,2019,Female,75-79,15249
-China,2020,Female,75-79,15774
-China,2021,Female,75-79,16421
-India,2018,Female,75-79,7887
-India,2019,Female,75-79,8067
-India,2020,Female,75-79,8264
-India,2021,Female,75-79,8408
-Pakistan,2018,Female,75-79,844
-Pakistan,2019,Female,75-79,882
-Pakistan,2020,Female,75-79,918
-Pakistan,2021,Female,75-79,948
-Indonesia,2018,Female,75-79,1939
-Indonesia,2019,Female,75-79,1974
-Indonesia,2020,Female,75-79,1995
-Indonesia,2021,Female,75-79,1996
-United States,2018,Female,75-79,4888
-United States,2019,Female,75-79,5086
-United States,2020,Female,75-79,5236
-United States,2021,Female,75-79,5523
-World,2022,Female,75-79,74771
-China,2022,Female,75-79,17282
-India,2022,Female,75-79,8530
-Pakistan,2022,Female,75-79,977
-Indonesia,2022,Female,75-79,1989
-United States,2022,Female,75-79,5946
-World,2018,Male,80-84,32831
-World,2019,Male,80-84,33780
-World,2020,Male,80-84,34588
-World,2021,Male,80-84,35083
-China,2018,Male,80-84,7673
-China,2019,Male,80-84,7795
-China,2020,Male,80-84,7917
-China,2021,Male,80-84,8086
-India,2018,Male,80-84,3671
-India,2019,Male,80-84,3824
-India,2020,Male,80-84,3937
-India,2021,Male,80-84,3945
-Pakistan,2018,Male,80-84,355
-Pakistan,2019,Male,80-84,365
-Pakistan,2020,Male,80-84,374
-Pakistan,2021,Male,80-84,381
-Indonesia,2018,Male,80-84,688
-Indonesia,2019,Male,80-84,708
-Indonesia,2020,Male,80-84,716
-Indonesia,2021,Male,80-84,705
-United States,2018,Male,80-84,2585
-United States,2019,Male,80-84,2633
-United States,2020,Male,80-84,2726
-United States,2021,Male,80-84,2788
-World,2022,Male,80-84,35445
-China,2022,Male,80-84,8269
-India,2022,Male,80-84,3901
-Pakistan,2022,Male,80-84,390
-Indonesia,2022,Male,80-84,690
-United States,2022,Male,80-84,2867
-World,2018,Female,80-84,48119
-World,2019,Female,80-84,49386
-World,2020,Female,80-84,50472
-World,2021,Female,80-84,51213
-China,2018,Female,80-84,10602
-China,2019,Female,80-84,10707
-China,2020,Female,80-84,10838
-China,2021,Female,80-84,11068
-India,2018,Female,80-84,4752
-India,2019,Female,80-84,4940
-India,2020,Female,80-84,5085
-India,2021,Female,80-84,5116
-Pakistan,2018,Female,80-84,414
-Pakistan,2019,Female,80-84,432
-Pakistan,2020,Female,80-84,450
-Pakistan,2021,Female,80-84,467
-Indonesia,2018,Female,80-84,1090
-Indonesia,2019,Female,80-84,1129
-Indonesia,2020,Female,80-84,1156
-Indonesia,2021,Female,80-84,1162
-United States,2018,Female,80-84,3444
-United States,2019,Female,80-84,3486
-United States,2020,Female,80-84,3562
-United States,2021,Female,80-84,3657
-World,2022,Female,80-84,51631
-China,2022,Female,80-84,11340
-India,2022,Female,80-84,5075
-Pakistan,2022,Female,80-84,486
-Indonesia,2022,Female,80-84,1159
-United States,2022,Female,80-84,3787
-World,2018,Male,85-89,15429
-World,2019,Male,85-89,15956
-World,2020,Male,85-89,16354
-World,2021,Male,85-89,16646
-China,2018,Male,85-89,3262
-China,2019,Male,85-89,3440
-China,2020,Male,85-89,3589
-China,2021,Male,85-89,3721
-India,2018,Male,85-89,1603
-India,2019,Male,85-89,1686
-India,2020,Male,85-89,1740
-India,2021,Male,85-89,1719
-Pakistan,2018,Male,85-89,116
-Pakistan,2019,Male,85-89,119
-Pakistan,2020,Male,85-89,121
-Pakistan,2021,Male,85-89,121
-Indonesia,2018,Male,85-89,239
-Indonesia,2019,Male,85-89,248
-Indonesia,2020,Male,85-89,251
-Indonesia,2021,Male,85-89,243
-United States,2018,Male,85-89,1615
-United States,2019,Male,85-89,1604
-United States,2020,Male,85-89,1560
-United States,2021,Male,85-89,1563
-World,2022,Male,85-89,17008
-China,2022,Male,85-89,3863
-India,2022,Male,85-89,1672
-Pakistan,2022,Male,85-89,123
-Indonesia,2022,Male,85-89,236
-United States,2022,Male,85-89,1594
-World,2018,Female,85-89,26822
-World,2019,Female,85-89,27580
-World,2020,Female,85-89,28295
-World,2021,Female,85-89,28895
-China,2018,Female,85-89,5549
-China,2019,Female,85-89,5837
-China,2020,Female,85-89,6117
-China,2021,Female,85-89,6378
-India,2018,Female,85-89,2148
-India,2019,Female,85-89,2270
-India,2020,Female,85-89,2374
-India,2021,Female,85-89,2402
-Pakistan,2018,Female,85-89,147
-Pakistan,2019,Female,85-89,154
-Pakistan,2020,Female,85-89,160
-Pakistan,2021,Female,85-89,165
-Indonesia,2018,Female,85-89,426
-Indonesia,2019,Female,85-89,449
-Indonesia,2020,Female,85-89,464
-Indonesia,2021,Female,85-89,465
-United States,2018,Female,85-89,2327
-United States,2019,Female,85-89,2374
-United States,2020,Female,85-89,2383
-United States,2021,Female,85-89,2390
-World,2022,Female,85-89,29499
-China,2022,Female,85-89,6594
-India,2022,Female,85-89,2384
-Pakistan,2022,Female,85-89,171
-Indonesia,2022,Female,85-89,463
-United States,2022,Female,85-89,2411
-World,2018,Male,90-94,4892
-World,2019,Male,90-94,5184
-World,2020,Male,90-94,5449
-World,2021,Male,90-94,5627
-China,2018,Male,90-94,842
-China,2019,Male,90-94,895
-China,2020,Male,90-94,946
-China,2021,Male,90-94,992
-India,2018,Male,90-94,498
-India,2019,Male,90-94,540
-India,2020,Male,90-94,570
-India,2021,Male,90-94,569
-Pakistan,2018,Male,90-94,18
-Pakistan,2019,Male,90-94,19
-Pakistan,2020,Male,90-94,20
-Pakistan,2021,Male,90-94,21
-Indonesia,2018,Male,90-94,52
-Indonesia,2019,Male,90-94,54
-Indonesia,2020,Male,90-94,55
-Indonesia,2021,Male,90-94,54
-United States,2018,Male,90-94,590
-United States,2019,Male,90-94,607
-United States,2020,Male,90-94,650
-United States,2021,Male,90-94,696
-World,2022,Male,90-94,5763
-China,2022,Male,90-94,1042
-India,2022,Male,90-94,551
-Pakistan,2022,Male,90-94,22
-Indonesia,2022,Male,90-94,51
-United States,2022,Male,90-94,729
-World,2018,Female,90-94,11030
-World,2019,Female,90-94,11474
-World,2020,Female,90-94,11922
-World,2021,Female,90-94,12276
-China,2018,Female,90-94,1977
-China,2019,Female,90-94,2093
-China,2020,Female,90-94,2209
-China,2021,Female,90-94,2324
-India,2018,Female,90-94,692
-India,2019,Female,90-94,745
-India,2020,Female,90-94,793
-India,2021,Female,90-94,813
-Pakistan,2018,Female,90-94,32
-Pakistan,2019,Female,90-94,34
-Pakistan,2020,Female,90-94,36
-Pakistan,2021,Female,90-94,37
-Indonesia,2018,Female,90-94,104
-Indonesia,2019,Female,90-94,112
-Indonesia,2020,Female,90-94,117
-Indonesia,2021,Female,90-94,119
-United States,2018,Female,90-94,1085
-United States,2019,Female,90-94,1050
-United States,2020,Female,90-94,1081
-United States,2021,Female,90-94,1144
-World,2022,Female,90-94,12574
-China,2022,Female,90-94,2441
-India,2022,Female,90-94,811
-Pakistan,2022,Female,90-94,39
-Indonesia,2022,Female,90-94,118
-United States,2022,Female,90-94,1215
-World,2018,Male,95-99,879
-World,2019,Male,95-99,954
-World,2020,Male,95-99,1014
-World,2021,Male,95-99,1070
-China,2018,Male,95-99,84
-China,2019,Male,95-99,95
-China,2020,Male,95-99,107
-China,2021,Male,95-99,115
-India,2018,Male,95-99,96
-India,2019,Male,95-99,107
-India,2020,Male,95-99,116
-India,2021,Male,95-99,120
-Pakistan,2018,Male,95-99,1
-Pakistan,2019,Male,95-99,1
-Pakistan,2020,Male,95-99,1
-Pakistan,2021,Male,95-99,1
-Indonesia,2018,Male,95-99,6
-Indonesia,2019,Male,95-99,7
-Indonesia,2020,Male,95-99,7
-Indonesia,2021,Male,95-99,7
-United States,2018,Male,95-99,143
-United States,2019,Male,95-99,151
-United States,2020,Male,95-99,149
-United States,2021,Male,95-99,154
-World,2022,Male,95-99,1126
-China,2022,Male,95-99,124
-India,2022,Male,95-99,121
-Pakistan,2022,Male,95-99,1
-Indonesia,2022,Male,95-99,7
-United States,2022,Male,95-99,165
-World,2018,Female,95-99,2779
-World,2019,Female,95-99,2965
-World,2020,Female,95-99,3116
-World,2021,Female,95-99,3253
-China,2018,Female,95-99,354
-China,2019,Female,95-99,392
-China,2020,Female,95-99,433
-China,2021,Female,95-99,465
-India,2018,Female,95-99,140
-India,2019,Female,95-99,155
-India,2020,Female,95-99,168
-India,2021,Female,95-99,177
-Pakistan,2018,Female,95-99,3
-Pakistan,2019,Female,95-99,3
-Pakistan,2020,Female,95-99,3
-Pakistan,2021,Female,95-99,4
-Indonesia,2018,Female,95-99,14
-Indonesia,2019,Female,95-99,15
-Indonesia,2020,Female,95-99,16
-Indonesia,2021,Female,95-99,17
-United States,2018,Female,95-99,359
-United States,2019,Female,95-99,352
-United States,2020,Female,95-99,332
-United States,2021,Female,95-99,339
-World,2022,Female,95-99,3379
-China,2022,Female,95-99,495
-India,2022,Female,95-99,180
-Pakistan,2022,Female,95-99,4
-Indonesia,2022,Female,95-99,17
-United States,2022,Female,95-99,356
-World,2018,Male,100+,88
-World,2019,Male,100+,94
-World,2020,Male,100+,104
-World,2021,Male,100+,114
-China,2018,Male,100+,2
-China,2019,Male,100+,2
-China,2020,Male,100+,3
-China,2021,Male,100+,3
-India,2018,Male,100+,13
-India,2019,Male,100+,14
-India,2020,Male,100+,16
-India,2021,Male,100+,16
-Pakistan,2018,Male,100+,1
-Pakistan,2019,Male,100+,1
-Pakistan,2020,Male,100+,1
-Pakistan,2021,Male,100+,1
-Indonesia,2018,Male,100+,1
-Indonesia,2019,Male,100+,1
-Indonesia,2020,Male,100+,1
-Indonesia,2021,Male,100+,1
-United States,2018,Male,100+,16
-United States,2019,Male,100+,17
-United States,2020,Male,100+,20
-United States,2021,Male,100+,23
-World,2022,Male,100+,122
-China,2022,Male,100+,4
-India,2022,Male,100+,16
-Pakistan,2022,Male,100+,1
-Indonesia,2022,Male,100+,1
-United States,2022,Male,100+,25
-World,2018,Female,100+,389
-World,2019,Female,100+,411
-World,2020,Female,100+,445
-World,2021,Female,100+,480
-China,2018,Female,100+,27
-China,2019,Female,100+,30
-China,2020,Female,100+,34
-China,2021,Female,100+,39
-India,2018,Female,100+,18
-India,2019,Female,100+,21
-India,2020,Female,100+,23
-India,2021,Female,100+,24
-Pakistan,2018,Female,100+,1
-Pakistan,2019,Female,100+,1
-Pakistan,2020,Female,100+,1
-Pakistan,2021,Female,100+,1
-Indonesia,2018,Female,100+,2
-Indonesia,2019,Female,100+,2
-Indonesia,2020,Female,100+,2
-Indonesia,2021,Female,100+,2
-United States,2018,Female,100+,61
-United States,2019,Female,100+,62
-United States,2020,Female,100+,65
-United States,2021,Female,100+,68
-World,2022,Female,100+,512
-China,2022,Female,100+,44
-India,2022,Female,100+,25
-Pakistan,2022,Female,100+,1
-Indonesia,2022,Female,100+,2
-United States,2022,Female,100+,71
-Australia,2018,Female,0-4,765
-Australia,2019,Female,0-4,763
-Australia,2020,Female,0-4,757
-Australia,2021,Female,0-4,748
-Australia,2018,Female,45055,781
-Australia,2019,Female,45055,787
-Australia,2020,Female,45055,789
-Australia,2021,Female,45055,790
-Australia,2018,Female,45213,737
-Australia,2019,Female,45213,756
-Australia,2020,Female,45213,772
-Australia,2021,Female,45213,781
-Australia,2018,Female,15-19,726
-Australia,2019,Female,15-19,728
-Australia,2020,Female,15-19,727
-Australia,2021,Female,15-19,732
-Australia,2018,Female,20-24,849
-Australia,2019,Female,20-24,851
-Australia,2020,Female,20-24,839
-Australia,2021,Female,20-24,822
-Australia,2018,Female,25-29,938
-Australia,2019,Female,25-29,950
-Australia,2020,Female,25-29,954
-Australia,2021,Female,25-29,949
-Australia,2018,Female,30-34,942
-Australia,2019,Female,30-34,961
-Australia,2020,Female,30-34,977
-Australia,2021,Female,30-34,987
-Australia,2018,Female,35-39,866
-Australia,2019,Female,35-39,898
-Australia,2020,Female,35-39,927
-Australia,2021,Female,35-39,949
-Australia,2018,Female,40-44,803
-Australia,2019,Female,40-44,806
-Australia,2020,Female,40-44,818
-Australia,2021,Female,40-44,837
-Australia,2018,Female,45-49,850
-Australia,2019,Female,45-49,853
-Australia,2020,Female,45-49,848
-Australia,2021,Female,45-49,835
-Australia,2018,Female,50-54,781
-Australia,2019,Female,50-54,787
-Australia,2020,Female,50-54,802
-Australia,2021,Female,50-54,823
-Australia,2018,Female,55-59,779
-Australia,2019,Female,55-59,786
-Australia,2020,Female,55-59,787
-Australia,2021,Female,55-59,784
-Australia,2018,Female,60-64,698
-Australia,2019,Female,60-64,713
-Australia,2020,Female,60-64,729
-Australia,2021,Female,60-64,744
-Australia,2018,Female,65-69,618
-Australia,2019,Female,65-69,630
-Australia,2020,Female,65-69,642
-Australia,2021,Female,65-69,655
-Australia,2018,Female,70-74,516
-Australia,2019,Female,70-74,539
-Australia,2020,Female,70-74,560
-Australia,2021,Female,70-74,576
-Australia,2018,Female,75-79,368
-Australia,2019,Female,75-79,384
-Australia,2020,Female,75-79,402
-Australia,2021,Female,75-79,424
-Australia,2018,Female,80-84,268
-Australia,2019,Female,80-84,278
-Australia,2020,Female,80-84,287
-Australia,2021,Female,80-84,297
-Australia,2018,Female,85-89,184
-Australia,2019,Female,85-89,185
-Australia,2020,Female,85-89,187
-Australia,2021,Female,85-89,190
-Australia,2018,Female,90-94,98
-Australia,2019,Female,90-94,100
-Australia,2020,Female,90-94,102
-Australia,2021,Female,90-94,103
-Australia,2018,Female,95-99,28
-Australia,2019,Female,95-99,30
-Australia,2020,Female,95-99,32
-Australia,2021,Female,95-99,34
-Australia,2018,Female,100+,4
-Australia,2019,Female,100+,4
-Australia,2020,Female,100+,5
-Australia,2021,Female,100+,5
-Australia,2022,Female,0-4,743
-Australia,2022,Female,45055,787
-Australia,2022,Female,45213,787
-Australia,2022,Female,15-19,746
-Australia,2022,Female,20-24,807
-Australia,2022,Female,25-29,941
-Australia,2022,Female,30-34,995
-Australia,2022,Female,35-39,968
-Australia,2022,Female,40-44,861
-Australia,2022,Female,45-49,822
-Australia,2022,Female,50-54,843
-Australia,2022,Female,55-59,780
-Australia,2022,Female,60-64,758
-Australia,2022,Female,65-69,669
-Australia,2022,Female,70-74,584
-Australia,2022,Female,75-79,452
-Australia,2022,Female,80-84,307
-Australia,2022,Female,85-89,195
-Australia,2022,Female,90-94,103
-Australia,2022,Female,95-99,35
-Australia,2022,Female,100+,6
-Australia,2018,Male,0-4,809
-Australia,2019,Male,0-4,807
-Australia,2020,Male,0-4,801
-Australia,2021,Male,0-4,791
-Australia,2018,Male,45055,823
-Australia,2019,Male,45055,829
-Australia,2020,Male,45055,831
-Australia,2021,Male,45055,833
-Australia,2018,Male,45213,779
-Australia,2019,Male,45213,798
-Australia,2020,Male,45213,813
-Australia,2021,Male,45213,823
-Australia,2018,Male,15-19,766
-Australia,2019,Male,15-19,767
-Australia,2020,Male,15-19,765
-Australia,2021,Male,15-19,771
-Australia,2018,Male,20-24,891
-Australia,2019,Male,20-24,894
-Australia,2020,Male,20-24,881
-Australia,2021,Male,20-24,862
-Australia,2018,Male,25-29,942
-Australia,2019,Male,25-29,962
-Australia,2020,Male,25-29,978
-Australia,2021,Male,25-29,981
-Australia,2018,Male,30-34,921
-Australia,2019,Male,30-34,938
-Australia,2020,Male,30-34,957
-Australia,2021,Male,30-34,971
-Australia,2018,Male,35-39,858
-Australia,2019,Male,35-39,887
-Australia,2020,Male,35-39,913
-Australia,2021,Male,35-39,932
-Australia,2018,Male,40-44,795
-Australia,2019,Male,40-44,798
-Australia,2020,Male,40-44,810
-Australia,2021,Male,40-44,829
-Australia,2018,Male,45-49,818
-Australia,2019,Male,45-49,825
-Australia,2020,Male,45-49,825
-Australia,2021,Male,45-49,818
-Australia,2018,Male,50-54,751
-Australia,2019,Male,50-54,754
-Australia,2020,Male,50-54,767
-Australia,2021,Male,50-54,786
-Australia,2018,Male,55-59,749
-Australia,2019,Male,55-59,756
-Australia,2020,Male,55-59,758
-Australia,2021,Male,55-59,754
-Australia,2018,Male,60-64,663
-Australia,2019,Male,60-64,677
-Australia,2020,Male,60-64,692
-Australia,2021,Male,60-64,707
-Australia,2018,Male,65-69,591
-Australia,2019,Male,65-69,596
-Australia,2020,Male,65-69,604
-Australia,2021,Male,65-69,614
-Australia,2018,Male,70-74,498
-Australia,2019,Male,70-74,519
-Australia,2020,Male,70-74,536
-Australia,2021,Male,70-74,547
-Australia,2018,Male,75-79,336
-Australia,2019,Male,75-79,352
-Australia,2020,Male,75-79,370
-Australia,2021,Male,75-79,392
-Australia,2018,Male,80-84,219
-Australia,2019,Male,80-84,229
-Australia,2020,Male,80-84,240
-Australia,2021,Male,80-84,251
-Australia,2018,Male,85-89,128
-Australia,2019,Male,85-89,130
-Australia,2020,Male,85-89,133
-Australia,2021,Male,85-89,138
-Australia,2018,Male,90-94,53
-Australia,2019,Male,90-94,57
-Australia,2020,Male,90-94,59
-Australia,2021,Male,90-94,61
-Australia,2018,Male,95-99,11
-Australia,2019,Male,95-99,12
-Australia,2020,Male,95-99,14
-Australia,2021,Male,95-99,15
-Australia,2018,Male,100+,1
-Australia,2019,Male,100+,1
-Australia,2020,Male,100+,2
-Australia,2021,Male,100+,2
-Australia,2022,Male,0-4,785
-Australia,2022,Male,45055,830
-Australia,2022,Male,45213,829
-Australia,2022,Male,15-19,786
-Australia,2022,Male,20-24,846
-Australia,2022,Male,25-29,978
-Australia,2022,Male,30-34,985
-Australia,2022,Male,35-39,948
-Australia,2022,Male,40-44,854
-Australia,2022,Male,45-49,811
-Australia,2022,Male,50-54,806
-Australia,2022,Male,55-59,749
-Australia,2022,Male,60-64,722
-Australia,2022,Male,65-69,626
-Australia,2022,Male,70-74,551
-Australia,2022,Male,75-79,419
-Australia,2022,Male,80-84,262
-Australia,2022,Male,85-89,144
-Australia,2022,Male,90-94,62
-Australia,2022,Male,95-99,16
-Australia,2022,Male,100+,2
-South Africa,2018,Female,0-4,2810
-South Africa,2019,Female,0-4,2826
-South Africa,2020,Female,0-4,2841
-South Africa,2021,Female,0-4,2855
-Japan,2018,Female,0-4,2336
-Japan,2019,Female,0-4,2251
-Japan,2020,Female,0-4,2168
-Japan,2021,Female,0-4,2095
-Malaysia,2018,Female,0-4,1269
-Malaysia,2019,Female,0-4,1264
-Malaysia,2020,Female,0-4,1254
-Malaysia,2021,Female,0-4,1246
-Philippines,2018,Female,0-4,5647
-Philippines,2019,Female,0-4,5676
-Philippines,2020,Female,0-4,5712
-Philippines,2021,Female,0-4,5753
-United Kingdom,2018,Female,0-4,1905
-United Kingdom,2019,Female,0-4,1874
-United Kingdom,2020,Female,0-4,1830
-United Kingdom,2021,Female,0-4,1778
-South Africa,2018,Female,45055,2767
-South Africa,2019,Female,45055,2778
-South Africa,2020,Female,45055,2799
-South Africa,2021,Female,45055,2802
-Japan,2018,Female,45055,2557
-Japan,2019,Female,45055,2522
-Japan,2020,Female,45055,2487
-Japan,2021,Female,45055,2454
-Malaysia,2018,Female,45055,1217
-Malaysia,2019,Female,45055,1230
-Malaysia,2020,Female,45055,1250
-Malaysia,2021,Female,45055,1264
-Philippines,2018,Female,45055,5547
-Philippines,2019,Female,45055,5559
-Philippines,2020,Female,45055,5568
-Philippines,2021,Female,45055,5580
-United Kingdom,2018,Female,45055,2018
-United Kingdom,2019,Female,45055,2019
-United Kingdom,2020,Female,45055,2014
-United Kingdom,2021,Female,45055,2002
-South Africa,2018,Female,45213,2501
-South Africa,2019,Female,45213,2598
-South Africa,2020,Female,45213,2661
-South Africa,2021,Female,45213,2708
-Japan,2018,Female,45213,2661
-Japan,2019,Female,45213,2649
-Japan,2020,Female,45213,2639
-Japan,2021,Female,45213,2620
-Malaysia,2018,Female,45213,1282
-Malaysia,2019,Female,45213,1264
-Malaysia,2020,Female,45213,1244
-Malaysia,2021,Female,45213,1227
-Philippines,2018,Female,45213,5354
-Philippines,2019,Female,45213,5414
-Philippines,2020,Female,45213,5462
-Philippines,2021,Female,45213,5495
-United Kingdom,2018,Female,45213,1878
-United Kingdom,2019,Female,45213,1926
-United Kingdom,2020,Female,45213,1970
-United Kingdom,2021,Female,45213,2011
-South Africa,2018,Female,15-19,2218
-South Africa,2019,Female,15-19,2219
-South Africa,2020,Female,15-19,2253
-South Africa,2021,Female,15-19,2315
-Japan,2018,Female,15-19,2868
-Japan,2019,Female,15-19,2833
-Japan,2020,Female,15-19,2785
-Japan,2021,Female,15-19,2737
-Malaysia,2018,Female,15-19,1342
-Malaysia,2019,Female,15-19,1332
-Malaysia,2020,Female,15-19,1321
-Malaysia,2021,Female,15-19,1312
-Philippines,2018,Female,15-19,5107
-Philippines,2019,Female,15-19,5141
-Philippines,2020,Female,15-19,5170
-Philippines,2021,Female,15-19,5210
-United Kingdom,2018,Female,15-19,1790
-United Kingdom,2019,Female,15-19,1784
-United Kingdom,2020,Female,15-19,1796
-United Kingdom,2021,Female,15-19,1827
-South Africa,2018,Female,20-24,2529
-South Africa,2019,Female,20-24,2448
-South Africa,2020,Female,20-24,2367
-South Africa,2021,Female,20-24,2290
-Japan,2018,Female,20-24,2974
-Japan,2019,Female,20-24,2961
-Japan,2020,Female,20-24,2952
-Japan,2021,Female,20-24,2951
-Malaysia,2018,Female,20-24,1412
-Malaysia,2019,Female,20-24,1399
-Malaysia,2020,Female,20-24,1387
-Malaysia,2021,Female,20-24,1379
-Philippines,2018,Female,20-24,4875
-Philippines,2019,Female,20-24,4923
-Philippines,2020,Female,20-24,4977
-Philippines,2021,Female,20-24,5018
-United Kingdom,2018,Female,20-24,2033
-United Kingdom,2019,Female,20-24,2014
-United Kingdom,2020,Female,20-24,1990
-United Kingdom,2021,Female,20-24,1957
-South Africa,2018,Female,25-29,2813
-South Africa,2019,Female,25-29,2760
-South Africa,2020,Female,25-29,2710
-South Africa,2021,Female,25-29,2656
-Japan,2018,Female,25-29,3004
-Japan,2019,Female,25-29,2976
-Japan,2020,Female,25-29,2972
-Japan,2021,Female,25-29,2973
-Malaysia,2018,Female,25-29,1477
-Malaysia,2019,Female,25-29,1477
-Malaysia,2020,Female,25-29,1473
-Malaysia,2021,Female,25-29,1464
-Philippines,2018,Female,25-29,4481
-Philippines,2019,Female,25-29,4578
-Philippines,2020,Female,25-29,4666
-Philippines,2021,Female,25-29,4735
-United Kingdom,2018,Female,25-29,2236
-United Kingdom,2019,Female,25-29,2221
-United Kingdom,2020,Female,25-29,2199
-United Kingdom,2021,Female,25-29,2171
-South Africa,2018,Female,30-34,2701
-South Africa,2019,Female,30-34,2776
-South Africa,2020,Female,30-34,2820
-South Africa,2021,Female,30-34,2829
-Japan,2018,Female,30-34,3347
-Japan,2019,Female,30-34,3270
-Japan,2020,Female,30-34,3190
-Japan,2021,Female,30-34,3132
-Malaysia,2018,Female,30-34,1423
-Malaysia,2019,Female,30-34,1450
-Malaysia,2020,Female,30-34,1471
-Malaysia,2021,Female,30-34,1485
-Philippines,2018,Female,30-34,3892
-Philippines,2019,Female,30-34,3996
-Philippines,2020,Female,30-34,4103
-Philippines,2021,Female,30-34,4216
-United Kingdom,2018,Female,30-34,2241
-United Kingdom,2019,Female,30-34,2251
-United Kingdom,2020,Female,30-34,2258
-United Kingdom,2021,Female,30-34,2266
-South Africa,2018,Female,35-39,2106
-South Africa,2019,Female,35-39,2230
-South Africa,2020,Female,35-39,2338
-South Africa,2021,Female,35-39,2441
-Japan,2018,Female,35-39,3715
-Japan,2019,Female,35-39,3616
-Japan,2020,Female,35-39,3535
-Japan,2021,Female,35-39,3466
-Malaysia,2018,Female,35-39,1212
-Malaysia,2019,Female,35-39,1266
-Malaysia,2020,Female,35-39,1317
-Malaysia,2021,Female,35-39,1362
-Philippines,2018,Female,35-39,3527
-Philippines,2019,Female,35-39,3579
-Philippines,2020,Female,35-39,3633
-Philippines,2021,Female,35-39,3694
-United Kingdom,2018,Female,35-39,2200
-United Kingdom,2019,Female,35-39,2222
-United Kingdom,2020,Female,35-39,2227
-United Kingdom,2021,Female,35-39,2230
-South Africa,2018,Female,40-49,1446
-South Africa,2019,Female,40-49,1509
-South Africa,2020,Female,40-49,1620
-South Africa,2021,Female,40-49,1758
-Japan,2018,Female,40-49,4504
-Japan,2019,Female,40-49,4313
-Japan,2020,Female,40-49,4135
-Japan,2021,Female,40-49,3975
-Malaysia,2018,Female,40-49,1012
-Malaysia,2019,Female,40-49,1040
-Malaysia,2020,Female,40-49,1075
-Malaysia,2021,Female,40-49,1116
-Philippines,2018,Female,40-49,3135
-Philippines,2019,Female,40-49,3216
-Philippines,2020,Female,40-49,3296
-Philippines,2021,Female,40-49,3366
-United Kingdom,2018,Female,40-49,2024
-United Kingdom,2019,Female,40-49,2029
-United Kingdom,2020,Female,40-49,2065
-United Kingdom,2021,Female,40-49,2114
-South Africa,2018,Female,45-49,1679
-South Africa,2019,Female,45-49,1593
-South Africa,2020,Female,45-49,1502
-South Africa,2021,Female,45-49,1425
-Japan,2018,Female,45-49,4651
-Japan,2019,Female,45-49,4741
-Japan,2020,Female,45-49,4780
-Japan,2021,Female,45-49,4750
-Malaysia,2018,Female,45-49,924
-Malaysia,2019,Female,45-49,938
-Malaysia,2020,Female,45-49,953
-Malaysia,2021,Female,45-49,969
-Philippines,2018,Female,45-49,2793
-Philippines,2019,Female,45-49,2842
-Philippines,2020,Female,45-49,2892
-Philippines,2021,Female,45-49,2947
-United Kingdom,2018,Female,45-49,2281
-United Kingdom,2019,Female,45-49,2232
-United Kingdom,2020,Female,45-49,2175
-United Kingdom,2021,Female,45-49,2111
-South Africa,2018,Female,50-54,1620
-South Africa,2019,Female,50-54,1671
-South Africa,2020,Female,50-54,1699
-South Africa,2021,Female,50-54,1694
-Japan,2018,Female,50-54,4091
-Japan,2019,Female,50-54,4165
-Japan,2020,Female,50-54,4226
-Japan,2021,Female,50-54,4387
-Malaysia,2018,Female,50-54,832
-Malaysia,2019,Female,50-54,851
-Malaysia,2020,Female,50-54,868
-Malaysia,2021,Female,50-54,884
-Philippines,2018,Female,50-54,2418
-Philippines,2019,Female,50-54,2483
-Philippines,2020,Female,50-54,2550
-Philippines,2021,Female,50-54,2615
-United Kingdom,2018,Female,50-54,2370
-United Kingdom,2019,Female,50-54,2362
-United Kingdom,2020,Female,50-54,2345
-United Kingdom,2021,Female,50-54,2331
-South Africa,2018,Female,55-59,1190
-South Africa,2019,Female,55-59,1254
-South Africa,2020,Female,55-59,1322
-South Africa,2021,Female,55-59,1387
-Japan,2018,Female,55-59,3778
-Japan,2019,Female,55-59,3826
-Japan,2020,Female,55-59,3904
-Japan,2021,Female,55-59,3907
-Malaysia,2018,Female,55-59,716
-Malaysia,2019,Female,55-59,735
-Malaysia,2020,Female,55-59,754
-Malaysia,2021,Female,55-59,774
-Philippines,2018,Female,55-59,2041
-Philippines,2019,Female,55-59,2103
-Philippines,2020,Female,55-59,2163
-Philippines,2021,Female,55-59,2219
-United Kingdom,2018,Female,55-59,2179
-United Kingdom,2019,Female,55-59,2237
-United Kingdom,2020,Female,55-59,2289
-United Kingdom,2021,Female,55-59,2323
-South Africa,2018,Female,60-64,938
-South Africa,2019,Female,60-64,950
-South Africa,2020,Female,60-64,970
-South Africa,2021,Female,60-64,997
-Japan,2018,Female,60-64,3784
-Japan,2019,Female,60-64,3740
-Japan,2020,Female,60-64,3702
-Japan,2021,Female,60-64,3678
-Malaysia,2018,Female,60-64,586
-Malaysia,2019,Female,60-64,608
-Malaysia,2020,Female,60-64,630
-Malaysia,2021,Female,60-64,651
-Philippines,2018,Female,60-64,1650
-Philippines,2019,Female,60-64,1710
-Philippines,2020,Female,60-64,1768
-Philippines,2021,Female,60-64,1822
-United Kingdom,2018,Female,60-64,1878
-United Kingdom,2019,Female,60-64,1921
-United Kingdom,2020,Female,60-64,1974
-United Kingdom,2021,Female,60-64,2031
-South Africa,2018,Female,65-69,816
-South Africa,2019,Female,65-69,825
-South Africa,2020,Female,65-69,829
-South Africa,2021,Female,65-69,822
-Japan,2018,Female,65-69,4817
-Japan,2019,Female,65-69,4458
-Japan,2020,Female,65-69,4173
-Japan,2021,Female,65-69,3980
-Malaysia,2018,Female,65-69,439
-Malaysia,2019,Female,65-69,461
-Malaysia,2020,Female,65-69,483
-Malaysia,2021,Female,65-69,504
-Philippines,2018,Female,65-69,1208
-Philippines,2019,Female,65-69,1272
-Philippines,2020,Female,65-69,1338
-Philippines,2021,Female,65-69,1397
-United Kingdom,2018,Female,65-69,1760
-United Kingdom,2019,Female,65-69,1742
-United Kingdom,2020,Female,65-69,1739
-United Kingdom,2021,Female,65-69,1752
-South Africa,2018,Female,70-74,595
-South Africa,2019,Female,70-74,623
-South Africa,2020,Female,70-74,643
-South Africa,2021,Female,70-74,655
-Japan,2018,Female,70-74,4360
-Japan,2019,Female,70-74,4629
-Japan,2020,Female,70-74,4890
-Japan,2021,Female,70-74,5058
-Malaysia,2018,Female,70-74,300
-Malaysia,2019,Female,70-74,316
-Malaysia,2020,Female,70-74,334
-Malaysia,2021,Female,70-74,351
-Philippines,2018,Female,70-74,788
-Philippines,2019,Female,70-74,832
-Philippines,2020,Female,70-74,881
-Philippines,2021,Female,70-74,931
-United Kingdom,2018,Female,70-74,1685
-United Kingdom,2019,Female,70-74,1730
-United Kingdom,2020,Female,70-74,1752
-United Kingdom,2021,Female,70-74,1744
-South Africa,2018,Female,75-79,376
-South Africa,2019,Female,75-79,393
-South Africa,2020,Female,75-79,409
-South Africa,2021,Female,75-79,420
-Japan,2018,Female,75-79,3892
-Japan,2019,Female,75-79,4010
-Japan,2020,Female,75-79,3996
-Japan,2021,Female,75-79,3876
-Malaysia,2018,Female,75-79,190
-Malaysia,2019,Female,75-79,200
-Malaysia,2020,Female,75-79,211
-Malaysia,2021,Female,75-79,222
-Philippines,2018,Female,75-79,529
-Philippines,2019,Female,75-79,538
-Philippines,2020,Female,75-79,549
-Philippines,2021,Female,75-79,560
-United Kingdom,2018,Female,75-79,1207
-United Kingdom,2019,Female,75-79,1248
-United Kingdom,2020,Female,75-79,1295
-United Kingdom,2021,Female,75-79,1362
-South Africa,2018,Female,80-84,218
-South Africa,2019,Female,80-84,227
-South Africa,2020,Female,80-84,236
-South Africa,2021,Female,80-84,243
-Japan,2018,Female,80-84,3222
-Japan,2019,Female,80-84,3212
-Japan,2020,Female,80-84,3229
-Japan,2021,Female,80-84,3304
-Malaysia,2018,Female,80-84,107
-Malaysia,2019,Female,80-84,113
-Malaysia,2020,Female,80-84,119
-Malaysia,2021,Female,80-84,125
-Philippines,2018,Female,80-84,317
-Philippines,2019,Female,80-84,322
-Philippines,2020,Female,80-84,326
-Philippines,2021,Female,80-84,326
-United Kingdom,2018,Female,80-84,943
-United Kingdom,2019,Female,80-84,959
-United Kingdom,2020,Female,80-84,965
-United Kingdom,2021,Female,80-84,964
-South Africa,2018,Female,85-89,132
-South Africa,2019,Female,85-89,131
-South Africa,2020,Female,85-89,130
-South Africa,2021,Female,85-89,127
-Japan,2018,Female,85-89,2358
-Japan,2019,Female,85-89,2425
-Japan,2020,Female,85-89,2492
-Japan,2021,Female,85-89,2554
-Malaysia,2018,Female,85-89,48
-Malaysia,2019,Female,85-89,51
-Malaysia,2020,Female,85-89,54
-Malaysia,2021,Female,85-89,56
-Philippines,2018,Female,85-89,140
-Philippines,2019,Female,85-89,141
-Philippines,2020,Female,85-89,143
-Philippines,2021,Female,85-89,139
-United Kingdom,2018,Female,85-89,625
-United Kingdom,2019,Female,85-89,629
-United Kingdom,2020,Female,85-89,633
-United Kingdom,2021,Female,85-89,638
-South Africa,2018,Female,90-94,57
-South Africa,2019,Female,90-94,61
-South Africa,2020,Female,90-94,63
-South Africa,2021,Female,90-94,63
-Japan,2018,Female,90-94,1351
-Japan,2019,Female,90-94,1411
-Japan,2020,Female,90-94,1449
-Japan,2021,Female,90-94,1468
-Malaysia,2018,Female,90-94,18
-Malaysia,2019,Female,90-94,19
-Malaysia,2020,Female,90-94,19
-Malaysia,2021,Female,90-94,20
-Philippines,2018,Female,90-94,45
-Philippines,2019,Female,90-94,45
-Philippines,2020,Female,90-94,44
-Philippines,2021,Female,90-94,41
-United Kingdom,2018,Female,90-94,302
-United Kingdom,2019,Female,90-94,308
-United Kingdom,2020,Female,90-94,314
-United Kingdom,2021,Female,90-94,320
-South Africa,2018,Female,95-99,13
-South Africa,2019,Female,95-99,14
-South Africa,2020,Female,95-99,16
-South Africa,2021,Female,95-99,17
-Japan,2018,Female,95-99,495
-Japan,2019,Female,95-99,529
-Japan,2020,Female,95-99,557
-Japan,2021,Female,95-99,574
-Malaysia,2018,Female,95-99,5
-Malaysia,2019,Female,95-99,5
-Malaysia,2020,Female,95-99,5
-Malaysia,2021,Female,95-99,5
-Philippines,2018,Female,95-99,11
-Philippines,2019,Female,95-99,10
-Philippines,2020,Female,95-99,9
-Philippines,2021,Female,95-99,8
-United Kingdom,2018,Female,95-99,92
-United Kingdom,2019,Female,95-99,96
-United Kingdom,2020,Female,95-99,100
-United Kingdom,2021,Female,95-99,103
-South Africa,2018,Female,100+,2
-South Africa,2019,Female,100+,3
-South Africa,2020,Female,100+,3
-South Africa,2021,Female,100+,3
-Japan,2018,Female,100+,101
-Japan,2019,Female,100+,107
-Japan,2020,Female,100+,112
-Japan,2021,Female,100+,116
-Malaysia,2018,Female,100+,1
-Malaysia,2019,Female,100+,1
-Malaysia,2020,Female,100+,1
-Malaysia,2021,Female,100+,1
-Philippines,2018,Female,100+,2
-Philippines,2019,Female,100+,2
-Philippines,2020,Female,100+,2
-Philippines,2021,Female,100+,1
-United Kingdom,2018,Female,100+,12
-United Kingdom,2019,Female,100+,13
-United Kingdom,2020,Female,100+,15
-United Kingdom,2021,Female,100+,17
-South Africa,2022,Female,0-4,2859
-Japan,2022,Female,0-4,2044
-Malaysia,2022,Female,0-4,1239
-Philippines,2022,Female,0-4,5795
-United Kingdom,2022,Female,0-4,1730
-South Africa,2022,Female,45055,2794
-Japan,2022,Female,45055,2405
-Malaysia,2022,Female,45055,1271
-Philippines,2022,Female,45055,5598
-United Kingdom,2022,Female,45055,1977
-South Africa,2022,Female,45213,2747
-Japan,2022,Female,45213,2591
-Malaysia,2022,Female,45213,1218
-Philippines,2022,Female,45213,5517
-United Kingdom,2022,Female,45213,2039
-South Africa,2022,Female,15-19,2396
-Japan,2022,Female,15-19,2704
-Malaysia,2022,Female,15-19,1302
-Philippines,2022,Female,15-19,5268
-United Kingdom,2022,Female,15-19,1872
-South Africa,2022,Female,20-24,2237
-Japan,2022,Female,20-24,2934
-Malaysia,2022,Female,20-24,1373
-Philippines,2022,Female,20-24,5041
-United Kingdom,2022,Female,20-24,1918
-South Africa,2022,Female,25-29,2585
-Japan,2022,Female,25-29,2981
-Malaysia,2022,Female,25-29,1450
-Philippines,2022,Female,25-29,4788
-United Kingdom,2022,Female,25-29,2146
-South Africa,2022,Female,30-34,2808
-Japan,2022,Female,30-34,3084
-Malaysia,2022,Female,30-34,1492
-Philippines,2022,Female,30-34,4333
-United Kingdom,2022,Female,30-34,2273
-South Africa,2022,Female,35-39,2544
-Japan,2022,Female,35-39,3405
-Malaysia,2022,Female,35-39,1400
-Philippines,2022,Female,35-39,3766
-United Kingdom,2022,Female,35-39,2240
-South Africa,2022,Female,40-44,1904
-Japan,2022,Female,40-44,3833
-Malaysia,2022,Female,40-44,1164
-Philippines,2022,Female,40-44,3428
-United Kingdom,2022,Female,40-44,2165
-South Africa,2022,Female,45-49,1380
-Japan,2022,Female,45-49,4652
-Malaysia,2022,Female,45-49,987
-Philippines,2022,Female,45-49,3012
-United Kingdom,2022,Female,45-49,2053
-South Africa,2022,Female,50-54,1655
-Japan,2022,Female,50-54,4543
-Malaysia,2022,Female,50-54,899
-Philippines,2022,Female,50-54,2675
-United Kingdom,2022,Female,50-54,2310
-South Africa,2022,Female,55-59,1446
-Japan,2022,Female,55-59,3936
-Malaysia,2022,Female,55-59,795
-Philippines,2022,Female,55-59,2274
-United Kingdom,2022,Female,55-59,2340
-South Africa,2022,Female,60-64,1030
-Japan,2022,Female,60-64,3695
-Malaysia,2022,Female,60-64,670
-Philippines,2022,Female,60-64,1876
-United Kingdom,2022,Female,60-64,2087
-South Africa,2022,Female,65-69,812
-Japan,2022,Female,65-69,3820
-Malaysia,2022,Female,65-69,525
-Philippines,2022,Female,65-69,1452
-United Kingdom,2022,Female,65-69,1782
-South Africa,2022,Female,70-74,659
-Japan,2022,Female,70-74,4975
-Malaysia,2022,Female,70-74,370
-Philippines,2022,Female,70-74,981
-United Kingdom,2022,Female,70-74,1702
-South Africa,2022,Female,75-79,429
-Japan,2022,Female,75-79,3916
-Malaysia,2022,Female,75-79,233
-Philippines,2022,Female,75-79,577
-United Kingdom,2022,Female,75-79,1452
-South Africa,2022,Female,80-84,246
-Japan,2022,Female,80-84,3408
-Malaysia,2022,Female,80-84,130
-Philippines,2022,Female,80-84,326
-United Kingdom,2022,Female,80-84,974
-South Africa,2022,Female,85-89,123
-Japan,2022,Female,85-89,2597
-Malaysia,2022,Female,85-89,59
-Philippines,2022,Female,85-89,135
-United Kingdom,2022,Female,85-89,649
-South Africa,2022,Female,90-94,60
-Japan,2022,Female,90-94,1494
-Malaysia,2022,Female,90-94,20
-Philippines,2022,Female,90-94,39
-United Kingdom,2022,Female,90-94,325
-South Africa,2022,Female,95-99,18
-Japan,2022,Female,95-99,587
-Malaysia,2022,Female,95-99,5
-Philippines,2022,Female,95-99,8
-United Kingdom,2022,Female,95-99,105
-South Africa,2022,Female,100+,3
-Japan,2022,Female,100+,119
-Malaysia,2022,Female,100+,1
-Philippines,2022,Female,100+,1
-United Kingdom,2022,Female,100+,19
-South Africa,2018,Male,0-4,2914
-South Africa,2019,Male,0-4,2929
-South Africa,2020,Male,0-4,2944
-South Africa,2021,Male,0-4,2958
-Japan,2018,Male,0-4,2444
-Japan,2019,Male,0-4,2355
-Japan,2020,Male,0-4,2267
-Japan,2021,Male,0-4,2192
-Malaysia,2018,Male,0-4,1354
-Malaysia,2019,Male,0-4,1348
-Malaysia,2020,Male,0-4,1337
-Malaysia,2021,Male,0-4,1327
-Philippines,2018,Male,0-4,6064
-Philippines,2019,Male,0-4,6093
-Philippines,2020,Male,0-4,6128
-Philippines,2021,Male,0-4,6171
-United Kingdom,2018,Male,0-4,2007
-United Kingdom,2019,Male,0-4,1974
-United Kingdom,2020,Male,0-4,1928
-United Kingdom,2021,Male,0-4,1874
-South Africa,2018,Male,45055,2867
-South Africa,2019,Male,45055,2880
-South Africa,2020,Male,45055,2902
-South Africa,2021,Male,45055,2905
-Japan,2018,Male,45055,2677
-Japan,2019,Male,45055,2641
-Japan,2020,Male,45055,2605
-Japan,2021,Male,45055,2569
-Malaysia,2018,Male,45055,1296
-Malaysia,2019,Male,45055,1311
-Malaysia,2020,Male,45055,1332
-Malaysia,2021,Male,45055,1348
-Philippines,2018,Male,45055,5961
-Philippines,2019,Male,45055,5973
-Philippines,2020,Male,45055,5981
-Philippines,2021,Male,45055,5992
-United Kingdom,2018,Male,45055,2117
-United Kingdom,2019,Male,45055,2120
-United Kingdom,2020,Male,45055,2117
-United Kingdom,2021,Male,45055,2106
-South Africa,2018,Male,45213,2589
-South Africa,2019,Male,45213,2689
-South Africa,2020,Male,45213,2754
-South Africa,2021,Male,45213,2804
-Japan,2018,Male,45213,2782
-Japan,2019,Male,45213,2771
-Japan,2020,Male,45213,2761
-Japan,2021,Male,45213,2744
-Malaysia,2018,Male,45213,1352
-Malaysia,2019,Male,45213,1334
-Malaysia,2020,Male,45213,1314
-Malaysia,2021,Male,45213,1300
-Philippines,2018,Male,45213,5735
-Philippines,2019,Male,45213,5809
-Philippines,2020,Male,45213,5864
-Philippines,2021,Male,45213,5901
-United Kingdom,2018,Male,45213,1975
-United Kingdom,2019,Male,45213,2026
-United Kingdom,2020,Male,45213,2072
-United Kingdom,2021,Male,45213,2115
-South Africa,2018,Male,15-19,2290
-South Africa,2019,Male,15-19,2295
-South Africa,2020,Male,15-19,2332
-South Africa,2021,Male,15-19,2397
-Japan,2018,Male,15-19,3012
-Japan,2019,Male,15-19,2973
-Japan,2020,Male,15-19,2920
-Japan,2021,Male,15-19,2866
-Malaysia,2018,Male,15-19,1428
-Malaysia,2019,Male,15-19,1415
-Malaysia,2020,Male,15-19,1402
-Malaysia,2021,Male,15-19,1388
-Philippines,2018,Male,15-19,5418
-Philippines,2019,Male,15-19,5464
-Philippines,2020,Male,15-19,5502
-Philippines,2021,Male,15-19,5552
-United Kingdom,2018,Male,15-19,1891
-United Kingdom,2019,Male,15-19,1884
-United Kingdom,2020,Male,15-19,1895
-United Kingdom,2021,Male,15-19,1926
-South Africa,2018,Male,20-24,2584
-South Africa,2019,Male,20-24,2504
-South Africa,2020,Male,20-24,2425
-South Africa,2021,Male,20-24,2352
-Japan,2018,Male,20-24,3107
-Japan,2019,Male,20-24,3094
-Japan,2020,Male,20-24,3086
-Japan,2021,Male,20-24,3086
-Malaysia,2018,Male,20-24,1486
-Malaysia,2019,Male,20-24,1473
-Malaysia,2020,Male,20-24,1462
-Malaysia,2021,Male,20-24,1457
-Philippines,2018,Male,20-24,5050
-Philippines,2019,Male,20-24,5120
-Philippines,2020,Male,20-24,5205
-Philippines,2021,Male,20-24,5277
-United Kingdom,2018,Male,20-24,2147
-United Kingdom,2019,Male,20-24,2134
-United Kingdom,2020,Male,20-24,2110
-United Kingdom,2021,Male,20-24,2075
-South Africa,2018,Male,25-29,2875
-South Africa,2019,Male,25-29,2817
-South Africa,2020,Male,25-29,2762
-South Africa,2021,Male,25-29,2701
-Japan,2018,Male,25-29,3154
-Japan,2019,Male,25-29,3128
-Japan,2020,Male,25-29,3123
-Japan,2021,Male,25-29,3118
-Malaysia,2018,Male,25-29,1548
-Malaysia,2019,Male,25-29,1546
-Malaysia,2020,Male,25-29,1542
-Malaysia,2021,Male,25-29,1533
-Philippines,2018,Male,25-29,4631
-Philippines,2019,Male,25-29,4723
-Philippines,2020,Male,25-29,4811
-Philippines,2021,Male,25-29,4883
-United Kingdom,2018,Male,25-29,2292
-United Kingdom,2019,Male,25-29,2294
-United Kingdom,2020,Male,25-29,2286
-United Kingdom,2021,Male,25-29,2272
-South Africa,2018,Male,30-34,2751
-South Africa,2019,Male,30-34,2826
-South Africa,2020,Male,30-34,2871
-South Africa,2021,Male,30-34,2879
-Japan,2018,Male,30-34,3484
-Japan,2019,Male,30-34,3407
-Japan,2020,Male,30-34,3327
-Japan,2021,Male,30-34,3272
-Malaysia,2018,Male,30-34,1539
-Malaysia,2019,Male,30-34,1554
-Malaysia,2020,Male,30-34,1563
-Malaysia,2021,Male,30-34,1567
-Philippines,2018,Male,30-34,4072
-Philippines,2019,Male,30-34,4171
-Philippines,2020,Male,30-34,4268
-Philippines,2021,Male,30-34,4371
-United Kingdom,2018,Male,30-34,2223
-United Kingdom,2019,Male,30-34,2241
-United Kingdom,2020,Male,30-34,2262
-United Kingdom,2021,Male,30-34,2287
-South Africa,2018,Male,35-39,2169
-South Africa,2019,Male,35-39,2285
-South Africa,2020,Male,35-39,2381
-South Africa,2021,Male,35-39,2474
-Japan,2018,Male,35-39,3826
-Japan,2019,Male,35-39,3724
-Japan,2020,Male,35-39,3644
-Japan,2021,Male,35-39,3579
-Malaysia,2018,Male,35-39,1353
-Malaysia,2019,Male,35-39,1408
-Malaysia,2020,Male,35-39,1457
-Malaysia,2021,Male,35-39,1495
-Philippines,2018,Male,35-39,3710
-Philippines,2019,Male,35-39,3763
-Philippines,2020,Male,35-39,3815
-Philippines,2021,Male,35-39,3874
-United Kingdom,2018,Male,35-39,2161
-United Kingdom,2019,Male,35-39,2178
-United Kingdom,2020,Male,35-39,2184
-United Kingdom,2021,Male,35-39,2187
-South Africa,2018,Male,40-49,1446
-South Africa,2019,Male,40-49,1528
-South Africa,2020,Male,40-49,1655
-South Africa,2021,Male,40-49,1802
-Japan,2018,Male,40-49,4636
-Japan,2019,Male,40-49,4439
-Japan,2020,Male,40-49,4256
-Japan,2021,Male,40-49,4091
-Malaysia,2018,Male,40-49,1103
-Malaysia,2019,Male,40-49,1143
-Malaysia,2020,Male,40-49,1189
-Malaysia,2021,Male,40-49,1239
-Philippines,2018,Male,40-49,3277
-Philippines,2019,Male,40-49,3365
-Philippines,2020,Male,40-49,3453
-Philippines,2021,Male,40-49,3530
-United Kingdom,2018,Male,40-49,1994
-United Kingdom,2019,Male,40-49,2001
-United Kingdom,2020,Male,40-49,2036
-United Kingdom,2021,Male,40-49,2080
-South Africa,2018,Male,45-49,1493
-South Africa,2019,Male,45-49,1446
-South Africa,2020,Male,45-49,1395
-South Africa,2021,Male,45-49,1352
-Japan,2018,Male,45-49,4747
-Japan,2019,Male,45-49,4846
-Japan,2020,Male,45-49,4891
-Japan,2021,Male,45-49,4865
-Malaysia,2018,Male,45-49,960
-Malaysia,2019,Male,45-49,978
-Malaysia,2020,Male,45-49,999
-Malaysia,2021,Male,45-49,1024
-Philippines,2018,Male,45-49,2898
-Philippines,2019,Male,45-49,2954
-Philippines,2020,Male,45-49,3008
-Philippines,2021,Male,45-49,3065
-United Kingdom,2018,Male,45-49,2220
-United Kingdom,2019,Male,45-49,2174
-United Kingdom,2020,Male,45-49,2122
-United Kingdom,2021,Male,45-49,2062
-South Africa,2018,Male,50-54,1303
-South Africa,2019,Male,50-54,1360
-South Africa,2020,Male,50-54,1400
-South Africa,2021,Male,50-54,1416
-Japan,2018,Male,50-54,4141
-Japan,2019,Male,50-54,4219
-Japan,2020,Male,50-54,4282
-Japan,2021,Male,50-54,4447
-Malaysia,2018,Male,50-54,860
-Malaysia,2019,Male,50-54,877
-Malaysia,2020,Male,50-54,892
-Malaysia,2021,Male,50-54,907
-Philippines,2018,Male,50-54,2436
-Philippines,2019,Male,50-54,2513
-Philippines,2020,Male,50-54,2594
-Philippines,2021,Male,50-54,2671
-United Kingdom,2018,Male,50-54,2297
-United Kingdom,2019,Male,50-54,2288
-United Kingdom,2020,Male,50-54,2269
-United Kingdom,2021,Male,50-54,2251
-South Africa,2018,Male,55-59,827
-South Africa,2019,Male,55-59,898
-South Africa,2020,Male,55-59,972
-South Africa,2021,Male,55-59,1042
-Japan,2018,Male,55-59,3786
-Japan,2019,Male,55-59,3841
-Japan,2020,Male,55-59,3924
-Japan,2021,Male,55-59,3930
-Malaysia,2018,Male,55-59,735
-Malaysia,2019,Male,55-59,754
-Malaysia,2020,Male,55-59,772
-Malaysia,2021,Male,55-59,789
-Philippines,2018,Male,55-59,1975
-Philippines,2019,Male,55-59,2044
-Philippines,2020,Male,55-59,2112
-Philippines,2021,Male,55-59,2175
-United Kingdom,2018,Male,55-59,2115
-United Kingdom,2019,Male,55-59,2166
-United Kingdom,2020,Male,55-59,2209
-United Kingdom,2021,Male,55-59,2235
-South Africa,2018,Male,60-64,568
-South Africa,2019,Male,60-64,574
-South Africa,2020,Male,60-64,590
-South Africa,2021,Male,60-64,618
-Japan,2018,Male,60-64,3711
-Japan,2019,Male,60-64,3675
-Japan,2020,Male,60-64,3643
-Japan,2021,Male,60-64,3624
-Malaysia,2018,Male,60-64,584
-Malaysia,2019,Male,60-64,605
-Malaysia,2020,Male,60-64,626
-Malaysia,2021,Male,60-64,646
-Philippines,2018,Male,60-64,1527
-Philippines,2019,Male,60-64,1585
-Philippines,2020,Male,60-64,1643
-Philippines,2021,Male,60-64,1695
-United Kingdom,2018,Male,60-64,1803
-United Kingdom,2019,Male,60-64,1844
-United Kingdom,2020,Male,60-64,1893
-United Kingdom,2021,Male,60-64,1945
-South Africa,2018,Male,65-69,475
-South Africa,2019,Male,65-69,478
-South Africa,2020,Male,65-69,478
-South Africa,2021,Male,65-69,469
-Japan,2018,Male,65-69,4542
-Japan,2019,Male,65-69,4213
-Japan,2020,Male,65-69,3950
-Japan,2021,Male,65-69,3777
-Malaysia,2018,Male,65-69,422
-Malaysia,2019,Male,65-69,442
-Malaysia,2020,Male,65-69,461
-Malaysia,2021,Male,65-69,480
-Philippines,2018,Male,65-69,1057
-Philippines,2019,Male,65-69,1119
-Philippines,2020,Male,65-69,1181
-Philippines,2021,Male,65-69,1231
-United Kingdom,2018,Male,65-69,1652
-United Kingdom,2019,Male,65-69,1634
-United Kingdom,2020,Male,65-69,1631
-United Kingdom,2021,Male,65-69,1643
-South Africa,2018,Male,70-74,322
-South Africa,2019,Male,70-74,336
-South Africa,2020,Male,70-74,345
-South Africa,2021,Male,70-74,348
-Japan,2018,Male,70-74,3910
-Japan,2019,Male,70-74,4176
-Japan,2020,Male,70-74,4422
-Japan,2021,Male,70-74,4565
-Malaysia,2018,Male,70-74,279
-Malaysia,2019,Male,70-74,293
-Malaysia,2020,Male,70-74,307
-Malaysia,2021,Male,70-74,321
-Philippines,2018,Male,70-74,624
-Philippines,2019,Male,70-74,666
-Philippines,2020,Male,70-74,712
-Philippines,2021,Male,70-74,754
-United Kingdom,2018,Male,70-74,1545
-United Kingdom,2019,Male,70-74,1586
-United Kingdom,2020,Male,70-74,1605
-United Kingdom,2021,Male,70-74,1593
-South Africa,2018,Male,75-79,190
-South Africa,2019,Male,75-79,198
-South Africa,2020,Male,75-79,204
-South Africa,2021,Male,75-79,206
-Japan,2018,Male,75-79,3200
-Japan,2019,Male,75-79,3293
-Japan,2020,Male,75-79,3277
-Japan,2021,Male,75-79,3184
-Malaysia,2018,Male,75-79,170
-Malaysia,2019,Male,75-79,178
-Malaysia,2020,Male,75-79,187
-Malaysia,2021,Male,75-79,196
-Philippines,2018,Male,75-79,367
-Philippines,2019,Male,75-79,377
-Philippines,2020,Male,75-79,389
-Philippines,2021,Male,75-79,398
-United Kingdom,2018,Male,75-79,1035
-United Kingdom,2019,Male,75-79,1074
-United Kingdom,2020,Male,75-79,1120
-United Kingdom,2021,Male,75-79,1182
-South Africa,2018,Male,80-84,95
-South Africa,2019,Male,80-84,101
-South Africa,2020,Male,80-84,106
-South Africa,2021,Male,80-84,108
-Japan,2018,Male,80-84,2300
-Japan,2019,Male,80-84,2319
-Japan,2020,Male,80-84,2355
-Japan,2021,Male,80-84,2425
-Malaysia,2018,Male,80-84,89
-Malaysia,2019,Male,80-84,94
-Malaysia,2020,Male,80-84,99
-Malaysia,2021,Male,80-84,103
-Philippines,2018,Male,80-84,187
-Philippines,2019,Male,80-84,192
-Philippines,2020,Male,80-84,198
-Philippines,2021,Male,80-84,198
-United Kingdom,2018,Male,80-84,733
-United Kingdom,2019,Male,80-84,753
-United Kingdom,2020,Male,80-84,760
-United Kingdom,2021,Male,80-84,759
-South Africa,2018,Male,85-89,45
-South Africa,2019,Male,85-89,46
-South Africa,2020,Male,85-89,46
-South Africa,2021,Male,85-89,45
-Japan,2018,Male,85-89,1296
-Japan,2019,Male,85-89,1353
-Japan,2020,Male,85-89,1412
-Japan,2021,Male,85-89,1470
-Malaysia,2018,Male,85-89,34
-Malaysia,2019,Male,85-89,36
-Malaysia,2020,Male,85-89,39
-Malaysia,2021,Male,85-89,41
-Philippines,2018,Male,85-89,69
-Philippines,2019,Male,85-89,70
-Philippines,2020,Male,85-89,72
-Philippines,2021,Male,85-89,69
-United Kingdom,2018,Male,85-89,403
-United Kingdom,2019,Male,85-89,413
-United Kingdom,2020,Male,85-89,425
-United Kingdom,2021,Male,85-89,436
-South Africa,2018,Male,90-94,21
-South Africa,2019,Male,90-94,21
-South Africa,2020,Male,90-94,21
-South Africa,2021,Male,90-94,19
-Japan,2018,Male,90-94,531
-Japan,2019,Male,90-94,569
-Japan,2020,Male,90-94,596
-Japan,2021,Male,90-94,610
-Malaysia,2018,Male,90-94,12
-Malaysia,2019,Male,90-94,12
-Malaysia,2020,Male,90-94,12
-Malaysia,2021,Male,90-94,12
-Philippines,2018,Male,90-94,19
-Philippines,2019,Male,90-94,18
-Philippines,2020,Male,90-94,18
-Philippines,2021,Male,90-94,16
-United Kingdom,2018,Male,90-94,152
-United Kingdom,2019,Male,90-94,160
-United Kingdom,2020,Male,90-94,168
-United Kingdom,2021,Male,90-94,176
-South Africa,2018,Male,95-99,6
-South Africa,2019,Male,95-99,7
-South Africa,2020,Male,95-99,7
-South Africa,2021,Male,95-99,7
-Japan,2018,Male,95-99,109
-Japan,2019,Male,95-99,120
-Japan,2020,Male,95-99,134
-Japan,2021,Male,95-99,148
-Malaysia,2018,Male,95-99,3
-Malaysia,2019,Male,95-99,3
-Malaysia,2020,Male,95-99,3
-Malaysia,2021,Male,95-99,3
-Philippines,2018,Male,95-99,4
-Philippines,2019,Male,95-99,4
-Philippines,2020,Male,95-99,4
-Philippines,2021,Male,95-99,3
-United Kingdom,2018,Male,95-99,31
-United Kingdom,2019,Male,95-99,34
-United Kingdom,2020,Male,95-99,37
-United Kingdom,2021,Male,95-99,41
-South Africa,2018,Male,100+,2
-South Africa,2019,Male,100+,2
-South Africa,2020,Male,100+,2
-South Africa,2021,Male,100+,2
-Japan,2018,Male,100+,14
-Japan,2019,Male,100+,15
-Japan,2020,Male,100+,16
-Japan,2021,Male,100+,16
-Malaysia,2018,Male,100+,1
-Malaysia,2019,Male,100+,1
-Malaysia,2020,Male,100+,1
-Malaysia,2021,Male,100+,1
-Philippines,2018,Male,100+,1
-Philippines,2019,Male,100+,1
-Philippines,2020,Male,100+,1
-Philippines,2021,Male,100+,1
-United Kingdom,2018,Male,100+,3
-United Kingdom,2019,Male,100+,3
-United Kingdom,2020,Male,100+,4
-United Kingdom,2021,Male,100+,5
-South Africa,2022,Male,0-4,2961
-Japan,2022,Male,0-4,2141
-Malaysia,2022,Male,0-4,1320
-Philippines,2022,Male,0-4,6214
-United Kingdom,2022,Male,0-4,1824
-South Africa,2022,Male,45055,2896
-Japan,2022,Male,45055,2516
-Malaysia,2022,Male,45055,1356
-Philippines,2022,Male,45055,6010
-United Kingdom,2022,Male,45055,2082
-South Africa,2022,Male,45213,2846
-Japan,2022,Male,45213,2713
-Malaysia,2022,Male,45213,1294
-Philippines,2022,Male,45213,5925
-United Kingdom,2022,Male,45213,2143
-South Africa,2022,Male,15-19,2481
-Japan,2022,Male,15-19,2830
-Malaysia,2022,Male,15-19,1373
-Philippines,2022,Male,15-19,5626
-United Kingdom,2022,Male,15-19,1971
-South Africa,2022,Male,20-24,2303
-Japan,2022,Male,20-24,3070
-Malaysia,2022,Male,20-24,1453
-Philippines,2022,Male,20-24,5324
-United Kingdom,2022,Male,20-24,2030
-South Africa,2022,Male,25-29,2626
-Japan,2022,Male,25-29,3118
-Malaysia,2022,Male,25-29,1520
-Philippines,2022,Male,25-29,4940
-United Kingdom,2022,Male,25-29,2260
-South Africa,2022,Male,30-34,2853
-Japan,2022,Male,30-34,3229
-Malaysia,2022,Male,30-34,1565
-Philippines,2022,Male,30-34,4481
-United Kingdom,2022,Male,30-34,2313
-South Africa,2022,Male,35-39,2572
-Japan,2022,Male,35-39,3526
-Malaysia,2022,Male,35-39,1523
-Philippines,2022,Male,35-39,3941
-United Kingdom,2022,Male,35-39,2199
-South Africa,2022,Male,40-44,1949
-Japan,2022,Male,40-44,3942
-Malaysia,2022,Male,40-44,1293
-Philippines,2022,Male,40-44,3598
-United Kingdom,2022,Male,40-44,2124
-South Africa,2022,Male,45-49,1337
-Japan,2022,Male,45-49,4769
-Malaysia,2022,Male,45-49,1054
-Philippines,2022,Male,45-49,3132
-United Kingdom,2022,Male,45-49,2009
-South Africa,2022,Male,50-54,1407
-Japan,2022,Male,50-54,4608
-Malaysia,2022,Male,50-54,921
-Philippines,2022,Male,50-54,2742
-United Kingdom,2022,Male,50-54,2230
-South Africa,2022,Male,55-59,1104
-Japan,2022,Male,55-59,3960
-Malaysia,2022,Male,55-59,805
-Philippines,2022,Male,55-59,2239
-United Kingdom,2022,Male,55-59,2248
-South Africa,2022,Male,60-64,655
-Japan,2022,Male,60-64,3643
-Malaysia,2022,Male,60-64,665
-Philippines,2022,Male,60-64,1749
-United Kingdom,2022,Male,60-64,1996
-South Africa,2022,Male,65-69,458
-Japan,2022,Male,65-69,3636
-Malaysia,2022,Male,65-69,500
-Philippines,2022,Male,65-69,1278
-United Kingdom,2022,Male,65-69,1673
-South Africa,2022,Male,70-74,348
-Japan,2022,Male,70-74,4480
-Malaysia,2022,Male,70-74,336
-Philippines,2022,Male,70-74,798
-United Kingdom,2022,Male,70-74,1551
-South Africa,2022,Male,75-79,206
-Japan,2022,Male,75-79,3244
-Malaysia,2022,Male,75-79,205
-Philippines,2022,Male,75-79,412
-United Kingdom,2022,Male,75-79,1267
-South Africa,2022,Male,80-84,108
-Japan,2022,Male,80-84,2507
-Malaysia,2022,Male,80-84,108
-Philippines,2022,Male,80-84,199
-United Kingdom,2022,Male,80-84,769
-South Africa,2022,Male,85-89,44
-Japan,2022,Male,85-89,1519
-Malaysia,2022,Male,85-89,43
-Philippines,2022,Male,85-89,66
-United Kingdom,2022,Male,85-89,450
-South Africa,2022,Male,90-94,17
-Japan,2022,Male,90-94,623
-Malaysia,2022,Male,90-94,13
-Philippines,2022,Male,90-94,15
-United Kingdom,2022,Male,90-94,182
-South Africa,2022,Male,95-99,6
-Japan,2022,Male,95-99,159
-Malaysia,2022,Male,95-99,3
-Philippines,2022,Male,95-99,3
-United Kingdom,2022,Male,95-99,43
-South Africa,2022,Male,100+,2
-Japan,2022,Male,100+,17
-Malaysia,2022,Male,100+,1
-Philippines,2022,Male,100+,1
-United Kingdom,2022,Male,100+,5
+Country,Year,Sex,Age,Population,,
+World,2018,Male,0-4,354862,,
+World,2019,Male,0-4,352684,,
+World,2020,Male,0-4,349489,,
+World,2021,Male,0-4,345269,,
+China,2018,Male,0-4,47478,,
+China,2019,Male,0-4,45605,,
+China,2020,Male,0-4,43091,,
+China,2021,Male,0-4,39708,,
+India,2018,Male,0-4,62142,,
+India,2019,Male,0-4,61478,,
+India,2020,Male,0-4,60772,,
+India,2021,Male,0-4,59968,,
+Pakistan,2018,Male,0-4,14992,,
+Pakistan,2019,Male,0-4,15001,,
+Pakistan,2020,Male,0-4,15058,,
+Pakistan,2021,Male,0-4,15145,,
+Indonesia,2018,Male,0-4,11887,,
+Indonesia,2019,Male,0-4,11742,,
+Indonesia,2020,Male,0-4,11616,,
+Indonesia,2021,Male,0-4,11508,,
+United States,2018,Male,0-4,10239,,
+United States,2019,Male,0-4,10149,,
+United States,2020,Male,0-4,9985,,
+United States,2021,Male,0-4,9798,,
+World,2022,Male,0-4,340675,,
+China,2022,Male,0-4,35675,,
+India,2022,Male,0-4,59257,,
+Pakistan,2022,Male,0-4,15243,,
+Indonesia,2022,Male,0-4,11420,,
+United States,2022,Male,0-4,9669,,
+World,2018,Female,0-4,333799,,
+World,2019,Female,0-4,332189,,
+World,2020,Female,0-4,329658,,
+World,2021,Female,0-4,326209,,
+China,2018,Female,0-4,41414,,
+China,2019,Female,0-4,39950,,
+China,2020,Female,0-4,37909,,
+China,2021,Female,0-4,35083,,
+India,2018,Female,0-4,56981,,
+India,2019,Female,0-4,56479,,
+India,2020,Female,0-4,55953,,
+India,2021,Female,0-4,55341,,
+Pakistan,2018,Female,0-4,14309,,
+Pakistan,2019,Female,0-4,14321,,
+Pakistan,2020,Female,0-4,14376,,
+Pakistan,2021,Female,0-4,14461,,
+Indonesia,2018,Female,0-4,11277,,
+Indonesia,2019,Female,0-4,11137,,
+Indonesia,2020,Female,0-4,11013,,
+Indonesia,2021,Female,0-4,10907,,
+United States,2018,Female,0-4,9783,,
+United States,2019,Female,0-4,9701,,
+United States,2020,Female,0-4,9544,,
+United States,2021,Female,0-4,9367,,
+World,2022,Female,0-4,322433,,
+China,2022,Female,0-4,31665,,
+India,2022,Female,0-4,54809,,
+Pakistan,2022,Female,0-4,14556,,
+Indonesia,2022,Female,0-4,10820,,
+United States,2022,Female,0-4,9245,,
+World,2018,Male,5-9,348163,,
+World,2019,Male,5-9,350162,,
+World,2020,Male,5-9,351561,,
+World,2021,Male,5-9,352538,,
+China,2018,Male,5-9,48267,,
+China,2019,Male,5-9,48554,,
+China,2020,Male,5-9,48570,,
+China,2021,Male,5-9,48526,,
+India,2018,Male,5-9,65293,,
+India,2019,Male,5-9,64695,,
+India,2020,Male,5-9,63922,,
+India,2021,Male,5-9,63227,,
+Pakistan,2018,Male,5-9,14427,,
+Pakistan,2019,Male,5-9,14587,,
+Pakistan,2020,Male,5-9,14683,,
+Pakistan,2021,Male,5-9,14728,,
+Indonesia,2018,Male,5-9,12291,,
+Indonesia,2019,Male,5-9,12292,,
+Indonesia,2020,Male,5-9,12260,,
+Indonesia,2021,Male,5-9,12162,,
+United States,2018,Male,5-9,10662,,
+United States,2019,Male,5-9,10596,,
+United States,2020,Male,5-9,10555,,
+United States,2021,Male,5-9,10510,,
+World,2022,Male,5-9,352786,,
+China,2022,Male,5-9,48384,,
+India,2022,Male,5-9,62514,,
+Pakistan,2022,Male,5-9,14747,,
+Indonesia,2022,Male,5-9,12000,,
+United States,2022,Male,5-9,10453,,
+World,2018,Female,5-9,326163,,
+World,2019,Female,5-9,328257,,
+World,2020,Female,5-9,329851,,
+World,2021,Female,5-9,331075,,
+China,2018,Female,5-9,41369,,
+China,2019,Female,5-9,41728,,
+China,2020,Female,5-9,41872,,
+China,2021,Female,5-9,41984,,
+India,2018,Female,5-9,59354,,
+India,2019,Female,5-9,58881,,
+India,2020,Female,5-9,58263,,
+India,2021,Female,5-9,57729,,
+Pakistan,2018,Female,5-9,13729,,
+Pakistan,2019,Female,5-9,13911,,
+Pakistan,2020,Female,5-9,14024,,
+Pakistan,2021,Female,5-9,14083,,
+Indonesia,2018,Female,5-9,11666,,
+Indonesia,2019,Female,5-9,11666,,
+Indonesia,2020,Female,5-9,11635,,
+Indonesia,2021,Female,5-9,11543,,
+United States,2018,Female,5-9,10163,,
+United States,2019,Female,5-9,10102,,
+United States,2020,Female,5-9,10073,,
+United States,2021,Female,5-9,10041,,
+World,2022,Female,5-9,331634,,
+China,2022,Female,5-9,42029,,
+India,2022,Female,5-9,57176,,
+Pakistan,2022,Female,5-9,14113,,
+Indonesia,2022,Female,5-9,11390,,
+United States,2022,Female,5-9,9989,,
+World,2018,Male,10-14,329761,,
+World,2019,Male,10-14,333620,,
+World,2020,Male,10-14,337364,,
+World,2021,Male,10-14,340825,,
+China,2018,Male,10-14,44315,,
+China,2019,Male,10-14,45248,,
+China,2020,Male,10-14,46088,,
+China,2021,Male,10-14,46723,,
+India,2018,Male,10-14,66621,,
+India,2019,Male,10-14,66212,,
+India,2020,Male,10-14,65907,,
+India,2021,Male,10-14,65686,,
+Pakistan,2018,Male,10-14,13241,,
+Pakistan,2019,Male,10-14,13419,,
+Pakistan,2020,Male,10-14,13636,,
+Pakistan,2021,Male,10-14,13889,,
+Indonesia,2018,Male,10-14,11735,,
+Indonesia,2019,Male,10-14,11883,,
+Indonesia,2020,Male,10-14,12005,,
+Indonesia,2021,Male,10-14,12120,,
+United States,2018,Male,10-14,11238,,
+United States,2019,Male,10-14,11309,,
+United States,2020,Male,10-14,11284,,
+United States,2021,Male,10-14,11150,,
+World,2022,Male,10-14,344165,,
+China,2022,Male,10-14,47515,,
+India,2022,Male,10-14,65448,,
+Pakistan,2022,Male,10-14,14133,,
+Indonesia,2022,Male,10-14,12218,,
+United States,2022,Male,10-14,10963,,
+World,2018,Female,10-14,308691,,
+World,2019,Female,10-14,312296,,
+World,2020,Female,10-14,315819,,
+World,2021,Female,10-14,319110,,
+China,2018,Female,10-14,37766,,
+China,2019,Female,10-14,38573,,
+China,2020,Female,10-14,39318,,
+China,2021,Female,10-14,39907,,
+India,2018,Female,10-14,60443,,
+India,2019,Female,10-14,60084,,
+India,2020,Female,10-14,59815,,
+India,2021,Female,10-14,59622,,
+Pakistan,2018,Female,10-14,12485,,
+Pakistan,2019,Female,10-14,12673,,
+Pakistan,2020,Female,10-14,12907,,
+Pakistan,2021,Female,10-14,13178,,
+Indonesia,2018,Female,10-14,11130,,
+Indonesia,2019,Female,10-14,11274,,
+Indonesia,2020,Female,10-14,11394,,
+Indonesia,2021,Female,10-14,11505,,
+United States,2018,Female,10-14,10728,,
+United States,2019,Female,10-14,10784,,
+United States,2020,Female,10-14,10750,,
+United States,2021,Female,10-14,10615,,
+World,2022,Female,10-14,322326,,
+China,2022,Female,10-14,40652,,
+India,2022,Female,10-14,59434,,
+Pakistan,2022,Female,10-14,13441,,
+Indonesia,2022,Female,10-14,11598,,
+United States,2022,Female,10-14,10440,,
+World,2018,Male,15-19,315758,,
+World,2019,Male,15-19,317843,,
+World,2020,Male,15-19,319817,,
+World,2021,Male,15-19,321862,,
+China,2018,Male,15-19,42970,,
+China,2019,Male,15-19,42884,,
+China,2020,Male,15-19,42808,,
+China,2021,Male,15-19,42898,,
+India,2018,Male,15-19,67534,,
+India,2019,Male,15-19,67718,,
+India,2020,Male,15-19,67690,,
+India,2021,Male,15-19,67337,,
+Pakistan,2018,Male,15-19,12221,,
+Pakistan,2019,Male,15-19,12387,,
+Pakistan,2020,Male,15-19,12558,,
+Pakistan,2021,Male,15-19,12719,,
+Indonesia,2018,Male,15-19,11282,,
+Indonesia,2019,Male,15-19,11286,,
+Indonesia,2020,Male,15-19,11327,,
+Indonesia,2021,Male,15-19,11405,,
+United States,2018,Male,15-19,11122,,
+United States,2019,Male,15-19,11188,,
+United States,2020,Male,15-19,11224,,
+United States,2021,Male,15-19,11264,,
+World,2022,Male,15-19,324667,,
+China,2022,Male,15-19,43406,,
+India,2022,Male,15-19,66812,,
+Pakistan,2022,Male,15-19,12882,,
+Indonesia,2022,Male,15-19,11528,,
+United States,2022,Male,15-19,11361,,
+World,2018,Female,15-19,295642,,
+World,2019,Female,15-19,297694,,
+World,2020,Female,15-19,299677,,
+World,2021,Female,15-19,301700,,
+China,2018,Female,15-19,36851,,
+China,2019,Female,15-19,36700,,
+China,2020,Female,15-19,36576,,
+China,2021,Female,15-19,36611,,
+India,2018,Female,15-19,61156,,
+India,2019,Female,15-19,61355,,
+India,2020,Female,15-19,61363,,
+India,2021,Female,15-19,61075,,
+Pakistan,2018,Female,15-19,11589,,
+Pakistan,2019,Female,15-19,11759,,
+Pakistan,2020,Female,15-19,11917,,
+Pakistan,2021,Female,15-19,12062,,
+Indonesia,2018,Female,15-19,10697,,
+Indonesia,2019,Female,15-19,10701,,
+Indonesia,2020,Female,15-19,10741,,
+Indonesia,2021,Female,15-19,10816,,
+United States,2018,Female,15-19,10648,,
+United States,2019,Female,15-19,10708,,
+United States,2020,Female,15-19,10742,,
+United States,2021,Female,15-19,10782,,
+World,2022,Female,15-19,304350,,
+China,2022,Female,15-19,37019,,
+India,2022,Female,15-19,60610,,
+Pakistan,2022,Female,15-19,12212,,
+Indonesia,2022,Female,15-19,10936,,
+United States,2022,Female,15-19,10872,,
+World,2018,Male,20-24,307268,,
+World,2019,Male,20-24,307503,,
+World,2020,Male,20-24,308352,,
+World,2021,Male,20-24,309757,,
+China,2018,Male,20-24,46296,,
+China,2019,Male,20-24,45026,,
+China,2020,Male,20-24,44184,,
+China,2021,Male,20-24,43610,,
+India,2018,Male,20-24,64854,,
+India,2019,Male,20-24,65305,,
+India,2020,Male,20-24,65746,,
+India,2021,Male,20-24,66258,,
+Pakistan,2018,Male,20-24,10532,,
+Pakistan,2019,Male,20-24,10686,,
+Pakistan,2020,Male,20-24,10901,,
+Pakistan,2021,Male,20-24,11178,,
+Indonesia,2018,Male,20-24,11138,,
+Indonesia,2019,Male,20-24,11196,,
+Indonesia,2020,Male,20-24,11222,,
+Indonesia,2021,Male,20-24,11228,,
+United States,2018,Male,20-24,11208,,
+United States,2019,Male,20-24,11151,,
+United States,2020,Male,20-24,11167,,
+United States,2021,Male,20-24,11222,,
+World,2022,Male,20-24,311357,,
+China,2022,Male,20-24,43079,,
+India,2022,Male,20-24,66716,,
+Pakistan,2022,Male,20-24,11494,,
+Indonesia,2022,Male,20-24,11206,,
+United States,2022,Male,20-24,11292,,
+World,2018,Female,20-24,289069,,
+World,2019,Female,20-24,289032,,
+World,2020,Female,20-24,289691,,
+World,2021,Female,20-24,290941,,
+China,2018,Female,20-24,40442,,
+China,2019,Female,20-24,39151,,
+China,2020,Female,20-24,38262,,
+China,2021,Female,20-24,37633,,
+India,2018,Female,20-24,58789,,
+India,2019,Female,20-24,59101,,
+India,2020,Female,20-24,59458,,
+India,2021,Female,20-24,59917,,
+Pakistan,2018,Female,20-24,10159,,
+Pakistan,2019,Female,20-24,10352,,
+Pakistan,2020,Female,20-24,10575,,
+Pakistan,2021,Female,20-24,10828,,
+Indonesia,2018,Female,20-24,10588,,
+Indonesia,2019,Female,20-24,10645,,
+Indonesia,2020,Female,20-24,10671,,
+Indonesia,2021,Female,20-24,10676,,
+United States,2018,Female,20-24,10770,,
+United States,2019,Female,20-24,10721,,
+United States,2020,Female,20-24,10741,,
+United States,2021,Female,20-24,10799,,
+World,2022,Female,20-24,292421,,
+China,2022,Female,20-24,37061,,
+India,2022,Female,20-24,60361,,
+Pakistan,2022,Female,20-24,11103,,
+Indonesia,2022,Female,20-24,10653,,
+United States,2022,Female,20-24,10870,,
+World,2018,Male,25-29,311614,,
+World,2019,Male,25-29,309703,,
+World,2020,Male,25-29,306986,,
+World,2021,Male,25-29,304921,,
+China,2018,Male,25-29,59507,,
+China,2019,Male,25-29,56327,,
+China,2020,Male,25-29,52404,,
+China,2021,Male,25-29,49242,,
+India,2018,Male,25-29,61141,,
+India,2019,Male,25-29,61742,,
+India,2020,Male,25-29,62449,,
+India,2021,Male,25-29,63130,,
+Pakistan,2018,Male,25-29,9118,,
+Pakistan,2019,Male,25-29,9217,,
+Pakistan,2020,Male,25-29,9353,,
+Pakistan,2021,Male,25-29,9536,,
+Indonesia,2018,Male,25-29,10693,,
+Indonesia,2019,Male,25-29,10716,,
+Indonesia,2020,Male,25-29,10773,,
+Indonesia,2021,Male,25-29,10846,,
+United States,2018,Male,25-29,11889,,
+United States,2019,Male,25-29,11876,,
+United States,2020,Male,25-29,11780,,
+United States,2021,Male,25-29,11635,,
+World,2022,Male,25-29,304345,,
+China,2022,Male,25-29,47456,,
+India,2022,Male,25-29,63683,,
+Pakistan,2022,Male,25-29,9757,,
+Indonesia,2022,Male,25-29,10934,,
+United States,2022,Male,25-29,11504,,
+World,2018,Female,25-29,296332,,
+World,2019,Female,25-29,294154,,
+World,2020,Female,25-29,291227,,
+World,2021,Female,25-29,288912,,
+China,2018,Female,25-29,53637,,
+China,2019,Female,25-29,50464,,
+China,2020,Female,25-29,46644,,
+China,2021,Female,25-29,43546,,
+India,2018,Female,25-29,56330,,
+India,2019,Female,25-29,56738,,
+India,2020,Female,25-29,57185,,
+India,2021,Female,25-29,57609,,
+Pakistan,2018,Female,25-29,8895,,
+Pakistan,2019,Female,25-29,9056,,
+Pakistan,2020,Female,25-29,9234,,
+Pakistan,2021,Female,25-29,9433,,
+Indonesia,2018,Female,25-29,10165,,
+Indonesia,2019,Female,25-29,10188,,
+Indonesia,2020,Female,25-29,10245,,
+Indonesia,2021,Female,25-29,10321,,
+United States,2018,Female,25-29,11547,,
+United States,2019,Female,25-29,11532,,
+United States,2020,Female,25-29,11427,,
+United States,2021,Female,25-29,11271,,
+World,2022,Female,25-29,287904,,
+China,2022,Female,25-29,41724,,
+India,2022,Female,25-29,57938,,
+Pakistan,2022,Female,25-29,9645,,
+Indonesia,2022,Female,25-29,10413,,
+United States,2022,Female,25-29,11139,,
+World,2018,Male,30-34,297604,,
+World,2019,Male,30-34,302566,,
+World,2020,Male,30-34,307164,,
+World,2021,Male,30-34,309670,,
+China,2018,Male,30-34,59358,,
+China,2019,Male,30-34,61640,,
+China,2020,Male,30-34,63819,,
+China,2021,Male,30-34,64180,,
+India,2018,Male,30-34,57149,,
+India,2019,Male,30-34,57952,,
+India,2020,Male,30-34,58648,,
+India,2021,Male,30-34,59248,,
+Pakistan,2018,Male,30-34,7548,,
+Pakistan,2019,Male,30-34,7719,,
+Pakistan,2020,Male,30-34,7937,,
+Pakistan,2021,Male,30-34,8185,,
+Indonesia,2018,Male,30-34,10647,,
+Indonesia,2019,Male,30-34,10584,,
+Indonesia,2020,Male,30-34,10538,,
+Indonesia,2021,Male,30-34,10545,,
+United States,2018,Male,30-34,11417,,
+United States,2019,Male,30-34,11569,,
+United States,2020,Male,30-34,11714,,
+United States,2021,Male,30-34,11835,,
+World,2022,Male,30-34,309407,,
+China,2022,Male,30-34,61995,,
+India,2022,Male,30-34,59815,,
+Pakistan,2022,Male,30-34,8437,,
+Indonesia,2022,Male,30-34,10571,,
+United States,2022,Male,30-34,11957,,
+World,2018,Female,30-34,285967,,
+World,2019,Female,30-34,290421,,
+World,2020,Female,30-34,294490,,
+World,2021,Female,30-34,296544,,
+China,2018,Female,30-34,55083,,
+China,2019,Female,30-34,56917,,
+China,2020,Female,30-34,58612,,
+China,2021,Female,30-34,58625,,
+India,2018,Female,30-34,52825,,
+India,2019,Female,30-34,53604,,
+India,2020,Female,30-34,54280,,
+India,2021,Female,30-34,54833,,
+Pakistan,2018,Female,30-34,7456,,
+Pakistan,2019,Female,30-34,7669,,
+Pakistan,2020,Female,30-34,7907,,
+Pakistan,2021,Female,30-34,8161,,
+Indonesia,2018,Female,30-34,10164,,
+Indonesia,2019,Female,30-34,10095,,
+Indonesia,2020,Female,30-34,10045,,
+Indonesia,2021,Female,30-34,10046,,
+United States,2018,Female,30-34,11117,,
+United States,2019,Female,30-34,11274,,
+United States,2020,Female,30-34,11438,,
+United States,2021,Female,30-34,11581,,
+World,2022,Female,30-34,295974,,
+China,2022,Female,30-34,56313,,
+India,2022,Female,30-34,55326,,
+Pakistan,2022,Female,30-34,8417,,
+Indonesia,2022,Female,30-34,10067,,
+United States,2022,Female,30-34,11713,,
+World,2018,Male,35-39,269636,,
+World,2019,Male,35-39,274725,,
+World,2020,Male,35-39,279422,,
+World,2021,Male,35-39,284145,,
+China,2018,Male,35-39,51560,,
+China,2019,Male,35-39,52587,,
+China,2020,Male,35-39,53757,,
+China,2021,Male,35-39,55290,,
+India,2018,Male,35-39,50919,,
+India,2019,Male,35-39,52122,,
+India,2020,Male,35-39,53260,,
+India,2021,Male,35-39,54326,,
+Pakistan,2018,Male,35-39,6137,,
+Pakistan,2019,Male,35-39,6322,,
+Pakistan,2020,Male,35-39,6524,,
+Pakistan,2021,Male,35-39,6739,,
+Indonesia,2018,Male,35-39,10542,,
+Indonesia,2019,Male,35-39,10636,,
+Indonesia,2020,Male,35-39,10675,,
+Indonesia,2021,Male,35-39,10646,,
+United States,2018,Male,35-39,11116,,
+United States,2019,Male,35-39,11253,,
+United States,2020,Male,35-39,11331,,
+United States,2021,Male,35-39,11378,,
+World,2022,Male,35-39,288851,,
+China,2022,Male,35-39,56990,,
+India,2022,Male,35-39,55316,,
+Pakistan,2022,Male,35-39,6962,,
+Indonesia,2022,Male,35-39,10581,,
+United States,2022,Male,35-39,11443,,
+World,2018,Female,35-39,260839,,
+World,2019,Female,35-39,265714,,
+World,2020,Female,35-39,270284,,
+World,2021,Female,35-39,274851,,
+China,2018,Female,35-39,48794,,
+China,2019,Female,35-39,49657,,
+China,2020,Female,35-39,50621,,
+China,2021,Female,35-39,51885,,
+India,2018,Female,35-39,47215,,
+India,2019,Female,35-39,48329,,
+India,2020,Female,35-39,49404,,
+India,2021,Female,35-39,50437,,
+Pakistan,2018,Female,35-39,6062,,
+Pakistan,2019,Female,35-39,6294,,
+Pakistan,2020,Female,35-39,6533,,
+Pakistan,2021,Female,35-39,6776,,
+Indonesia,2018,Female,35-39,10168,,
+Indonesia,2019,Female,35-39,10236,,
+Indonesia,2020,Female,35-39,10252,,
+Indonesia,2021,Female,35-39,10207,,
+United States,2018,Female,35-39,10945,,
+United States,2019,Female,35-39,11045,,
+United States,2020,Female,35-39,11100,,
+United States,2021,Female,35-39,11136,,
+World,2022,Female,35-39,279305,,
+China,2022,Female,35-39,53252,,
+India,2022,Female,35-39,51399,,
+Pakistan,2022,Female,35-39,7021,,
+Indonesia,2022,Female,35-39,10131,,
+United States,2022,Female,35-39,11197,,
+World,2018,Male,40-44,244768,,
+World,2019,Male,40-44,245902,,
+World,2020,Male,40-44,248930,,
+World,2021,Male,40-44,253384,,
+China,2018,Male,40-44,50738,,
+China,2019,Male,40-44,48479,,
+China,2020,Male,40-44,47617,,
+China,2021,Male,40-44,47932,,
+India,2018,Male,40-44,44930,,
+India,2019,Male,40-44,45719,,
+India,2020,Male,40-44,46636,,
+India,2021,Male,40-44,47640,,
+Pakistan,2018,Male,40-44,5049,,
+Pakistan,2019,Male,40-44,5145,,
+Pakistan,2020,Male,40-44,5267,,
+Pakistan,2021,Male,40-44,5429,,
+Indonesia,2018,Male,40-44,9671,,
+Indonesia,2019,Male,40-44,9819,,
+Indonesia,2020,Male,40-44,9967,,
+Indonesia,2021,Male,40-44,10103,,
+United States,2018,Male,40-44,10206,,
+United States,2019,Male,40-44,10368,,
+United States,2020,Male,40-44,10576,,
+United States,2021,Male,40-44,10799,,
+World,2022,Male,40-44,259073,,
+China,2022,Male,40-44,49466,,
+India,2022,Male,40-44,48682,,
+Pakistan,2022,Male,40-44,5630,,
+Indonesia,2022,Male,40-44,10236,,
+United States,2022,Male,40-44,11002,,
+World,2018,Female,40-44,239032,,
+World,2019,Female,40-44,239994,,
+World,2020,Female,40-44,242809,,
+World,2021,Female,40-44,247021,,
+China,2018,Female,40-44,48632,,
+China,2019,Female,40-44,46384,,
+China,2020,Female,40-44,45476,,
+China,2021,Female,40-44,45693,,
+India,2018,Female,40-44,42104,,
+India,2019,Female,40-44,42804,,
+India,2020,Female,40-44,43622,,
+India,2021,Female,40-44,44529,,
+Pakistan,2018,Female,40-44,4959,,
+Pakistan,2019,Female,40-44,5091,,
+Pakistan,2020,Female,40-44,5246,,
+Pakistan,2021,Female,40-44,5435,,
+Indonesia,2018,Female,40-44,9451,,
+Indonesia,2019,Female,40-44,9578,,
+Indonesia,2020,Female,40-44,9703,,
+Indonesia,2021,Female,40-44,9815,,
+United States,2018,Female,40-44,10185,,
+United States,2019,Female,40-44,10328,,
+United States,2020,Female,40-44,10516,,
+United States,2021,Female,40-44,10720,,
+World,2022,Female,40-44,252471,,
+China,2022,Female,40-44,47065,,
+India,2022,Female,40-44,45491,,
+Pakistan,2022,Female,40-44,5660,,
+Indonesia,2022,Female,40-44,9924,,
+United States,2022,Female,40-44,10896,,
+World,2018,Male,45-49,238749,,
+World,2019,Male,45-49,240002,,
+World,2020,Male,45-49,240138,,
+World,2021,Male,45-49,239509,,
+China,2018,Male,45-49,63029,,
+China,2019,Male,45-49,61633,,
+China,2020,Male,45-49,59213,,
+China,2021,Male,45-49,56169,,
+India,2018,Male,45-49,39414,,
+India,2019,Male,45-49,40325,,
+India,2020,Male,45-49,41236,,
+India,2021,Male,45-49,42079,,
+Pakistan,2018,Male,45-49,4317,,
+Pakistan,2019,Male,45-49,4384,,
+Pakistan,2020,Male,45-49,4468,,
+Pakistan,2021,Male,45-49,4567,,
+Indonesia,2018,Male,45-49,8756,,
+Indonesia,2019,Male,45-49,8898,,
+Indonesia,2020,Male,45-49,9029,,
+Indonesia,2021,Male,45-49,9155,,
+United States,2018,Male,45-49,10750,,
+United States,2019,Male,45-49,10627,,
+United States,2020,Male,45-49,10418,,
+United States,2021,Male,45-49,10184,,
+World,2022,Male,45-49,238984,,
+China,2022,Male,45-49,53105,,
+India,2022,Male,45-49,42844,,
+Pakistan,2022,Male,45-49,4679,,
+Indonesia,2022,Male,45-49,9279,,
+United States,2022,Male,45-49,10096,,
+World,2018,Female,45-49,236138,,
+World,2019,Female,45-49,237194,,
+World,2020,Female,45-49,237208,,
+World,2021,Female,45-49,236495,,
+China,2018,Female,45-49,61290,,
+China,2019,Female,45-49,59828,,
+China,2020,Female,45-49,57385,,
+China,2021,Female,45-49,54349,,
+India,2018,Female,45-49,37458,,
+India,2019,Female,45-49,38306,,
+India,2020,Female,45-49,39151,,
+India,2021,Female,45-49,39939,,
+Pakistan,2018,Female,45-49,4251,,
+Pakistan,2019,Female,45-49,4342,,
+Pakistan,2020,Female,45-49,4447,,
+Pakistan,2021,Female,45-49,4563,,
+Indonesia,2018,Female,45-49,8647,,
+Indonesia,2019,Female,45-49,8781,,
+Indonesia,2020,Female,45-49,8904,,
+Indonesia,2021,Female,45-49,9022,,
+United States,2018,Female,45-49,10746,,
+United States,2019,Female,45-49,10618,,
+United States,2020,Female,45-49,10417,,
+United States,2021,Female,45-49,10200,,
+World,2022,Female,45-49,235880,,
+China,2022,Female,45-49,51306,,
+India,2022,Female,45-49,40659,,
+Pakistan,2022,Female,45-49,4687,,
+Indonesia,2022,Female,45-49,9136,,
+United States,2022,Female,45-49,10121,,
+World,2018,Male,50-54,214917,,
+World,2019,Male,50-54,217596,,
+World,2020,Male,50-54,221074,,
+World,2021,Male,50-54,224759,,
+China,2018,Male,50-54,58671,,
+China,2019,Male,50-54,59002,,
+China,2020,Male,50-54,59975,,
+China,2021,Male,50-54,60905,,
+India,2018,Male,50-54,34148,,
+India,2019,Male,50-54,34836,,
+India,2020,Male,50-54,35544,,
+India,2021,Male,50-54,36250,,
+Pakistan,2018,Male,50-54,3824,,
+Pakistan,2019,Male,50-54,3854,,
+Pakistan,2020,Male,50-54,3888,,
+Pakistan,2021,Male,50-54,3933,,
+Indonesia,2018,Male,50-54,7643,,
+Indonesia,2019,Male,50-54,7823,,
+Indonesia,2020,Male,50-54,7987,,
+Indonesia,2021,Male,50-54,8123,,
+United States,2018,Male,50-54,10689,,
+United States,2019,Male,50-54,10606,,
+United States,2020,Male,50-54,10614,,
+United States,2021,Male,50-54,10669,,
+World,2022,Male,50-54,228342,,
+China,2022,Male,50-54,61761,,
+India,2022,Male,50-54,36953,,
+Pakistan,2022,Male,50-54,3992,,
+Indonesia,2022,Male,50-54,8245,,
+United States,2022,Male,50-54,10668,,
+World,2018,Female,50-54,216561,,
+World,2019,Female,50-54,218988,,
+World,2020,Female,50-54,222220,,
+World,2021,Female,50-54,225709,,
+China,2018,Female,50-54,58096,,
+China,2019,Female,50-54,58372,,
+China,2020,Female,50-54,59265,,
+China,2021,Female,50-54,60091,,
+India,2018,Female,50-54,32748,,
+India,2019,Female,50-54,33430,,
+India,2020,Female,50-54,34131,,
+India,2021,Female,50-54,34836,,
+Pakistan,2018,Female,50-54,3801,,
+Pakistan,2019,Female,50-54,3847,,
+Pakistan,2020,Female,50-54,3894,,
+Pakistan,2021,Female,50-54,3951,,
+Indonesia,2018,Female,50-54,7641,,
+Indonesia,2019,Female,50-54,7819,,
+Indonesia,2020,Female,50-54,7982,,
+Indonesia,2021,Female,50-54,8119,,
+United States,2018,Female,50-54,10900,,
+United States,2019,Female,50-54,10741,,
+United States,2020,Female,50-54,10690,,
+United States,2021,Female,50-54,10720,,
+World,2022,Female,50-54,229122,,
+China,2022,Female,50-54,60831,,
+India,2022,Female,50-54,35535,,
+Pakistan,2022,Female,50-54,4020,,
+Indonesia,2022,Female,50-54,8243,,
+United States,2022,Female,50-54,10718,,
+World,2018,Male,55-59,175588,,
+World,2019,Male,55-59,183196,,
+World,2020,Male,55-59,190548,,
+World,2021,Male,55-59,197415,,
+China,2018,Male,55-59,38618,,
+China,2019,Male,55-59,43439,,
+China,2020,Male,55-59,48457,,
+China,2021,Male,55-59,53580,,
+India,2018,Male,55-59,28924,,
+India,2019,Male,55-59,29613,,
+India,2020,Male,55-59,30254,,
+India,2021,Male,55-59,30769,,
+Pakistan,2018,Male,55-59,3282,,
+Pakistan,2019,Male,55-59,3343,,
+Pakistan,2020,Male,55-59,3396,,
+Pakistan,2021,Male,55-59,3441,,
+Indonesia,2018,Male,55-59,6203,,
+Indonesia,2019,Male,55-59,6420,,
+Indonesia,2020,Male,55-59,6616,,
+Indonesia,2021,Male,55-59,6789,,
+United States,2018,Male,55-59,10973,,
+United States,2019,Male,55-59,10981,,
+United States,2020,Male,55-59,10897,,
+United States,2021,Male,55-59,10696,,
+World,2022,Male,55-59,202007,,
+China,2022,Male,55-59,56477,,
+India,2022,Male,55-59,31238,,
+Pakistan,2022,Male,55-59,3485,,
+Indonesia,2022,Male,55-59,6952,,
+United States,2022,Male,55-59,10489,,
+World,2018,Female,55-59,181784,,
+World,2019,Female,55-59,189289,,
+World,2020,Female,55-59,196592,,
+World,2021,Female,55-59,203476,,
+China,2018,Female,55-59,38956,,
+China,2019,Female,55-59,43795,,
+China,2020,Female,55-59,48856,,
+China,2021,Female,55-59,54039,,
+India,2018,Female,55-59,28104,,
+India,2019,Female,55-59,28765,,
+India,2020,Female,55-59,29402,,
+India,2021,Female,55-59,29954,,
+Pakistan,2018,Female,55-59,3324,,
+Pakistan,2019,Female,55-59,3400,,
+Pakistan,2020,Female,55-59,3466,,
+Pakistan,2021,Female,55-59,3522,,
+Indonesia,2018,Female,55-59,6327,,
+Indonesia,2019,Female,55-59,6547,,
+Indonesia,2020,Female,55-59,6751,,
+Indonesia,2021,Female,55-59,6937,,
+United States,2018,Female,55-59,11366,,
+United States,2019,Female,55-59,11367,,
+United States,2020,Female,55-59,11292,,
+United States,2021,Female,55-59,11100,,
+World,2022,Female,55-59,208055,,
+China,2022,Female,55-59,56967,,
+India,2022,Female,55-59,30478,,
+Pakistan,2022,Female,55-59,3575,,
+Indonesia,2022,Female,55-59,7113,,
+United States,2022,Female,55-59,10876,,
+World,2018,Male,60-64,152210,,
+World,2019,Male,60-64,154195,,
+World,2020,Male,60-64,154991,,
+World,2021,Male,60-64,155385,,
+China,2018,Male,60-64,39674,,
+China,2019,Male,60-64,38617,,
+China,2020,Male,60-64,36523,,
+China,2021,Male,60-64,34366,,
+India,2018,Male,60-64,23467,,
+India,2019,Male,60-64,24049,,
+India,2020,Male,60-64,24595,,
+India,2021,Male,60-64,25050,,
+Pakistan,2018,Male,60-64,2520,,
+Pakistan,2019,Male,60-64,2613,,
+Pakistan,2020,Male,60-64,2699,,
+Pakistan,2021,Male,60-64,2778,,
+Indonesia,2018,Male,60-64,4574,,
+Indonesia,2019,Male,60-64,4787,,
+Indonesia,2020,Male,60-64,4990,,
+Indonesia,2021,Male,60-64,5170,,
+United States,2018,Male,60-64,9996,,
+United States,2019,Male,60-64,10184,,
+United States,2020,Male,60-64,10312,,
+United States,2021,Male,60-64,10381,,
+World,2022,Male,60-64,157179,,
+China,2022,Male,60-64,33838,,
+India,2022,Male,60-64,25464,,
+Pakistan,2022,Male,60-64,2852,,
+Indonesia,2022,Male,60-64,5343,,
+United States,2022,Male,60-64,10395,,
+World,2018,Female,60-64,163455,,
+World,2019,Female,60-64,165393,,
+World,2020,Female,60-64,166126,,
+World,2021,Female,60-64,166554,,
+China,2018,Female,60-64,41590,,
+China,2019,Female,60-64,40380,,
+China,2020,Female,60-64,38122,,
+China,2021,Female,60-64,35830,,
+India,2018,Female,60-64,23354,,
+India,2019,Female,60-64,23967,,
+India,2020,Female,60-64,24543,,
+India,2021,Female,60-64,25039,,
+Pakistan,2018,Female,60-64,2617,,
+Pakistan,2019,Female,60-64,2727,,
+Pakistan,2020,Female,60-64,2831,,
+Pakistan,2021,Female,60-64,2927,,
+Indonesia,2018,Female,60-64,4849,,
+Indonesia,2019,Female,60-64,5072,,
+Indonesia,2020,Female,60-64,5289,,
+Indonesia,2021,Female,60-64,5491,,
+United States,2018,Female,60-64,10606,,
+United States,2019,Female,60-64,10758,,
+United States,2020,Female,60-64,10868,,
+United States,2021,Female,60-64,10951,,
+World,2022,Female,60-64,168408,,
+China,2022,Female,60-64,35205,,
+India,2022,Female,60-64,25493,,
+Pakistan,2022,Female,60-64,3017,,
+Indonesia,2022,Female,60-64,5685,,
+United States,2022,Female,60-64,10991,,
+World,2018,Male,65-69,118168,,
+World,2019,Male,65-69,122579,,
+World,2020,Male,65-69,126677,,
+World,2021,Male,65-69,129883,,
+China,2018,Male,65-69,30894,,
+China,2019,Male,65-69,32653,,
+China,2020,Male,65-69,34198,,
+China,2021,Male,65-69,35227,,
+India,2018,Male,65-69,17534,,
+India,2019,Male,65-69,18349,,
+India,2020,Male,65-69,18943,,
+India,2021,Male,65-69,19371,,
+Pakistan,2018,Male,65-69,1724,,
+Pakistan,2019,Male,65-69,1792,,
+Pakistan,2020,Male,65-69,1872,,
+Pakistan,2021,Male,65-69,1953,,
+Indonesia,2018,Male,65-69,3070,,
+Indonesia,2019,Male,65-69,3226,,
+Indonesia,2020,Male,65-69,3380,,
+Indonesia,2021,Male,65-69,3515,,
+United States,2018,Male,65-69,7976,,
+United States,2019,Male,65-69,8321,,
+United States,2020,Male,65-69,8766,,
+United States,2021,Male,65-69,8950,,
+World,2022,Male,65-69,132743,,
+China,2022,Male,65-69,35965,,
+India,2022,Male,65-69,19709,,
+Pakistan,2022,Male,65-69,2033,,
+Indonesia,2022,Male,65-69,3650,,
+United States,2022,Male,65-69,9023,,
+World,2018,Female,65-69,132708,,
+World,2019,Female,65-69,137796,,
+World,2020,Female,65-69,142508,,
+World,2021,Female,65-69,146246,,
+China,2018,Female,65-69,34104,,
+China,2019,Female,65-69,36207,,
+China,2020,Female,65-69,37927,,
+China,2021,Female,65-69,38994,,
+India,2018,Female,65-69,17736,,
+India,2019,Female,65-69,18561,,
+India,2020,Female,65-69,19233,,
+India,2021,Female,65-69,19774,,
+Pakistan,2018,Female,65-69,1862,,
+Pakistan,2019,Female,65-69,1944,,
+Pakistan,2020,Female,65-69,2039,,
+Pakistan,2021,Female,65-69,2140,,
+Indonesia,2018,Female,65-69,3484,,
+Indonesia,2019,Female,65-69,3637,,
+Indonesia,2020,Female,65-69,3809,,
+Indonesia,2021,Female,65-69,3977,,
+United States,2018,Female,65-69,8833,,
+United States,2019,Female,65-69,9181,,
+United States,2020,Female,65-69,9637,,
+United States,2021,Female,65-69,9819,,
+World,2022,Female,65-69,149480,,
+China,2022,Female,65-69,39669,,
+India,2022,Female,65-69,20226,,
+Pakistan,2022,Female,65-69,2239,,
+Indonesia,2022,Female,65-69,4145,,
+United States,2022,Female,65-69,9894,,
+World,2018,Male,70-74,79392,,
+World,2019,Male,70-74,83617,,
+World,2020,Male,70-74,88189,,
+World,2021,Male,70-74,92234,,
+China,2018,Male,70-74,18991,,
+China,2019,Male,70-74,20203,,
+China,2020,Male,70-74,21694,,
+China,2021,Male,70-74,23276,,
+India,2018,Male,70-74,10598,,
+India,2019,Male,70-74,11231,,
+India,2020,Male,70-74,11996,,
+India,2021,Male,70-74,12640,,
+Pakistan,2018,Male,70-74,1258,,
+Pakistan,2019,Male,70-74,1262,,
+Pakistan,2020,Male,70-74,1263,,
+Pakistan,2021,Male,70-74,1265,,
+Indonesia,2018,Male,70-74,2078,,
+Indonesia,2019,Male,70-74,2116,,
+Indonesia,2020,Male,70-74,2153,,
+Indonesia,2021,Male,70-74,2182,,
+United States,2018,Male,70-74,6099,,
+United States,2019,Male,70-74,6330,,
+United States,2020,Male,70-74,6505,,
+United States,2021,Male,70-74,6729,,
+World,2022,Male,70-74,95841,,
+China,2022,Male,70-74,25036,,
+India,2022,Male,70-74,13216,,
+Pakistan,2022,Male,70-74,1282,,
+Indonesia,2022,Male,70-74,2227,,
+United States,2022,Male,70-74,6937,,
+World,2018,Female,70-74,93283,,
+World,2019,Female,70-74,98478,,
+World,2020,Female,70-74,104267,,
+World,2021,Female,70-74,109635,,
+China,2018,Female,70-74,21085,,
+China,2019,Female,70-74,22679,,
+China,2020,Female,70-74,24696,,
+China,2021,Female,70-74,26888,,
+India,2018,Female,70-74,11629,,
+India,2019,Female,70-74,12194,,
+India,2020,Female,70-74,12887,,
+India,2021,Female,70-74,13497,,
+Pakistan,2018,Female,70-74,1365,,
+Pakistan,2019,Female,70-74,1400,,
+Pakistan,2020,Female,70-74,1428,,
+Pakistan,2021,Female,70-74,1454,,
+Indonesia,2018,Female,70-74,2711,,
+Indonesia,2019,Female,70-74,2739,,
+Indonesia,2020,Female,70-74,2757,,
+Indonesia,2021,Female,70-74,2769,,
+United States,2018,Female,70-74,7110,,
+United States,2019,Female,70-74,7359,,
+United States,2020,Female,70-74,7555,,
+United States,2021,Female,70-74,7845,,
+World,2022,Female,70-74,114408,,
+China,2022,Female,70-74,29300,,
+India,2022,Female,70-74,14063,,
+Pakistan,2022,Female,70-74,1493,,
+Indonesia,2022,Female,70-74,2806,,
+United States,2022,Female,70-74,8053,,
+World,2018,Male,75-79,53566,,
+World,2019,Male,75-79,54557,,
+World,2020,Male,75-79,55413,,
+World,2021,Male,75-79,56563,,
+China,2018,Male,75-79,12389,,
+China,2019,Male,75-79,12668,,
+China,2020,Male,75-79,13043,,
+China,2021,Male,75-79,13510,,
+India,2018,Male,75-79,6610,,
+India,2019,Male,75-79,6819,,
+India,2020,Male,75-79,7032,,
+India,2021,Male,75-79,7167,,
+Pakistan,2018,Male,75-79,767,,
+Pakistan,2019,Male,75-79,789,,
+Pakistan,2020,Male,75-79,806,,
+Pakistan,2021,Male,75-79,817,,
+Indonesia,2018,Male,75-79,1351,,
+Indonesia,2019,Male,75-79,1367,,
+Indonesia,2020,Male,75-79,1370,,
+Indonesia,2021,Male,75-79,1356,,
+United States,2018,Male,75-79,4020,,
+United States,2019,Male,75-79,4187,,
+United States,2020,Male,75-79,4283,,
+United States,2021,Male,75-79,4527,,
+World,2022,Male,75-79,58705,,
+China,2022,Male,75-79,14206,,
+India,2022,Male,75-79,7262,,
+Pakistan,2022,Male,75-79,826,,
+Indonesia,2022,Male,75-79,1339,,
+United States,2022,Male,75-79,4875,,
+World,2018,Female,75-79,69065,,
+World,2019,Female,75-79,69848,,
+World,2020,Female,75-79,70672,,
+World,2021,Female,75-79,72061,,
+China,2018,Female,75-79,14852,,
+China,2019,Female,75-79,15249,,
+China,2020,Female,75-79,15774,,
+China,2021,Female,75-79,16421,,
+India,2018,Female,75-79,7887,,
+India,2019,Female,75-79,8067,,
+India,2020,Female,75-79,8264,,
+India,2021,Female,75-79,8408,,
+Pakistan,2018,Female,75-79,844,,
+Pakistan,2019,Female,75-79,882,,
+Pakistan,2020,Female,75-79,918,,
+Pakistan,2021,Female,75-79,948,,
+Indonesia,2018,Female,75-79,1939,,
+Indonesia,2019,Female,75-79,1974,,
+Indonesia,2020,Female,75-79,1995,,
+Indonesia,2021,Female,75-79,1996,,
+United States,2018,Female,75-79,4888,,
+United States,2019,Female,75-79,5086,,
+United States,2020,Female,75-79,5236,,
+United States,2021,Female,75-79,5523,,
+World,2022,Female,75-79,74771,,
+China,2022,Female,75-79,17282,,
+India,2022,Female,75-79,8530,,
+Pakistan,2022,Female,75-79,977,,
+Indonesia,2022,Female,75-79,1989,,
+United States,2022,Female,75-79,5946,,
+World,2018,Male,80-84,32831,,
+World,2019,Male,80-84,33780,,
+World,2020,Male,80-84,34588,,
+World,2021,Male,80-84,35083,,
+China,2018,Male,80-84,7673,,
+China,2019,Male,80-84,7795,,
+China,2020,Male,80-84,7917,,
+China,2021,Male,80-84,8086,,
+India,2018,Male,80-84,3671,,
+India,2019,Male,80-84,3824,,
+India,2020,Male,80-84,3937,,
+India,2021,Male,80-84,3945,,
+Pakistan,2018,Male,80-84,355,,
+Pakistan,2019,Male,80-84,365,,
+Pakistan,2020,Male,80-84,374,,
+Pakistan,2021,Male,80-84,381,,
+Indonesia,2018,Male,80-84,688,,
+Indonesia,2019,Male,80-84,708,,
+Indonesia,2020,Male,80-84,716,,
+Indonesia,2021,Male,80-84,705,,
+United States,2018,Male,80-84,2585,,
+United States,2019,Male,80-84,2633,,
+United States,2020,Male,80-84,2726,,
+United States,2021,Male,80-84,2788,,
+World,2022,Male,80-84,35445,,
+China,2022,Male,80-84,8269,,
+India,2022,Male,80-84,3901,,
+Pakistan,2022,Male,80-84,390,,
+Indonesia,2022,Male,80-84,690,,
+United States,2022,Male,80-84,2867,,
+World,2018,Female,80-84,48119,,
+World,2019,Female,80-84,49386,,
+World,2020,Female,80-84,50472,,
+World,2021,Female,80-84,51213,,
+China,2018,Female,80-84,10602,,
+China,2019,Female,80-84,10707,,
+China,2020,Female,80-84,10838,,
+China,2021,Female,80-84,11068,,
+India,2018,Female,80-84,4752,,
+India,2019,Female,80-84,4940,,
+India,2020,Female,80-84,5085,,
+India,2021,Female,80-84,5116,,
+Pakistan,2018,Female,80-84,414,,
+Pakistan,2019,Female,80-84,432,,
+Pakistan,2020,Female,80-84,450,,
+Pakistan,2021,Female,80-84,467,,
+Indonesia,2018,Female,80-84,1090,,
+Indonesia,2019,Female,80-84,1129,,
+Indonesia,2020,Female,80-84,1156,,
+Indonesia,2021,Female,80-84,1162,,
+United States,2018,Female,80-84,3444,,
+United States,2019,Female,80-84,3486,,
+United States,2020,Female,80-84,3562,,
+United States,2021,Female,80-84,3657,,
+World,2022,Female,80-84,51631,,
+China,2022,Female,80-84,11340,,
+India,2022,Female,80-84,5075,,
+Pakistan,2022,Female,80-84,486,,
+Indonesia,2022,Female,80-84,1159,,
+United States,2022,Female,80-84,3787,,
+World,2018,Male,85-89,15429,,
+World,2019,Male,85-89,15956,,
+World,2020,Male,85-89,16354,,
+World,2021,Male,85-89,16646,,
+China,2018,Male,85-89,3262,,
+China,2019,Male,85-89,3440,,
+China,2020,Male,85-89,3589,,
+China,2021,Male,85-89,3721,,
+India,2018,Male,85-89,1603,,
+India,2019,Male,85-89,1686,,
+India,2020,Male,85-89,1740,,
+India,2021,Male,85-89,1719,,
+Pakistan,2018,Male,85-89,116,,
+Pakistan,2019,Male,85-89,119,,
+Pakistan,2020,Male,85-89,121,,
+Pakistan,2021,Male,85-89,121,,
+Indonesia,2018,Male,85-89,239,,
+Indonesia,2019,Male,85-89,248,,
+Indonesia,2020,Male,85-89,251,,
+Indonesia,2021,Male,85-89,243,,
+United States,2018,Male,85-89,1615,,
+United States,2019,Male,85-89,1604,,
+United States,2020,Male,85-89,1560,,
+United States,2021,Male,85-89,1563,,
+World,2022,Male,85-89,17008,,
+China,2022,Male,85-89,3863,,
+India,2022,Male,85-89,1672,,
+Pakistan,2022,Male,85-89,123,,
+Indonesia,2022,Male,85-89,236,,
+United States,2022,Male,85-89,1594,,
+World,2018,Female,85-89,26822,,
+World,2019,Female,85-89,27580,,
+World,2020,Female,85-89,28295,,
+World,2021,Female,85-89,28895,,
+China,2018,Female,85-89,5549,,
+China,2019,Female,85-89,5837,,
+China,2020,Female,85-89,6117,,
+China,2021,Female,85-89,6378,,
+India,2018,Female,85-89,2148,,
+India,2019,Female,85-89,2270,,
+India,2020,Female,85-89,2374,,
+India,2021,Female,85-89,2402,,
+Pakistan,2018,Female,85-89,147,,
+Pakistan,2019,Female,85-89,154,,
+Pakistan,2020,Female,85-89,160,,
+Pakistan,2021,Female,85-89,165,,
+Indonesia,2018,Female,85-89,426,,
+Indonesia,2019,Female,85-89,449,,
+Indonesia,2020,Female,85-89,464,,
+Indonesia,2021,Female,85-89,465,,
+United States,2018,Female,85-89,2327,,
+United States,2019,Female,85-89,2374,,
+United States,2020,Female,85-89,2383,,
+United States,2021,Female,85-89,2390,,
+World,2022,Female,85-89,29499,,
+China,2022,Female,85-89,6594,,
+India,2022,Female,85-89,2384,,
+Pakistan,2022,Female,85-89,171,,
+Indonesia,2022,Female,85-89,463,,
+United States,2022,Female,85-89,2411,,
+World,2018,Male,90-94,4892,,
+World,2019,Male,90-94,5184,,
+World,2020,Male,90-94,5449,,
+World,2021,Male,90-94,5627,,
+China,2018,Male,90-94,842,,
+China,2019,Male,90-94,895,,
+China,2020,Male,90-94,946,,
+China,2021,Male,90-94,992,,
+India,2018,Male,90-94,498,,
+India,2019,Male,90-94,540,,
+India,2020,Male,90-94,570,,
+India,2021,Male,90-94,569,,
+Pakistan,2018,Male,90-94,18,,
+Pakistan,2019,Male,90-94,19,,
+Pakistan,2020,Male,90-94,20,,
+Pakistan,2021,Male,90-94,21,,
+Indonesia,2018,Male,90-94,52,,
+Indonesia,2019,Male,90-94,54,,
+Indonesia,2020,Male,90-94,55,,
+Indonesia,2021,Male,90-94,54,,
+United States,2018,Male,90-94,590,,
+United States,2019,Male,90-94,607,,
+United States,2020,Male,90-94,650,,
+United States,2021,Male,90-94,696,,
+World,2022,Male,90-94,5763,,
+China,2022,Male,90-94,1042,,
+India,2022,Male,90-94,551,,
+Pakistan,2022,Male,90-94,22,,
+Indonesia,2022,Male,90-94,51,,
+United States,2022,Male,90-94,729,,
+World,2018,Female,90-94,11030,,
+World,2019,Female,90-94,11474,,
+World,2020,Female,90-94,11922,,
+World,2021,Female,90-94,12276,,
+China,2018,Female,90-94,1977,,
+China,2019,Female,90-94,2093,,
+China,2020,Female,90-94,2209,,
+China,2021,Female,90-94,2324,,
+India,2018,Female,90-94,692,,
+India,2019,Female,90-94,745,,
+India,2020,Female,90-94,793,,
+India,2021,Female,90-94,813,,
+Pakistan,2018,Female,90-94,32,,
+Pakistan,2019,Female,90-94,34,,
+Pakistan,2020,Female,90-94,36,,
+Pakistan,2021,Female,90-94,37,,
+Indonesia,2018,Female,90-94,104,,
+Indonesia,2019,Female,90-94,112,,
+Indonesia,2020,Female,90-94,117,,
+Indonesia,2021,Female,90-94,119,,
+United States,2018,Female,90-94,1085,,
+United States,2019,Female,90-94,1050,,
+United States,2020,Female,90-94,1081,,
+United States,2021,Female,90-94,1144,,
+World,2022,Female,90-94,12574,,
+China,2022,Female,90-94,2441,,
+India,2022,Female,90-94,811,,
+Pakistan,2022,Female,90-94,39,,
+Indonesia,2022,Female,90-94,118,,
+United States,2022,Female,90-94,1215,,
+World,2018,Male,95-99,879,,
+World,2019,Male,95-99,954,,
+World,2020,Male,95-99,1014,,
+World,2021,Male,95-99,1070,,
+China,2018,Male,95-99,84,,
+China,2019,Male,95-99,95,,
+China,2020,Male,95-99,107,,
+China,2021,Male,95-99,115,,
+India,2018,Male,95-99,96,,
+India,2019,Male,95-99,107,,
+India,2020,Male,95-99,116,,
+India,2021,Male,95-99,120,,
+Pakistan,2018,Male,95-99,1,,
+Pakistan,2019,Male,95-99,1,,
+Pakistan,2020,Male,95-99,1,,
+Pakistan,2021,Male,95-99,1,,
+Indonesia,2018,Male,95-99,6,,
+Indonesia,2019,Male,95-99,7,,
+Indonesia,2020,Male,95-99,7,,
+Indonesia,2021,Male,95-99,7,,
+United States,2018,Male,95-99,143,,
+United States,2019,Male,95-99,151,,
+United States,2020,Male,95-99,149,,
+United States,2021,Male,95-99,154,,
+World,2022,Male,95-99,1126,,
+China,2022,Male,95-99,124,,
+India,2022,Male,95-99,121,,
+Pakistan,2022,Male,95-99,1,,
+Indonesia,2022,Male,95-99,7,,
+United States,2022,Male,95-99,165,,
+World,2018,Female,95-99,2779,,
+World,2019,Female,95-99,2965,,
+World,2020,Female,95-99,3116,,
+World,2021,Female,95-99,3253,,
+China,2018,Female,95-99,354,,
+China,2019,Female,95-99,392,,
+China,2020,Female,95-99,433,,
+China,2021,Female,95-99,465,,
+India,2018,Female,95-99,140,,
+India,2019,Female,95-99,155,,
+India,2020,Female,95-99,168,,
+India,2021,Female,95-99,177,,
+Pakistan,2018,Female,95-99,3,,
+Pakistan,2019,Female,95-99,3,,
+Pakistan,2020,Female,95-99,3,,
+Pakistan,2021,Female,95-99,4,,
+Indonesia,2018,Female,95-99,14,,
+Indonesia,2019,Female,95-99,15,,
+Indonesia,2020,Female,95-99,16,,
+Indonesia,2021,Female,95-99,17,,
+United States,2018,Female,95-99,359,,
+United States,2019,Female,95-99,352,,
+United States,2020,Female,95-99,332,,
+United States,2021,Female,95-99,339,,
+World,2022,Female,95-99,3379,,
+China,2022,Female,95-99,495,,
+India,2022,Female,95-99,180,,
+Pakistan,2022,Female,95-99,4,,
+Indonesia,2022,Female,95-99,17,,
+United States,2022,Female,95-99,356,,
+World,2018,Male,100+,88,,
+World,2019,Male,100+,94,,
+World,2020,Male,100+,104,,
+World,2021,Male,100+,114,,
+China,2018,Male,100+,2,,
+China,2019,Male,100+,2,,
+China,2020,Male,100+,3,,
+China,2021,Male,100+,3,,
+India,2018,Male,100+,13,,
+India,2019,Male,100+,14,,
+India,2020,Male,100+,16,,
+India,2021,Male,100+,16,,
+Pakistan,2018,Male,100+,1,,
+Pakistan,2019,Male,100+,1,,
+Pakistan,2020,Male,100+,1,,
+Pakistan,2021,Male,100+,1,,
+Indonesia,2018,Male,100+,1,,
+Indonesia,2019,Male,100+,1,,
+Indonesia,2020,Male,100+,1,,
+Indonesia,2021,Male,100+,1,,
+United States,2018,Male,100+,16,,
+United States,2019,Male,100+,17,,
+United States,2020,Male,100+,20,,
+United States,2021,Male,100+,23,,
+World,2022,Male,100+,122,,
+China,2022,Male,100+,4,,
+India,2022,Male,100+,16,,
+Pakistan,2022,Male,100+,1,,
+Indonesia,2022,Male,100+,1,,
+United States,2022,Male,100+,25,,
+World,2018,Female,100+,389,,
+World,2019,Female,100+,411,,
+World,2020,Female,100+,445,,
+World,2021,Female,100+,480,,
+China,2018,Female,100+,27,,
+China,2019,Female,100+,30,,
+China,2020,Female,100+,34,,
+China,2021,Female,100+,39,,
+India,2018,Female,100+,18,,
+India,2019,Female,100+,21,,
+India,2020,Female,100+,23,,
+India,2021,Female,100+,24,,
+Pakistan,2018,Female,100+,1,,
+Pakistan,2019,Female,100+,1,,
+Pakistan,2020,Female,100+,1,,
+Pakistan,2021,Female,100+,1,,
+Indonesia,2018,Female,100+,2,,
+Indonesia,2019,Female,100+,2,,
+Indonesia,2020,Female,100+,2,,
+Indonesia,2021,Female,100+,2,,
+United States,2018,Female,100+,61,,
+United States,2019,Female,100+,62,,
+United States,2020,Female,100+,65,,
+United States,2021,Female,100+,68,,
+World,2022,Female,100+,512,,
+China,2022,Female,100+,44,,
+India,2022,Female,100+,25,,
+Pakistan,2022,Female,100+,1,,
+Indonesia,2022,Female,100+,2,,
+United States,2022,Female,100+,71,,
+Australia,2018,Female,0-4,765,,
+Australia,2019,Female,0-4,763,,
+Australia,2020,Female,0-4,757,,
+Australia,2021,Female,0-4,748,,
+Australia,2018,Female,5-9,781,,
+Australia,2019,Female,5-9,787,,
+Australia,2020,Female,5-9,789,,
+Australia,2021,Female,5-9,790,,
+Australia,2018,Female,10-14,737,,
+Australia,2019,Female,10-14,756,,
+Australia,2020,Female,10-14,772,,
+Australia,2021,Female,10-14,781,,
+Australia,2018,Female,15-19,726,,
+Australia,2019,Female,15-19,728,,
+Australia,2020,Female,15-19,727,,
+Australia,2021,Female,15-19,732,,
+Australia,2018,Female,20-24,849,,
+Australia,2019,Female,20-24,851,,
+Australia,2020,Female,20-24,839,,
+Australia,2021,Female,20-24,822,,
+Australia,2018,Female,25-29,938,,
+Australia,2019,Female,25-29,950,,
+Australia,2020,Female,25-29,954,,
+Australia,2021,Female,25-29,949,,
+Australia,2018,Female,30-34,942,,
+Australia,2019,Female,30-34,961,,
+Australia,2020,Female,30-34,977,,
+Australia,2021,Female,30-34,987,,
+Australia,2018,Female,35-39,866,,
+Australia,2019,Female,35-39,898,,
+Australia,2020,Female,35-39,927,,
+Australia,2021,Female,35-39,949,,
+Australia,2018,Female,40-44,803,,
+Australia,2019,Female,40-44,806,,
+Australia,2020,Female,40-44,818,,
+Australia,2021,Female,40-44,837,,
+Australia,2018,Female,45-49,850,,
+Australia,2019,Female,45-49,853,,
+Australia,2020,Female,45-49,848,,
+Australia,2021,Female,45-49,835,,
+Australia,2018,Female,50-54,781,,
+Australia,2019,Female,50-54,787,,
+Australia,2020,Female,50-54,802,,
+Australia,2021,Female,50-54,823,,
+Australia,2018,Female,55-59,779,,
+Australia,2019,Female,55-59,786,,
+Australia,2020,Female,55-59,787,,
+Australia,2021,Female,55-59,784,,
+Australia,2018,Female,60-64,698,,
+Australia,2019,Female,60-64,713,,
+Australia,2020,Female,60-64,729,,
+Australia,2021,Female,60-64,744,,
+Australia,2018,Female,65-69,618,,
+Australia,2019,Female,65-69,630,,
+Australia,2020,Female,65-69,642,,
+Australia,2021,Female,65-69,655,,
+Australia,2018,Female,70-74,516,,
+Australia,2019,Female,70-74,539,,
+Australia,2020,Female,70-74,560,,
+Australia,2021,Female,70-74,576,,
+Australia,2018,Female,75-79,368,,
+Australia,2019,Female,75-79,384,,
+Australia,2020,Female,75-79,402,,
+Australia,2021,Female,75-79,424,,
+Australia,2018,Female,80-84,268,,
+Australia,2019,Female,80-84,278,,
+Australia,2020,Female,80-84,287,,
+Australia,2021,Female,80-84,297,,
+Australia,2018,Female,85-89,184,,
+Australia,2019,Female,85-89,185,,
+Australia,2020,Female,85-89,187,,
+Australia,2021,Female,85-89,190,,
+Australia,2018,Female,90-94,98,,
+Australia,2019,Female,90-94,100,,
+Australia,2020,Female,90-94,102,,
+Australia,2021,Female,90-94,103,,
+Australia,2018,Female,95-99,28,,
+Australia,2019,Female,95-99,30,,
+Australia,2020,Female,95-99,32,,
+Australia,2021,Female,95-99,34,,
+Australia,2018,Female,100+,4,,
+Australia,2019,Female,100+,4,,
+Australia,2020,Female,100+,5,,
+Australia,2021,Female,100+,5,,
+Australia,2022,Female,0-4,743,,
+Australia,2022,Female,5-9,787,,
+Australia,2022,Female,10-14,787,,
+Australia,2022,Female,15-19,746,,
+Australia,2022,Female,20-24,807,,
+Australia,2022,Female,25-29,941,,
+Australia,2022,Female,30-34,995,,
+Australia,2022,Female,35-39,968,,
+Australia,2022,Female,40-44,861,,
+Australia,2022,Female,45-49,822,,
+Australia,2022,Female,50-54,843,,
+Australia,2022,Female,55-59,780,,
+Australia,2022,Female,60-64,758,,
+Australia,2022,Female,65-69,669,,
+Australia,2022,Female,70-74,584,,
+Australia,2022,Female,75-79,452,,
+Australia,2022,Female,80-84,307,,
+Australia,2022,Female,85-89,195,,
+Australia,2022,Female,90-94,103,,
+Australia,2022,Female,95-99,35,,
+Australia,2022,Female,100+,6,,
+Australia,2018,Male,0-4,809,,
+Australia,2019,Male,0-4,807,,
+Australia,2020,Male,0-4,801,,
+Australia,2021,Male,0-4,791,,
+Australia,2018,Male,5-9,823,,
+Australia,2019,Male,5-9,829,,
+Australia,2020,Male,5-9,831,,
+Australia,2021,Male,5-9,833,,
+Australia,2018,Male,10-14,779,,
+Australia,2019,Male,10-14,798,,
+Australia,2020,Male,10-14,813,,
+Australia,2021,Male,10-14,823,,
+Australia,2018,Male,15-19,766,,
+Australia,2019,Male,15-19,767,,
+Australia,2020,Male,15-19,765,,
+Australia,2021,Male,15-19,771,,
+Australia,2018,Male,20-24,891,,
+Australia,2019,Male,20-24,894,,
+Australia,2020,Male,20-24,881,,
+Australia,2021,Male,20-24,862,,
+Australia,2018,Male,25-29,942,,
+Australia,2019,Male,25-29,962,,
+Australia,2020,Male,25-29,978,,
+Australia,2021,Male,25-29,981,,
+Australia,2018,Male,30-34,921,,
+Australia,2019,Male,30-34,938,,
+Australia,2020,Male,30-34,957,,
+Australia,2021,Male,30-34,971,,
+Australia,2018,Male,35-39,858,,
+Australia,2019,Male,35-39,887,,
+Australia,2020,Male,35-39,913,,
+Australia,2021,Male,35-39,932,,
+Australia,2018,Male,40-44,795,,
+Australia,2019,Male,40-44,798,,
+Australia,2020,Male,40-44,810,,
+Australia,2021,Male,40-44,829,,
+Australia,2018,Male,45-49,818,,
+Australia,2019,Male,45-49,825,,
+Australia,2020,Male,45-49,825,,
+Australia,2021,Male,45-49,818,,
+Australia,2018,Male,50-54,751,,
+Australia,2019,Male,50-54,754,,
+Australia,2020,Male,50-54,767,,
+Australia,2021,Male,50-54,786,,
+Australia,2018,Male,55-59,749,,
+Australia,2019,Male,55-59,756,,
+Australia,2020,Male,55-59,758,,
+Australia,2021,Male,55-59,754,,
+Australia,2018,Male,60-64,663,,
+Australia,2019,Male,60-64,677,,
+Australia,2020,Male,60-64,692,,
+Australia,2021,Male,60-64,707,,
+Australia,2018,Male,65-69,591,,
+Australia,2019,Male,65-69,596,,
+Australia,2020,Male,65-69,604,,
+Australia,2021,Male,65-69,614,,
+Australia,2018,Male,70-74,498,,
+Australia,2019,Male,70-74,519,,
+Australia,2020,Male,70-74,536,,
+Australia,2021,Male,70-74,547,,
+Australia,2018,Male,75-79,336,,
+Australia,2019,Male,75-79,352,,
+Australia,2020,Male,75-79,370,,
+Australia,2021,Male,75-79,392,,
+Australia,2018,Male,80-84,219,,
+Australia,2019,Male,80-84,229,,
+Australia,2020,Male,80-84,240,,
+Australia,2021,Male,80-84,251,,
+Australia,2018,Male,85-89,128,,
+Australia,2019,Male,85-89,130,,
+Australia,2020,Male,85-89,133,,
+Australia,2021,Male,85-89,138,,
+Australia,2018,Male,90-94,53,,
+Australia,2019,Male,90-94,57,,
+Australia,2020,Male,90-94,59,,
+Australia,2021,Male,90-94,61,,
+Australia,2018,Male,95-99,11,,
+Australia,2019,Male,95-99,12,,
+Australia,2020,Male,95-99,14,,
+Australia,2021,Male,95-99,15,,
+Australia,2018,Male,100+,1,,
+Australia,2019,Male,100+,1,,
+Australia,2020,Male,100+,2,,
+Australia,2021,Male,100+,2,,
+Australia,2022,Male,0-4,785,,
+Australia,2022,Male,5-9,830,,
+Australia,2022,Male,10-14,829,,
+Australia,2022,Male,15-19,786,,
+Australia,2022,Male,20-24,846,,
+Australia,2022,Male,25-29,978,,
+Australia,2022,Male,30-34,985,,
+Australia,2022,Male,35-39,948,,
+Australia,2022,Male,40-44,854,,
+Australia,2022,Male,45-49,811,,
+Australia,2022,Male,50-54,806,,
+Australia,2022,Male,55-59,749,,
+Australia,2022,Male,60-64,722,,
+Australia,2022,Male,65-69,626,,
+Australia,2022,Male,70-74,551,,
+Australia,2022,Male,75-79,419,,
+Australia,2022,Male,80-84,262,,
+Australia,2022,Male,85-89,144,,
+Australia,2022,Male,90-94,62,,
+Australia,2022,Male,95-99,16,,
+Australia,2022,Male,100+,2,,
+South Africa,2018,Female,0-4,2810,,
+South Africa,2019,Female,0-4,2826,,
+South Africa,2020,Female,0-4,2841,,
+South Africa,2021,Female,0-4,2855,,
+Japan,2018,Female,0-4,2336,,
+Japan,2019,Female,0-4,2251,,
+Japan,2020,Female,0-4,2168,,
+Japan,2021,Female,0-4,2095,,
+Malaysia,2018,Female,0-4,1269,,
+Malaysia,2019,Female,0-4,1264,,
+Malaysia,2020,Female,0-4,1254,,
+Malaysia,2021,Female,0-4,1246,,
+Philippines,2018,Female,0-4,5647,,
+Philippines,2019,Female,0-4,5676,,
+Philippines,2020,Female,0-4,5712,,
+Philippines,2021,Female,0-4,5753,,
+United Kingdom,2018,Female,0-4,1905,,
+United Kingdom,2019,Female,0-4,1874,,
+United Kingdom,2020,Female,0-4,1830,,
+United Kingdom,2021,Female,0-4,1778,,
+South Africa,2018,Female,5-9,2767,,
+South Africa,2019,Female,5-9,2778,,
+South Africa,2020,Female,5-9,2799,,
+South Africa,2021,Female,5-9,2802,,
+Japan,2018,Female,5-9,2557,,
+Japan,2019,Female,5-9,2522,,
+Japan,2020,Female,5-9,2487,,
+Japan,2021,Female,5-9,2454,,
+Malaysia,2018,Female,5-9,1217,,
+Malaysia,2019,Female,5-9,1230,,
+Malaysia,2020,Female,5-9,1250,,
+Malaysia,2021,Female,5-9,1264,,
+Philippines,2018,Female,5-9,5547,,
+Philippines,2019,Female,5-9,5559,,
+Philippines,2020,Female,5-9,5568,,
+Philippines,2021,Female,5-9,5580,,
+United Kingdom,2018,Female,5-9,2018,,
+United Kingdom,2019,Female,5-9,2019,,
+United Kingdom,2020,Female,5-9,2014,,
+United Kingdom,2021,Female,5-9,2002,,
+South Africa,2018,Female,10-14,2501,,
+South Africa,2019,Female,10-14,2598,,
+South Africa,2020,Female,10-14,2661,,
+South Africa,2021,Female,10-14,2708,,
+Japan,2018,Female,10-14,2661,,
+Japan,2019,Female,10-14,2649,,
+Japan,2020,Female,10-14,2639,,
+Japan,2021,Female,10-14,2620,,
+Malaysia,2018,Female,10-14,1282,,
+Malaysia,2019,Female,10-14,1264,,
+Malaysia,2020,Female,10-14,1244,,
+Malaysia,2021,Female,10-14,1227,,
+Philippines,2018,Female,10-14,5354,,
+Philippines,2019,Female,10-14,5414,,
+Philippines,2020,Female,10-14,5462,,
+Philippines,2021,Female,10-14,5495,,
+United Kingdom,2018,Female,10-14,1878,,
+United Kingdom,2019,Female,10-14,1926,,
+United Kingdom,2020,Female,10-14,1970,,
+United Kingdom,2021,Female,10-14,2011,,
+South Africa,2018,Female,15-19,2218,,
+South Africa,2019,Female,15-19,2219,,
+South Africa,2020,Female,15-19,2253,,
+South Africa,2021,Female,15-19,2315,,
+Japan,2018,Female,15-19,2868,,
+Japan,2019,Female,15-19,2833,,
+Japan,2020,Female,15-19,2785,,
+Japan,2021,Female,15-19,2737,,
+Malaysia,2018,Female,15-19,1342,,
+Malaysia,2019,Female,15-19,1332,,
+Malaysia,2020,Female,15-19,1321,,
+Malaysia,2021,Female,15-19,1312,,
+Philippines,2018,Female,15-19,5107,,
+Philippines,2019,Female,15-19,5141,,
+Philippines,2020,Female,15-19,5170,,
+Philippines,2021,Female,15-19,5210,,
+United Kingdom,2018,Female,15-19,1790,,
+United Kingdom,2019,Female,15-19,1784,,
+United Kingdom,2020,Female,15-19,1796,,
+United Kingdom,2021,Female,15-19,1827,,
+South Africa,2018,Female,20-24,2529,,
+South Africa,2019,Female,20-24,2448,,
+South Africa,2020,Female,20-24,2367,,
+South Africa,2021,Female,20-24,2290,,
+Japan,2018,Female,20-24,2974,,
+Japan,2019,Female,20-24,2961,,
+Japan,2020,Female,20-24,2952,,
+Japan,2021,Female,20-24,2951,,
+Malaysia,2018,Female,20-24,1412,,
+Malaysia,2019,Female,20-24,1399,,
+Malaysia,2020,Female,20-24,1387,,
+Malaysia,2021,Female,20-24,1379,,
+Philippines,2018,Female,20-24,4875,,
+Philippines,2019,Female,20-24,4923,,
+Philippines,2020,Female,20-24,4977,,
+Philippines,2021,Female,20-24,5018,,
+United Kingdom,2018,Female,20-24,2033,,
+United Kingdom,2019,Female,20-24,2014,,
+United Kingdom,2020,Female,20-24,1990,,
+United Kingdom,2021,Female,20-24,1957,,
+South Africa,2018,Female,25-29,2813,,
+South Africa,2019,Female,25-29,2760,,
+South Africa,2020,Female,25-29,2710,,
+South Africa,2021,Female,25-29,2656,,
+Japan,2018,Female,25-29,3004,,
+Japan,2019,Female,25-29,2976,,
+Japan,2020,Female,25-29,2972,,
+Japan,2021,Female,25-29,2973,,
+Malaysia,2018,Female,25-29,1477,,
+Malaysia,2019,Female,25-29,1477,,
+Malaysia,2020,Female,25-29,1473,,
+Malaysia,2021,Female,25-29,1464,,
+Philippines,2018,Female,25-29,4481,,
+Philippines,2019,Female,25-29,4578,,
+Philippines,2020,Female,25-29,4666,,
+Philippines,2021,Female,25-29,4735,,
+United Kingdom,2018,Female,25-29,2236,,
+United Kingdom,2019,Female,25-29,2221,,
+United Kingdom,2020,Female,25-29,2199,,
+United Kingdom,2021,Female,25-29,2171,,
+South Africa,2018,Female,30-34,2701,,
+South Africa,2019,Female,30-34,2776,,
+South Africa,2020,Female,30-34,2820,,
+South Africa,2021,Female,30-34,2829,,
+Japan,2018,Female,30-34,3347,,
+Japan,2019,Female,30-34,3270,,
+Japan,2020,Female,30-34,3190,,
+Japan,2021,Female,30-34,3132,,
+Malaysia,2018,Female,30-34,1423,,
+Malaysia,2019,Female,30-34,1450,,
+Malaysia,2020,Female,30-34,1471,,
+Malaysia,2021,Female,30-34,1485,,
+Philippines,2018,Female,30-34,3892,,
+Philippines,2019,Female,30-34,3996,,
+Philippines,2020,Female,30-34,4103,,
+Philippines,2021,Female,30-34,4216,,
+United Kingdom,2018,Female,30-34,2241,,
+United Kingdom,2019,Female,30-34,2251,,
+United Kingdom,2020,Female,30-34,2258,,
+United Kingdom,2021,Female,30-34,2266,,
+South Africa,2018,Female,35-39,2106,,
+South Africa,2019,Female,35-39,2230,,
+South Africa,2020,Female,35-39,2338,,
+South Africa,2021,Female,35-39,2441,,
+Japan,2018,Female,35-39,3715,,
+Japan,2019,Female,35-39,3616,,
+Japan,2020,Female,35-39,3535,,
+Japan,2021,Female,35-39,3466,,
+Malaysia,2018,Female,35-39,1212,,
+Malaysia,2019,Female,35-39,1266,,
+Malaysia,2020,Female,35-39,1317,,
+Malaysia,2021,Female,35-39,1362,,
+Philippines,2018,Female,35-39,3527,,
+Philippines,2019,Female,35-39,3579,,
+Philippines,2020,Female,35-39,3633,,
+Philippines,2021,Female,35-39,3694,,
+United Kingdom,2018,Female,35-39,2200,,
+United Kingdom,2019,Female,35-39,2222,,
+United Kingdom,2020,Female,35-39,2227,,
+United Kingdom,2021,Female,35-39,2230,,
+South Africa,2018,Female,40-49,1446,,
+South Africa,2019,Female,40-49,1509,,
+South Africa,2020,Female,40-49,1620,,
+South Africa,2021,Female,40-49,1758,,
+Japan,2018,Female,40-49,4504,,
+Japan,2019,Female,40-49,4313,,
+Japan,2020,Female,40-49,4135,,
+Japan,2021,Female,40-49,3975,,
+Malaysia,2018,Female,40-49,1012,,
+Malaysia,2019,Female,40-49,1040,,
+Malaysia,2020,Female,40-49,1075,,
+Malaysia,2021,Female,40-49,1116,,
+Philippines,2018,Female,40-49,3135,,
+Philippines,2019,Female,40-49,3216,,
+Philippines,2020,Female,40-49,3296,,
+Philippines,2021,Female,40-49,3366,,
+United Kingdom,2018,Female,40-49,2024,,
+United Kingdom,2019,Female,40-49,2029,,
+United Kingdom,2020,Female,40-49,2065,,
+United Kingdom,2021,Female,40-49,2114,,
+South Africa,2018,Female,45-49,1679,,
+South Africa,2019,Female,45-49,1593,,
+South Africa,2020,Female,45-49,1502,,
+South Africa,2021,Female,45-49,1425,,
+Japan,2018,Female,45-49,4651,,
+Japan,2019,Female,45-49,4741,,
+Japan,2020,Female,45-49,4780,,
+Japan,2021,Female,45-49,4750,,
+Malaysia,2018,Female,45-49,924,,
+Malaysia,2019,Female,45-49,938,,
+Malaysia,2020,Female,45-49,953,,
+Malaysia,2021,Female,45-49,969,,
+Philippines,2018,Female,45-49,2793,,
+Philippines,2019,Female,45-49,2842,,
+Philippines,2020,Female,45-49,2892,,
+Philippines,2021,Female,45-49,2947,,
+United Kingdom,2018,Female,45-49,2281,,
+United Kingdom,2019,Female,45-49,2232,,
+United Kingdom,2020,Female,45-49,2175,,
+United Kingdom,2021,Female,45-49,2111,,
+South Africa,2018,Female,50-54,1620,,
+South Africa,2019,Female,50-54,1671,,
+South Africa,2020,Female,50-54,1699,,
+South Africa,2021,Female,50-54,1694,,
+Japan,2018,Female,50-54,4091,,
+Japan,2019,Female,50-54,4165,,
+Japan,2020,Female,50-54,4226,,
+Japan,2021,Female,50-54,4387,,
+Malaysia,2018,Female,50-54,832,,
+Malaysia,2019,Female,50-54,851,,
+Malaysia,2020,Female,50-54,868,,
+Malaysia,2021,Female,50-54,884,,
+Philippines,2018,Female,50-54,2418,,
+Philippines,2019,Female,50-54,2483,,
+Philippines,2020,Female,50-54,2550,,
+Philippines,2021,Female,50-54,2615,,
+United Kingdom,2018,Female,50-54,2370,,
+United Kingdom,2019,Female,50-54,2362,,
+United Kingdom,2020,Female,50-54,2345,,
+United Kingdom,2021,Female,50-54,2331,,
+South Africa,2018,Female,55-59,1190,,
+South Africa,2019,Female,55-59,1254,,
+South Africa,2020,Female,55-59,1322,,
+South Africa,2021,Female,55-59,1387,,
+Japan,2018,Female,55-59,3778,,
+Japan,2019,Female,55-59,3826,,
+Japan,2020,Female,55-59,3904,,
+Japan,2021,Female,55-59,3907,,
+Malaysia,2018,Female,55-59,716,,
+Malaysia,2019,Female,55-59,735,,
+Malaysia,2020,Female,55-59,754,,
+Malaysia,2021,Female,55-59,774,,
+Philippines,2018,Female,55-59,2041,,
+Philippines,2019,Female,55-59,2103,,
+Philippines,2020,Female,55-59,2163,,
+Philippines,2021,Female,55-59,2219,,
+United Kingdom,2018,Female,55-59,2179,,
+United Kingdom,2019,Female,55-59,2237,,
+United Kingdom,2020,Female,55-59,2289,,
+United Kingdom,2021,Female,55-59,2323,,
+South Africa,2018,Female,60-64,938,,
+South Africa,2019,Female,60-64,950,,
+South Africa,2020,Female,60-64,970,,
+South Africa,2021,Female,60-64,997,,
+Japan,2018,Female,60-64,3784,,
+Japan,2019,Female,60-64,3740,,
+Japan,2020,Female,60-64,3702,,
+Japan,2021,Female,60-64,3678,,
+Malaysia,2018,Female,60-64,586,,
+Malaysia,2019,Female,60-64,608,,
+Malaysia,2020,Female,60-64,630,,
+Malaysia,2021,Female,60-64,651,,
+Philippines,2018,Female,60-64,1650,,
+Philippines,2019,Female,60-64,1710,,
+Philippines,2020,Female,60-64,1768,,
+Philippines,2021,Female,60-64,1822,,
+United Kingdom,2018,Female,60-64,1878,,
+United Kingdom,2019,Female,60-64,1921,,
+United Kingdom,2020,Female,60-64,1974,,
+United Kingdom,2021,Female,60-64,2031,,
+South Africa,2018,Female,65-69,816,,
+South Africa,2019,Female,65-69,825,,
+South Africa,2020,Female,65-69,829,,
+South Africa,2021,Female,65-69,822,,
+Japan,2018,Female,65-69,4817,,
+Japan,2019,Female,65-69,4458,,
+Japan,2020,Female,65-69,4173,,
+Japan,2021,Female,65-69,3980,,
+Malaysia,2018,Female,65-69,439,,
+Malaysia,2019,Female,65-69,461,,
+Malaysia,2020,Female,65-69,483,,
+Malaysia,2021,Female,65-69,504,,
+Philippines,2018,Female,65-69,1208,,
+Philippines,2019,Female,65-69,1272,,
+Philippines,2020,Female,65-69,1338,,
+Philippines,2021,Female,65-69,1397,,
+United Kingdom,2018,Female,65-69,1760,,
+United Kingdom,2019,Female,65-69,1742,,
+United Kingdom,2020,Female,65-69,1739,,
+United Kingdom,2021,Female,65-69,1752,,
+South Africa,2018,Female,70-74,595,,
+South Africa,2019,Female,70-74,623,,
+South Africa,2020,Female,70-74,643,,
+South Africa,2021,Female,70-74,655,,
+Japan,2018,Female,70-74,4360,,
+Japan,2019,Female,70-74,4629,,
+Japan,2020,Female,70-74,4890,,
+Japan,2021,Female,70-74,5058,,
+Malaysia,2018,Female,70-74,300,,
+Malaysia,2019,Female,70-74,316,,
+Malaysia,2020,Female,70-74,334,,
+Malaysia,2021,Female,70-74,351,,
+Philippines,2018,Female,70-74,788,,
+Philippines,2019,Female,70-74,832,,
+Philippines,2020,Female,70-74,881,,
+Philippines,2021,Female,70-74,931,,
+United Kingdom,2018,Female,70-74,1685,,
+United Kingdom,2019,Female,70-74,1730,,
+United Kingdom,2020,Female,70-74,1752,,
+United Kingdom,2021,Female,70-74,1744,,
+South Africa,2018,Female,75-79,376,,
+South Africa,2019,Female,75-79,393,,
+South Africa,2020,Female,75-79,409,,
+South Africa,2021,Female,75-79,420,,
+Japan,2018,Female,75-79,3892,,
+Japan,2019,Female,75-79,4010,,
+Japan,2020,Female,75-79,3996,,
+Japan,2021,Female,75-79,3876,,
+Malaysia,2018,Female,75-79,190,,
+Malaysia,2019,Female,75-79,200,,
+Malaysia,2020,Female,75-79,211,,
+Malaysia,2021,Female,75-79,222,,
+Philippines,2018,Female,75-79,529,,
+Philippines,2019,Female,75-79,538,,
+Philippines,2020,Female,75-79,549,,
+Philippines,2021,Female,75-79,560,,
+United Kingdom,2018,Female,75-79,1207,,
+United Kingdom,2019,Female,75-79,1248,,
+United Kingdom,2020,Female,75-79,1295,,
+United Kingdom,2021,Female,75-79,1362,,
+South Africa,2018,Female,80-84,218,,
+South Africa,2019,Female,80-84,227,,
+South Africa,2020,Female,80-84,236,,
+South Africa,2021,Female,80-84,243,,
+Japan,2018,Female,80-84,3222,,
+Japan,2019,Female,80-84,3212,,
+Japan,2020,Female,80-84,3229,,
+Japan,2021,Female,80-84,3304,,
+Malaysia,2018,Female,80-84,107,,
+Malaysia,2019,Female,80-84,113,,
+Malaysia,2020,Female,80-84,119,,
+Malaysia,2021,Female,80-84,125,,
+Philippines,2018,Female,80-84,317,,
+Philippines,2019,Female,80-84,322,,
+Philippines,2020,Female,80-84,326,,
+Philippines,2021,Female,80-84,326,,
+United Kingdom,2018,Female,80-84,943,,
+United Kingdom,2019,Female,80-84,959,,
+United Kingdom,2020,Female,80-84,965,,
+United Kingdom,2021,Female,80-84,964,,
+South Africa,2018,Female,85-89,132,,
+South Africa,2019,Female,85-89,131,,
+South Africa,2020,Female,85-89,130,,
+South Africa,2021,Female,85-89,127,,
+Japan,2018,Female,85-89,2358,,
+Japan,2019,Female,85-89,2425,,
+Japan,2020,Female,85-89,2492,,
+Japan,2021,Female,85-89,2554,,
+Malaysia,2018,Female,85-89,48,,
+Malaysia,2019,Female,85-89,51,,
+Malaysia,2020,Female,85-89,54,,
+Malaysia,2021,Female,85-89,56,,
+Philippines,2018,Female,85-89,140,,
+Philippines,2019,Female,85-89,141,,
+Philippines,2020,Female,85-89,143,,
+Philippines,2021,Female,85-89,139,,
+United Kingdom,2018,Female,85-89,625,,
+United Kingdom,2019,Female,85-89,629,,
+United Kingdom,2020,Female,85-89,633,,
+United Kingdom,2021,Female,85-89,638,,
+South Africa,2018,Female,90-94,57,,
+South Africa,2019,Female,90-94,61,,
+South Africa,2020,Female,90-94,63,,
+South Africa,2021,Female,90-94,63,,
+Japan,2018,Female,90-94,1351,,
+Japan,2019,Female,90-94,1411,,
+Japan,2020,Female,90-94,1449,,
+Japan,2021,Female,90-94,1468,,
+Malaysia,2018,Female,90-94,18,,
+Malaysia,2019,Female,90-94,19,,
+Malaysia,2020,Female,90-94,19,,
+Malaysia,2021,Female,90-94,20,,
+Philippines,2018,Female,90-94,45,,
+Philippines,2019,Female,90-94,45,,
+Philippines,2020,Female,90-94,44,,
+Philippines,2021,Female,90-94,41,,
+United Kingdom,2018,Female,90-94,302,,
+United Kingdom,2019,Female,90-94,308,,
+United Kingdom,2020,Female,90-94,314,,
+United Kingdom,2021,Female,90-94,320,,
+South Africa,2018,Female,95-99,13,,
+South Africa,2019,Female,95-99,14,,
+South Africa,2020,Female,95-99,16,,
+South Africa,2021,Female,95-99,17,,
+Japan,2018,Female,95-99,495,,
+Japan,2019,Female,95-99,529,,
+Japan,2020,Female,95-99,557,,
+Japan,2021,Female,95-99,574,,
+Malaysia,2018,Female,95-99,5,,
+Malaysia,2019,Female,95-99,5,,
+Malaysia,2020,Female,95-99,5,,
+Malaysia,2021,Female,95-99,5,,
+Philippines,2018,Female,95-99,11,,
+Philippines,2019,Female,95-99,10,,
+Philippines,2020,Female,95-99,9,,
+Philippines,2021,Female,95-99,8,,
+United Kingdom,2018,Female,95-99,92,,
+United Kingdom,2019,Female,95-99,96,,
+United Kingdom,2020,Female,95-99,100,,
+United Kingdom,2021,Female,95-99,103,,
+South Africa,2018,Female,100+,2,,
+South Africa,2019,Female,100+,3,,
+South Africa,2020,Female,100+,3,,
+South Africa,2021,Female,100+,3,,
+Japan,2018,Female,100+,101,,
+Japan,2019,Female,100+,107,,
+Japan,2020,Female,100+,112,,
+Japan,2021,Female,100+,116,,
+Malaysia,2018,Female,100+,1,,
+Malaysia,2019,Female,100+,1,,
+Malaysia,2020,Female,100+,1,,
+Malaysia,2021,Female,100+,1,,
+Philippines,2018,Female,100+,2,,
+Philippines,2019,Female,100+,2,,
+Philippines,2020,Female,100+,2,,
+Philippines,2021,Female,100+,1,,
+United Kingdom,2018,Female,100+,12,,
+United Kingdom,2019,Female,100+,13,,
+United Kingdom,2020,Female,100+,15,,
+United Kingdom,2021,Female,100+,17,,
+South Africa,2022,Female,0-4,2859,,
+Japan,2022,Female,0-4,2044,,
+Malaysia,2022,Female,0-4,1239,,
+Philippines,2022,Female,0-4,5795,,
+United Kingdom,2022,Female,0-4,1730,,
+South Africa,2022,Female,5-9,2794,,
+Japan,2022,Female,5-9,2405,,
+Malaysia,2022,Female,5-9,1271,,
+Philippines,2022,Female,5-9,5598,,
+United Kingdom,2022,Female,5-9,1977,,
+South Africa,2022,Female,10-14,2747,,
+Japan,2022,Female,10-14,2591,,
+Malaysia,2022,Female,10-14,1218,,
+Philippines,2022,Female,10-14,5517,,
+United Kingdom,2022,Female,10-14,2039,,
+South Africa,2022,Female,15-19,2396,,
+Japan,2022,Female,15-19,2704,,
+Malaysia,2022,Female,15-19,1302,,
+Philippines,2022,Female,15-19,5268,,
+United Kingdom,2022,Female,15-19,1872,,
+South Africa,2022,Female,20-24,2237,,
+Japan,2022,Female,20-24,2934,,
+Malaysia,2022,Female,20-24,1373,,
+Philippines,2022,Female,20-24,5041,,
+United Kingdom,2022,Female,20-24,1918,,
+South Africa,2022,Female,25-29,2585,,
+Japan,2022,Female,25-29,2981,,
+Malaysia,2022,Female,25-29,1450,,
+Philippines,2022,Female,25-29,4788,,
+United Kingdom,2022,Female,25-29,2146,,
+South Africa,2022,Female,30-34,2808,,
+Japan,2022,Female,30-34,3084,,
+Malaysia,2022,Female,30-34,1492,,
+Philippines,2022,Female,30-34,4333,,
+United Kingdom,2022,Female,30-34,2273,,
+South Africa,2022,Female,35-39,2544,,
+Japan,2022,Female,35-39,3405,,
+Malaysia,2022,Female,35-39,1400,,
+Philippines,2022,Female,35-39,3766,,
+United Kingdom,2022,Female,35-39,2240,,
+South Africa,2022,Female,40-44,1904,,
+Japan,2022,Female,40-44,3833,,
+Malaysia,2022,Female,40-44,1164,,
+Philippines,2022,Female,40-44,3428,,
+United Kingdom,2022,Female,40-44,2165,,
+South Africa,2022,Female,45-49,1380,,
+Japan,2022,Female,45-49,4652,,
+Malaysia,2022,Female,45-49,987,,
+Philippines,2022,Female,45-49,3012,,
+United Kingdom,2022,Female,45-49,2053,,
+South Africa,2022,Female,50-54,1655,,
+Japan,2022,Female,50-54,4543,,
+Malaysia,2022,Female,50-54,899,,
+Philippines,2022,Female,50-54,2675,,
+United Kingdom,2022,Female,50-54,2310,,
+South Africa,2022,Female,55-59,1446,,
+Japan,2022,Female,55-59,3936,,
+Malaysia,2022,Female,55-59,795,,
+Philippines,2022,Female,55-59,2274,,
+United Kingdom,2022,Female,55-59,2340,,
+South Africa,2022,Female,60-64,1030,,
+Japan,2022,Female,60-64,3695,,
+Malaysia,2022,Female,60-64,670,,
+Philippines,2022,Female,60-64,1876,,
+United Kingdom,2022,Female,60-64,2087,,
+South Africa,2022,Female,65-69,812,,
+Japan,2022,Female,65-69,3820,,
+Malaysia,2022,Female,65-69,525,,
+Philippines,2022,Female,65-69,1452,,
+United Kingdom,2022,Female,65-69,1782,,
+South Africa,2022,Female,70-74,659,,
+Japan,2022,Female,70-74,4975,,
+Malaysia,2022,Female,70-74,370,,
+Philippines,2022,Female,70-74,981,,
+United Kingdom,2022,Female,70-74,1702,,
+South Africa,2022,Female,75-79,429,,
+Japan,2022,Female,75-79,3916,,
+Malaysia,2022,Female,75-79,233,,
+Philippines,2022,Female,75-79,577,,
+United Kingdom,2022,Female,75-79,1452,,
+South Africa,2022,Female,80-84,246,,
+Japan,2022,Female,80-84,3408,,
+Malaysia,2022,Female,80-84,130,,
+Philippines,2022,Female,80-84,326,,
+United Kingdom,2022,Female,80-84,974,,
+South Africa,2022,Female,85-89,123,,
+Japan,2022,Female,85-89,2597,,
+Malaysia,2022,Female,85-89,59,,
+Philippines,2022,Female,85-89,135,,
+United Kingdom,2022,Female,85-89,649,,
+South Africa,2022,Female,90-94,60,,
+Japan,2022,Female,90-94,1494,,
+Malaysia,2022,Female,90-94,20,,
+Philippines,2022,Female,90-94,39,,
+United Kingdom,2022,Female,90-94,325,,
+South Africa,2022,Female,95-99,18,,
+Japan,2022,Female,95-99,587,,
+Malaysia,2022,Female,95-99,5,,
+Philippines,2022,Female,95-99,8,,
+United Kingdom,2022,Female,95-99,105,,
+South Africa,2022,Female,100+,3,,
+Japan,2022,Female,100+,119,,
+Malaysia,2022,Female,100+,1,,
+Philippines,2022,Female,100+,1,,
+United Kingdom,2022,Female,100+,19,,
+South Africa,2018,Male,0-4,2914,,
+South Africa,2019,Male,0-4,2929,,
+South Africa,2020,Male,0-4,2944,,
+South Africa,2021,Male,0-4,2958,,
+Japan,2018,Male,0-4,2444,,
+Japan,2019,Male,0-4,2355,,
+Japan,2020,Male,0-4,2267,,
+Japan,2021,Male,0-4,2192,,
+Malaysia,2018,Male,0-4,1354,,
+Malaysia,2019,Male,0-4,1348,,
+Malaysia,2020,Male,0-4,1337,,
+Malaysia,2021,Male,0-4,1327,,
+Philippines,2018,Male,0-4,6064,,
+Philippines,2019,Male,0-4,6093,,
+Philippines,2020,Male,0-4,6128,,
+Philippines,2021,Male,0-4,6171,,
+United Kingdom,2018,Male,0-4,2007,,
+United Kingdom,2019,Male,0-4,1974,,
+United Kingdom,2020,Male,0-4,1928,,
+United Kingdom,2021,Male,0-4,1874,,
+South Africa,2018,Male,5-9,2867,,
+South Africa,2019,Male,5-9,2880,,
+South Africa,2020,Male,5-9,2902,,
+South Africa,2021,Male,5-9,2905,,
+Japan,2018,Male,5-9,2677,,
+Japan,2019,Male,5-9,2641,,
+Japan,2020,Male,5-9,2605,,
+Japan,2021,Male,5-9,2569,,
+Malaysia,2018,Male,5-9,1296,,
+Malaysia,2019,Male,5-9,1311,,
+Malaysia,2020,Male,5-9,1332,,
+Malaysia,2021,Male,5-9,1348,,
+Philippines,2018,Male,5-9,5961,,
+Philippines,2019,Male,5-9,5973,,
+Philippines,2020,Male,5-9,5981,,
+Philippines,2021,Male,5-9,5992,,
+United Kingdom,2018,Male,5-9,2117,,
+United Kingdom,2019,Male,5-9,2120,,
+United Kingdom,2020,Male,5-9,2117,,
+United Kingdom,2021,Male,5-9,2106,,
+South Africa,2018,Male,10-14,2589,,
+South Africa,2019,Male,10-14,2689,,
+South Africa,2020,Male,10-14,2754,,
+South Africa,2021,Male,10-14,2804,,
+Japan,2018,Male,10-14,2782,,
+Japan,2019,Male,10-14,2771,,
+Japan,2020,Male,10-14,2761,,
+Japan,2021,Male,10-14,2744,,
+Malaysia,2018,Male,10-14,1352,,
+Malaysia,2019,Male,10-14,1334,,
+Malaysia,2020,Male,10-14,1314,,
+Malaysia,2021,Male,10-14,1300,,
+Philippines,2018,Male,10-14,5735,,
+Philippines,2019,Male,10-14,5809,,
+Philippines,2020,Male,10-14,5864,,
+Philippines,2021,Male,10-14,5901,,
+United Kingdom,2018,Male,10-14,1975,,
+United Kingdom,2019,Male,10-14,2026,,
+United Kingdom,2020,Male,10-14,2072,,
+United Kingdom,2021,Male,10-14,2115,,
+South Africa,2018,Male,15-19,2290,,
+South Africa,2019,Male,15-19,2295,,
+South Africa,2020,Male,15-19,2332,,
+South Africa,2021,Male,15-19,2397,,
+Japan,2018,Male,15-19,3012,,
+Japan,2019,Male,15-19,2973,,
+Japan,2020,Male,15-19,2920,,
+Japan,2021,Male,15-19,2866,,
+Malaysia,2018,Male,15-19,1428,,
+Malaysia,2019,Male,15-19,1415,,
+Malaysia,2020,Male,15-19,1402,,
+Malaysia,2021,Male,15-19,1388,,
+Philippines,2018,Male,15-19,5418,,
+Philippines,2019,Male,15-19,5464,,
+Philippines,2020,Male,15-19,5502,,
+Philippines,2021,Male,15-19,5552,,
+United Kingdom,2018,Male,15-19,1891,,
+United Kingdom,2019,Male,15-19,1884,,
+United Kingdom,2020,Male,15-19,1895,,
+United Kingdom,2021,Male,15-19,1926,,
+South Africa,2018,Male,20-24,2584,,
+South Africa,2019,Male,20-24,2504,,
+South Africa,2020,Male,20-24,2425,,
+South Africa,2021,Male,20-24,2352,,
+Japan,2018,Male,20-24,3107,,
+Japan,2019,Male,20-24,3094,,
+Japan,2020,Male,20-24,3086,,
+Japan,2021,Male,20-24,3086,,
+Malaysia,2018,Male,20-24,1486,,
+Malaysia,2019,Male,20-24,1473,,
+Malaysia,2020,Male,20-24,1462,,
+Malaysia,2021,Male,20-24,1457,,
+Philippines,2018,Male,20-24,5050,,
+Philippines,2019,Male,20-24,5120,,
+Philippines,2020,Male,20-24,5205,,
+Philippines,2021,Male,20-24,5277,,
+United Kingdom,2018,Male,20-24,2147,,
+United Kingdom,2019,Male,20-24,2134,,
+United Kingdom,2020,Male,20-24,2110,,
+United Kingdom,2021,Male,20-24,2075,,
+South Africa,2018,Male,25-29,2875,,
+South Africa,2019,Male,25-29,2817,,
+South Africa,2020,Male,25-29,2762,,
+South Africa,2021,Male,25-29,2701,,
+Japan,2018,Male,25-29,3154,,
+Japan,2019,Male,25-29,3128,,
+Japan,2020,Male,25-29,3123,,
+Japan,2021,Male,25-29,3118,,
+Malaysia,2018,Male,25-29,1548,,
+Malaysia,2019,Male,25-29,1546,,
+Malaysia,2020,Male,25-29,1542,,
+Malaysia,2021,Male,25-29,1533,,
+Philippines,2018,Male,25-29,4631,,
+Philippines,2019,Male,25-29,4723,,
+Philippines,2020,Male,25-29,4811,,
+Philippines,2021,Male,25-29,4883,,
+United Kingdom,2018,Male,25-29,2292,,
+United Kingdom,2019,Male,25-29,2294,,
+United Kingdom,2020,Male,25-29,2286,,
+United Kingdom,2021,Male,25-29,2272,,
+South Africa,2018,Male,30-34,2751,,
+South Africa,2019,Male,30-34,2826,,
+South Africa,2020,Male,30-34,2871,,
+South Africa,2021,Male,30-34,2879,,
+Japan,2018,Male,30-34,3484,,
+Japan,2019,Male,30-34,3407,,
+Japan,2020,Male,30-34,3327,,
+Japan,2021,Male,30-34,3272,,
+Malaysia,2018,Male,30-34,1539,,
+Malaysia,2019,Male,30-34,1554,,
+Malaysia,2020,Male,30-34,1563,,
+Malaysia,2021,Male,30-34,1567,,
+Philippines,2018,Male,30-34,4072,,
+Philippines,2019,Male,30-34,4171,,
+Philippines,2020,Male,30-34,4268,,
+Philippines,2021,Male,30-34,4371,,
+United Kingdom,2018,Male,30-34,2223,,
+United Kingdom,2019,Male,30-34,2241,,
+United Kingdom,2020,Male,30-34,2262,,
+United Kingdom,2021,Male,30-34,2287,,
+South Africa,2018,Male,35-39,2169,,
+South Africa,2019,Male,35-39,2285,,
+South Africa,2020,Male,35-39,2381,,
+South Africa,2021,Male,35-39,2474,,
+Japan,2018,Male,35-39,3826,,
+Japan,2019,Male,35-39,3724,,
+Japan,2020,Male,35-39,3644,,
+Japan,2021,Male,35-39,3579,,
+Malaysia,2018,Male,35-39,1353,,
+Malaysia,2019,Male,35-39,1408,,
+Malaysia,2020,Male,35-39,1457,,
+Malaysia,2021,Male,35-39,1495,,
+Philippines,2018,Male,35-39,3710,,
+Philippines,2019,Male,35-39,3763,,
+Philippines,2020,Male,35-39,3815,,
+Philippines,2021,Male,35-39,3874,,
+United Kingdom,2018,Male,35-39,2161,,
+United Kingdom,2019,Male,35-39,2178,,
+United Kingdom,2020,Male,35-39,2184,,
+United Kingdom,2021,Male,35-39,2187,,
+South Africa,2018,Male,40-49,1446,,
+South Africa,2019,Male,40-49,1528,,
+South Africa,2020,Male,40-49,1655,,
+South Africa,2021,Male,40-49,1802,,
+Japan,2018,Male,40-49,4636,,
+Japan,2019,Male,40-49,4439,,
+Japan,2020,Male,40-49,4256,,
+Japan,2021,Male,40-49,4091,,
+Malaysia,2018,Male,40-49,1103,,
+Malaysia,2019,Male,40-49,1143,,
+Malaysia,2020,Male,40-49,1189,,
+Malaysia,2021,Male,40-49,1239,,
+Philippines,2018,Male,40-49,3277,,
+Philippines,2019,Male,40-49,3365,,
+Philippines,2020,Male,40-49,3453,,
+Philippines,2021,Male,40-49,3530,,
+United Kingdom,2018,Male,40-49,1994,,
+United Kingdom,2019,Male,40-49,2001,,
+United Kingdom,2020,Male,40-49,2036,,
+United Kingdom,2021,Male,40-49,2080,,
+South Africa,2018,Male,45-49,1493,,
+South Africa,2019,Male,45-49,1446,,
+South Africa,2020,Male,45-49,1395,,
+South Africa,2021,Male,45-49,1352,,
+Japan,2018,Male,45-49,4747,,
+Japan,2019,Male,45-49,4846,,
+Japan,2020,Male,45-49,4891,,
+Japan,2021,Male,45-49,4865,,
+Malaysia,2018,Male,45-49,960,,
+Malaysia,2019,Male,45-49,978,,
+Malaysia,2020,Male,45-49,999,,
+Malaysia,2021,Male,45-49,1024,,
+Philippines,2018,Male,45-49,2898,,
+Philippines,2019,Male,45-49,2954,,
+Philippines,2020,Male,45-49,3008,,
+Philippines,2021,Male,45-49,3065,,
+United Kingdom,2018,Male,45-49,2220,,
+United Kingdom,2019,Male,45-49,2174,,
+United Kingdom,2020,Male,45-49,2122,,
+United Kingdom,2021,Male,45-49,2062,,
+South Africa,2018,Male,50-54,1303,,
+South Africa,2019,Male,50-54,1360,,
+South Africa,2020,Male,50-54,1400,,
+South Africa,2021,Male,50-54,1416,,
+Japan,2018,Male,50-54,4141,,
+Japan,2019,Male,50-54,4219,,
+Japan,2020,Male,50-54,4282,,
+Japan,2021,Male,50-54,4447,,
+Malaysia,2018,Male,50-54,860,,
+Malaysia,2019,Male,50-54,877,,
+Malaysia,2020,Male,50-54,892,,
+Malaysia,2021,Male,50-54,907,,
+Philippines,2018,Male,50-54,2436,,
+Philippines,2019,Male,50-54,2513,,
+Philippines,2020,Male,50-54,2594,,
+Philippines,2021,Male,50-54,2671,,
+United Kingdom,2018,Male,50-54,2297,,
+United Kingdom,2019,Male,50-54,2288,,
+United Kingdom,2020,Male,50-54,2269,,
+United Kingdom,2021,Male,50-54,2251,,
+South Africa,2018,Male,55-59,827,,
+South Africa,2019,Male,55-59,898,,
+South Africa,2020,Male,55-59,972,,
+South Africa,2021,Male,55-59,1042,,
+Japan,2018,Male,55-59,3786,,
+Japan,2019,Male,55-59,3841,,
+Japan,2020,Male,55-59,3924,,
+Japan,2021,Male,55-59,3930,,
+Malaysia,2018,Male,55-59,735,,
+Malaysia,2019,Male,55-59,754,,
+Malaysia,2020,Male,55-59,772,,
+Malaysia,2021,Male,55-59,789,,
+Philippines,2018,Male,55-59,1975,,
+Philippines,2019,Male,55-59,2044,,
+Philippines,2020,Male,55-59,2112,,
+Philippines,2021,Male,55-59,2175,,
+United Kingdom,2018,Male,55-59,2115,,
+United Kingdom,2019,Male,55-59,2166,,
+United Kingdom,2020,Male,55-59,2209,,
+United Kingdom,2021,Male,55-59,2235,,
+South Africa,2018,Male,60-64,568,,
+South Africa,2019,Male,60-64,574,,
+South Africa,2020,Male,60-64,590,,
+South Africa,2021,Male,60-64,618,,
+Japan,2018,Male,60-64,3711,,
+Japan,2019,Male,60-64,3675,,
+Japan,2020,Male,60-64,3643,,
+Japan,2021,Male,60-64,3624,,
+Malaysia,2018,Male,60-64,584,,
+Malaysia,2019,Male,60-64,605,,
+Malaysia,2020,Male,60-64,626,,
+Malaysia,2021,Male,60-64,646,,
+Philippines,2018,Male,60-64,1527,,
+Philippines,2019,Male,60-64,1585,,
+Philippines,2020,Male,60-64,1643,,
+Philippines,2021,Male,60-64,1695,,
+United Kingdom,2018,Male,60-64,1803,,
+United Kingdom,2019,Male,60-64,1844,,
+United Kingdom,2020,Male,60-64,1893,,
+United Kingdom,2021,Male,60-64,1945,,
+South Africa,2018,Male,65-69,475,,
+South Africa,2019,Male,65-69,478,,
+South Africa,2020,Male,65-69,478,,
+South Africa,2021,Male,65-69,469,,
+Japan,2018,Male,65-69,4542,,
+Japan,2019,Male,65-69,4213,,
+Japan,2020,Male,65-69,3950,,
+Japan,2021,Male,65-69,3777,,
+Malaysia,2018,Male,65-69,422,,
+Malaysia,2019,Male,65-69,442,,
+Malaysia,2020,Male,65-69,461,,
+Malaysia,2021,Male,65-69,480,,
+Philippines,2018,Male,65-69,1057,,
+Philippines,2019,Male,65-69,1119,,
+Philippines,2020,Male,65-69,1181,,
+Philippines,2021,Male,65-69,1231,,
+United Kingdom,2018,Male,65-69,1652,,
+United Kingdom,2019,Male,65-69,1634,,
+United Kingdom,2020,Male,65-69,1631,,
+United Kingdom,2021,Male,65-69,1643,,
+South Africa,2018,Male,70-74,322,,
+South Africa,2019,Male,70-74,336,,
+South Africa,2020,Male,70-74,345,,
+South Africa,2021,Male,70-74,348,,
+Japan,2018,Male,70-74,3910,,
+Japan,2019,Male,70-74,4176,,
+Japan,2020,Male,70-74,4422,,
+Japan,2021,Male,70-74,4565,,
+Malaysia,2018,Male,70-74,279,,
+Malaysia,2019,Male,70-74,293,,
+Malaysia,2020,Male,70-74,307,,
+Malaysia,2021,Male,70-74,321,,
+Philippines,2018,Male,70-74,624,,
+Philippines,2019,Male,70-74,666,,
+Philippines,2020,Male,70-74,712,,
+Philippines,2021,Male,70-74,754,,
+United Kingdom,2018,Male,70-74,1545,,
+United Kingdom,2019,Male,70-74,1586,,
+United Kingdom,2020,Male,70-74,1605,,
+United Kingdom,2021,Male,70-74,1593,,
+South Africa,2018,Male,75-79,190,,
+South Africa,2019,Male,75-79,198,,
+South Africa,2020,Male,75-79,204,,
+South Africa,2021,Male,75-79,206,,
+Japan,2018,Male,75-79,3200,,
+Japan,2019,Male,75-79,3293,,
+Japan,2020,Male,75-79,3277,,
+Japan,2021,Male,75-79,3184,,
+Malaysia,2018,Male,75-79,170,,
+Malaysia,2019,Male,75-79,178,,
+Malaysia,2020,Male,75-79,187,,
+Malaysia,2021,Male,75-79,196,,
+Philippines,2018,Male,75-79,367,,
+Philippines,2019,Male,75-79,377,,
+Philippines,2020,Male,75-79,389,,
+Philippines,2021,Male,75-79,398,,
+United Kingdom,2018,Male,75-79,1035,,
+United Kingdom,2019,Male,75-79,1074,,
+United Kingdom,2020,Male,75-79,1120,,
+United Kingdom,2021,Male,75-79,1182,,
+South Africa,2018,Male,80-84,95,,
+South Africa,2019,Male,80-84,101,,
+South Africa,2020,Male,80-84,106,,
+South Africa,2021,Male,80-84,108,,
+Japan,2018,Male,80-84,2300,,
+Japan,2019,Male,80-84,2319,,
+Japan,2020,Male,80-84,2355,,
+Japan,2021,Male,80-84,2425,,
+Malaysia,2018,Male,80-84,89,,
+Malaysia,2019,Male,80-84,94,,
+Malaysia,2020,Male,80-84,99,,
+Malaysia,2021,Male,80-84,103,,
+Philippines,2018,Male,80-84,187,,
+Philippines,2019,Male,80-84,192,,
+Philippines,2020,Male,80-84,198,,
+Philippines,2021,Male,80-84,198,,
+United Kingdom,2018,Male,80-84,733,,
+United Kingdom,2019,Male,80-84,753,,
+United Kingdom,2020,Male,80-84,760,,
+United Kingdom,2021,Male,80-84,759,,
+South Africa,2018,Male,85-89,45,,
+South Africa,2019,Male,85-89,46,,
+South Africa,2020,Male,85-89,46,,
+South Africa,2021,Male,85-89,45,,
+Japan,2018,Male,85-89,1296,,
+Japan,2019,Male,85-89,1353,,
+Japan,2020,Male,85-89,1412,,
+Japan,2021,Male,85-89,1470,,
+Malaysia,2018,Male,85-89,34,,
+Malaysia,2019,Male,85-89,36,,
+Malaysia,2020,Male,85-89,39,,
+Malaysia,2021,Male,85-89,41,,
+Philippines,2018,Male,85-89,69,,
+Philippines,2019,Male,85-89,70,,
+Philippines,2020,Male,85-89,72,,
+Philippines,2021,Male,85-89,69,,
+United Kingdom,2018,Male,85-89,403,,
+United Kingdom,2019,Male,85-89,413,,
+United Kingdom,2020,Male,85-89,425,,
+United Kingdom,2021,Male,85-89,436,,
+South Africa,2018,Male,90-94,21,,
+South Africa,2019,Male,90-94,21,,
+South Africa,2020,Male,90-94,21,,
+South Africa,2021,Male,90-94,19,,
+Japan,2018,Male,90-94,531,,
+Japan,2019,Male,90-94,569,,
+Japan,2020,Male,90-94,596,,
+Japan,2021,Male,90-94,610,,
+Malaysia,2018,Male,90-94,12,,
+Malaysia,2019,Male,90-94,12,,
+Malaysia,2020,Male,90-94,12,,
+Malaysia,2021,Male,90-94,12,,
+Philippines,2018,Male,90-94,19,,
+Philippines,2019,Male,90-94,18,,
+Philippines,2020,Male,90-94,18,,
+Philippines,2021,Male,90-94,16,,
+United Kingdom,2018,Male,90-94,152,,
+United Kingdom,2019,Male,90-94,160,,
+United Kingdom,2020,Male,90-94,168,,
+United Kingdom,2021,Male,90-94,176,,
+South Africa,2018,Male,95-99,6,,
+South Africa,2019,Male,95-99,7,,
+South Africa,2020,Male,95-99,7,,
+South Africa,2021,Male,95-99,7,,
+Japan,2018,Male,95-99,109,,
+Japan,2019,Male,95-99,120,,
+Japan,2020,Male,95-99,134,,
+Japan,2021,Male,95-99,148,,
+Malaysia,2018,Male,95-99,3,,
+Malaysia,2019,Male,95-99,3,,
+Malaysia,2020,Male,95-99,3,,
+Malaysia,2021,Male,95-99,3,,
+Philippines,2018,Male,95-99,4,,
+Philippines,2019,Male,95-99,4,,
+Philippines,2020,Male,95-99,4,,
+Philippines,2021,Male,95-99,3,,
+United Kingdom,2018,Male,95-99,31,,
+United Kingdom,2019,Male,95-99,34,,
+United Kingdom,2020,Male,95-99,37,,
+United Kingdom,2021,Male,95-99,41,,
+South Africa,2018,Male,100+,2,,
+South Africa,2019,Male,100+,2,,
+South Africa,2020,Male,100+,2,,
+South Africa,2021,Male,100+,2,,
+Japan,2018,Male,100+,14,,
+Japan,2019,Male,100+,15,,
+Japan,2020,Male,100+,16,,
+Japan,2021,Male,100+,16,,
+Malaysia,2018,Male,100+,1,,
+Malaysia,2019,Male,100+,1,,
+Malaysia,2020,Male,100+,1,,
+Malaysia,2021,Male,100+,1,,
+Philippines,2018,Male,100+,1,,
+Philippines,2019,Male,100+,1,,
+Philippines,2020,Male,100+,1,,
+Philippines,2021,Male,100+,1,,
+United Kingdom,2018,Male,100+,3,,
+United Kingdom,2019,Male,100+,3,,
+United Kingdom,2020,Male,100+,4,,
+United Kingdom,2021,Male,100+,5,,
+South Africa,2022,Male,0-4,2961,,
+Japan,2022,Male,0-4,2141,,
+Malaysia,2022,Male,0-4,1320,,
+Philippines,2022,Male,0-4,6214,,
+United Kingdom,2022,Male,0-4,1824,,
+South Africa,2022,Male,5-9,2896,,
+Japan,2022,Male,5-9,2516,,
+Malaysia,2022,Male,5-9,1356,,
+Philippines,2022,Male,5-9,6010,,
+United Kingdom,2022,Male,5-9,2082,,
+South Africa,2022,Male,10-14,2846,,
+Japan,2022,Male,10-14,2713,,
+Malaysia,2022,Male,10-14,1294,,
+Philippines,2022,Male,10-14,5925,,
+United Kingdom,2022,Male,10-14,2143,,
+South Africa,2022,Male,15-19,2481,,
+Japan,2022,Male,15-19,2830,,
+Malaysia,2022,Male,15-19,1373,,
+Philippines,2022,Male,15-19,5626,,
+United Kingdom,2022,Male,15-19,1971,,
+South Africa,2022,Male,20-24,2303,,
+Japan,2022,Male,20-24,3070,,
+Malaysia,2022,Male,20-24,1453,,
+Philippines,2022,Male,20-24,5324,,
+United Kingdom,2022,Male,20-24,2030,,
+South Africa,2022,Male,25-29,2626,,
+Japan,2022,Male,25-29,3118,,
+Malaysia,2022,Male,25-29,1520,,
+Philippines,2022,Male,25-29,4940,,
+United Kingdom,2022,Male,25-29,2260,,
+South Africa,2022,Male,30-34,2853,,
+Japan,2022,Male,30-34,3229,,
+Malaysia,2022,Male,30-34,1565,,
+Philippines,2022,Male,30-34,4481,,
+United Kingdom,2022,Male,30-34,2313,,
+South Africa,2022,Male,35-39,2572,,
+Japan,2022,Male,35-39,3526,,
+Malaysia,2022,Male,35-39,1523,,
+Philippines,2022,Male,35-39,3941,,
+United Kingdom,2022,Male,35-39,2199,,
+South Africa,2022,Male,40-44,1949,,
+Japan,2022,Male,40-44,3942,,
+Malaysia,2022,Male,40-44,1293,,
+Philippines,2022,Male,40-44,3598,,
+United Kingdom,2022,Male,40-44,2124,,
+South Africa,2022,Male,45-49,1337,,
+Japan,2022,Male,45-49,4769,,
+Malaysia,2022,Male,45-49,1054,,
+Philippines,2022,Male,45-49,3132,,
+United Kingdom,2022,Male,45-49,2009,,
+South Africa,2022,Male,50-54,1407,,
+Japan,2022,Male,50-54,4608,,
+Malaysia,2022,Male,50-54,921,,
+Philippines,2022,Male,50-54,2742,,
+United Kingdom,2022,Male,50-54,2230,,
+South Africa,2022,Male,55-59,1104,,
+Japan,2022,Male,55-59,3960,,
+Malaysia,2022,Male,55-59,805,,
+Philippines,2022,Male,55-59,2239,,
+United Kingdom,2022,Male,55-59,2248,,
+South Africa,2022,Male,60-64,655,,
+Japan,2022,Male,60-64,3643,,
+Malaysia,2022,Male,60-64,665,,
+Philippines,2022,Male,60-64,1749,,
+United Kingdom,2022,Male,60-64,1996,,
+South Africa,2022,Male,65-69,458,,
+Japan,2022,Male,65-69,3636,,
+Malaysia,2022,Male,65-69,500,,
+Philippines,2022,Male,65-69,1278,,
+United Kingdom,2022,Male,65-69,1673,,
+South Africa,2022,Male,70-74,348,,
+Japan,2022,Male,70-74,4480,,
+Malaysia,2022,Male,70-74,336,,
+Philippines,2022,Male,70-74,798,,
+United Kingdom,2022,Male,70-74,1551,,
+South Africa,2022,Male,75-79,206,,
+Japan,2022,Male,75-79,3244,,
+Malaysia,2022,Male,75-79,205,,
+Philippines,2022,Male,75-79,412,,
+United Kingdom,2022,Male,75-79,1267,,
+South Africa,2022,Male,80-84,108,,
+Japan,2022,Male,80-84,2507,,
+Malaysia,2022,Male,80-84,108,,
+Philippines,2022,Male,80-84,199,,
+United Kingdom,2022,Male,80-84,769,,
+South Africa,2022,Male,85-89,44,,
+Japan,2022,Male,85-89,1519,,
+Malaysia,2022,Male,85-89,43,,
+Philippines,2022,Male,85-89,66,,
+United Kingdom,2022,Male,85-89,450,,
+South Africa,2022,Male,90-94,17,,
+Japan,2022,Male,90-94,623,,
+Malaysia,2022,Male,90-94,13,,
+Philippines,2022,Male,90-94,15,,
+United Kingdom,2022,Male,90-94,182,,
+South Africa,2022,Male,95-99,6,,
+Japan,2022,Male,95-99,159,,
+Malaysia,2022,Male,95-99,3,,
+Philippines,2022,Male,95-99,3,,
+United Kingdom,2022,Male,95-99,43,,
+South Africa,2022,Male,100+,2,,
+Japan,2022,Male,100+,17,,
+Malaysia,2022,Male,100+,1,,
+Philippines,2022,Male,100+,1,,
+United Kingdom,2022,Male,100+,5,,

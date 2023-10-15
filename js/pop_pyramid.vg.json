@@ -11,21 +11,29 @@
         "input": "select",
         "options": [
           "World",
+          "Australia",
           "China",
           "India",
-          "United States of America",
           "Indonesia",
-          "Pakistan",
-          "Australia"
+          "Japan",
+          "Malaysia",
+          "Philippines",
+          "South Africa",
+          "United Kingdom",
+          "United States"
         ],
         "labels": [
           "World",
+          "Australia",
           "China",
           "India",
-          "United States of America",
           "Indonesia",
-          "Pakistan",
-          "Australia"
+          "Japan",
+          "Malaysia",
+          "Philippines",
+          "South Africa",
+          "United Kingdom",
+          "United States"
         ],
         "name": "Country: "
       }

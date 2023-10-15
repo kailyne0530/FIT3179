@@ -75,7 +75,7 @@
   "hconcat": [
     {
       "width": 150,
-      "height": 350,
+      "height": 330,
       "transform": [
         {
           "filter": {
@@ -84,7 +84,7 @@
           }
         }
       ],
-      "title": "Female",
+      "title": null,
       "mark": {
         "type": "bar",
         "fill": "#F8C8DC",
@@ -182,7 +182,7 @@
     },
     {
       "width": 60,
-      "height": 350,
+      "height": 330,
       "view": {
         "stroke": null
       },
@@ -227,7 +227,7 @@
     },
     {
       "width": 150,
-      "height": 350,
+      "height": 330,
       "transform": [
         {
           "filter": {
@@ -236,7 +236,7 @@
           }
         }
       ],
-      "title": "Male",
+      "title": null,
       "mark": {
         "type": "bar",
         "fill": "#87CEEB",

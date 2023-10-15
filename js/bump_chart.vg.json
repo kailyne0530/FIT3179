@@ -40,7 +40,7 @@
       "field": "Factors",
       "type": "ordinal",
       "sort": "ascending",
-      "title": "Drivers",
+      "title": null,
       "axis": {
         "grid": true,
         "domain": false,

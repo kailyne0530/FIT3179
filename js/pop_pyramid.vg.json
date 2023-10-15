@@ -5,6 +5,17 @@
   },
   "params": [
     {
+      "name": "Year_selection",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 2018,
+        "max": 2022,
+        "step": 1,
+        "name": "Year"
+      }
+    },
+    {
       "name": "Country_selection",
       "value": "World",
       "bind": {
@@ -39,17 +50,6 @@
       }
     },
     {
-      "name": "Year_selection",
-      "value": 2022,
-      "bind": {
-        "input": "range",
-        "min": 2018,
-        "max": 2022,
-        "step": 1,
-        "name": "Year"
-      }
-    },
-    {
       "name": "highlight",
       "select": {
         "type": "point",
@@ -75,7 +75,7 @@
   "hconcat": [
     {
       "width": 150,
-      "height": 300,
+      "height": 350,
       "transform": [
         {
           "filter": {
@@ -182,7 +182,7 @@
     },
     {
       "width": 60,
-      "height": 300,
+      "height": 350,
       "view": {
         "stroke": null
       },
@@ -227,7 +227,7 @@
     },
     {
       "width": 150,
-      "height": 300,
+      "height": 350,
       "transform": [
         {
           "filter": {

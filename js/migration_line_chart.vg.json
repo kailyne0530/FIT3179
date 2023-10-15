@@ -4,7 +4,7 @@
     {
       "layer": [
         {
-          "width": 154,
+          "width": 156,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='Oceania'"}],
           "layer":[
@@ -56,7 +56,7 @@
     {
       "layer": [
         {
-          "width": 154,
+          "width": 156,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='South America'"}],
           "layer":[
@@ -108,7 +108,7 @@
     {
       "layer": [
         {
-          "width": 154,
+          "width": 156,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='Africa'"}],
           "layer":[
@@ -160,7 +160,7 @@
     {
       "layer": [
         {
-          "width": 154,
+          "width": 156,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='North America'"}],
           "layer":[
@@ -212,7 +212,7 @@
     {
       "layer": [
         {
-          "width": 154,
+          "width": 156,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='Asia'"}],
           "layer":[
@@ -264,7 +264,7 @@
     {
       "layer": [
         {
-          "width": 154,
+          "width": 156,
           "data": {"url": "https://raw.githubusercontent.com/kailyne0530/FIT3179-2023-S2/main/data/region-migration.csv"},
           "transform": [{"filter": "datum.Continents==='Europe'"}],
           "layer":[

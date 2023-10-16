@@ -120,7 +120,7 @@
           }
         }
       ],
-      "mark": {"type": "text", "fill":"black", "size": 9},
+      "mark": {"type": "text", "fill":"black", "size": 9, "fontWeight":"bold"},
       "encoding": {
         "longitude": {"field": "longitude", "type": "quantitative"},
         "latitude": {"field": "latitude", "type": "quantitative"},

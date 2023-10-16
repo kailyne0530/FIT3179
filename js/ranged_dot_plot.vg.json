@@ -30,7 +30,8 @@
         "offset": 5,
         "ticks": false,
         "minExtent": 70,
-        "domain": false
+        "domain": false,
+        "labelFontWeight": "bold"
       }
     }
   },

@@ -46,7 +46,8 @@
         "domain": false,
         "ticks": true,
         "offset": 20,
-        "labelAngle": 0
+        "labelAngle": 0,
+        "labelFontWeight": "bold"
       }
     },
     "y": {

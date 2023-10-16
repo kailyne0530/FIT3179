@@ -30,25 +30,24 @@
     
     <div class="page">
 
-        <div class="pure-g">
+        <div class="pure-g vis-header" >
             <div class="pure-u-1-1">
-              <h1>DRIVERS OF POPULATION GROWTH</h1>
+              <h1 class="vis-header-text">DRIVERS OF POPULATION GROWTH</h1>
             </div>
         </div>
 
         <div class="pure-g">
             <div class="pure-u-1-2">
               <div class="description description-left">
-                <h2>Population Estimation</h2>
+                <h2 class="title">Global Population Forecast</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
-                    eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient 
-                    montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, 
-                    pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla 
-                    vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-                    venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer 
-                    tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend 
-                    tellus.
+                    In recent centuries, a remarkable population transformation has taken place. 
+                    <b>TODAY, our population exceeds three times 
+                    larger than they were in the mid-twentieth century, with nearly 8 billions of us</b>. 
+                    The latest projection by the United Nations suggests that the global population 
+                    will continue to grow, expected to reach approximately 10.3 billions by 2100 and 
+                    possibly peaking at over 10.4 billions in the mid-2080s — an unprecedented 
+                    demographic shift before the end of century.
                 </p>
               </div>
             </div>
@@ -57,108 +56,134 @@
             </div>
         </div>
 
-        <h2>World Population by Area Size</h2>
+        <h2 class="title">Population Density</h2>
+        <h3 style="font-style: italic; color: #36454F;">Which countries are most densely populated?</h3>
         <div id="map" class="vis-container"></div>
 
-        <h1>   </h1>
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <p class="description description-left">
+                    Numerous small islands around the world has significant population numbers relative to 
+                    their land size. Over the past half-decade, the three countries exhibiting the 
+                    highest population density have been <b>Macau</b>, <b>Monaco</b>, and <b>Singapore</b>. For instance, 
+                    Macau supports a staggering 23,000 people per square mile, making it 
+                    more than 600 times denser than the <b>United States</b> and nearly 8,000 times denser 
+                    than <b>Australia</b>.
+                </p>
+
+            </div>
+            <div class="pure-u-1-2">
+                <p class="description description-left">
+                    Among the larger countries, <b>Bangladesh</b> takes the lead in terms of population 
+                    density, accommodating over 1,000 people per square mile. This figure is nearly 
+                    three times greater than that of its neighbor, <b>India</b>. On the other hand, 
+                    <b>Australia</b>, with an approximate population density of 3.4 people per square mile, 
+                    stands as one of the least densely populated nations globally, alongside 
+                    <b>Greenland</b>, <b>Mongolia</b>, and <b>Namibia</b>.
+                </p>
+            </div>
+        </div>
+
+        <hr>
+        
+        <h1 class="title">Drivers of Population Growth</h1>
+        <h3 style="font-style: italic; color: #36454F;">What have been the forces behind the dramatic increase in population?</h3>
+
+        <h2 class="drivers">Birth Rate vs Death Rate</h2>
+
+        <div class="pure-g">
+            <div class="pure-u-1-1 chart-container">
+                <div id="scattered_plot" class="vis-container"></div>
+            </div>
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1-3">
+                <p class="description description-left">
+                    Over the past five years, an intriguing pattern emerges when 
+                    birth and death rates are examined across continents. <b style="color: #478778;">Asia</b> consistently maintains 
+                    relatively lower birth and death rates compared to other continents. In stark 
+                    contrast, <b style="color: #6F8FAF;">Africa</b> stands out with significantly higher birth and death rates. 
+                    <b style="color: #FA8072;">Europe</b>, on the other hand, registers relatively elevated death rates compared 
+                    to its global counterparts. <b style="color: #BF40BF;">Oceania</b>, <b style="color: #FFC000;">South America</b> and <b style="color: #E37383;">North America</b> tend to exhibit moderate 
+                    birth and death rates.
+                </p>
+            </div>
+            <div class="pure-u-1-3">
+                <p class="description description-left">
+                    While some countries have witnessed a noteworthy increase in birth rates in the last five years, these 
+                    increments pale in comparison to the substantial declines observed in other 
+                    nations. For instance, <b>Hong Kong</b> has experienced a notable 37% decrease in its 
+                    birth rate, while <b>China</b> follows closely with a 31% decline. These significant 
+                    reductions in birth rates have transformative implications for demographic 
+                    structures and social dynamics.
+                </p>
+            </div>
+            <div class="pure-u-1-3">
+                <p class="description description-left">
+                    Globally, the minimum decrease in death rates hovers just below 8%. However, 
+                    certain countries have encountered a stark and unsettling increase in death rates. 
+                    <b>Ukraine</b>, for instance, has seen a dramatic 63% spike in its death rate, while 
+                    <b>Lebanon</b> faces an alarming 88% surge. These sudden increases in death rates are 
+                    likely attributed to the complex interplay of factors, including political 
+                    instability and conflicts, casting a somber shadow on the population's well-being.
+                </p>
+            </div>
+        </div>
+
+        <h2  class="drivers">Migration</h2>
+        <p style="font-style: italic; color: #36454F;"> "The number of <b style="font-size: 20px;">international migrants has increased</b> in all continents, but has increased 
+            to a great degree in <b style="font-size: 20px;">Europe</b> and <b style="font-size: 20px;">Asia</b>."</p>
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div id="migration_line_chart" class="vis-container"></div>
+            </div>
+        </div>
 
         <div class="pure-g">
             <div class="pure-u-1-2">
                 <p class="description description-left">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
-                    eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient 
-                    montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, 
-                    pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla 
-                    vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-                    venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer 
-                    tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend 
-                    tellus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
-                    eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient 
-                    montes, nascetur ridiculus mus. 
+                    While international migration is a relatively small contributor to overall 
+                    population change when compared to births or deaths, its significance cannot be 
+                    overlooked. In certain countries and regions, migration plays a vital role in 
+                    shaping population size. Between 1990 and 2020, 
+                    <b style="color: #FA8072;">Europe</b> and <b style="color: #478778;">Asia</b> stood out as major hosts for international migrants, with each 
+                    continent hosting approximately 87 and 86 million migrants, respectively. These 
+                    numbers accounted for a significant 61% of the global international migrant 
+                    population.
                 </p>
-
+            </div>
+            <div class="pure-u-1-2">
                 <p class="description description-left">
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
-                    eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient 
-                    montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, 
-                    pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla 
-                    vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-                    venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer 
-                    tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend 
-                    tellus.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
-                    eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient 
-                    montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, 
-                    pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla 
-                    vel, aliquet nec, vulputate eget, arcu. Cum sociis natoque penatibus et magnis dis parturient 
-                    montes, nascetur ridiculus mus. 
-                </p>
-            </div>
-            <div class="pure-u-1-2">
-                <h2>Population by Age Group</h2>
-                <div id="pop_pyramid" class="vis-container"></div>
-            </div>
-        </div>
-
-        <h1>Factors of Population Growth</h1>
-
-        <h2>Birth Rate vs Death Rate</h2>
-
-        <div class="pure-g">
-            <div class="pure-u-1-1">
-                <div id="scattered_plot"></div>
-            </div>
-        </div>
-
-        <div class="pure-g">
-            <div class="pure-u-1-2">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
-                    eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient 
-                    montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, 
-                    pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla 
-                    vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-                    venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer 
-                    tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend 
-                    tellus.
-                </p>
-            </div>
-            <div class="pure-u-1-2">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
-                    eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient 
-                    montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, 
-                    pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla 
-                    vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-                    venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer 
-                    tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend 
-                    tellus. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend 
-                    tellus. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend 
-                    tellus. 
+                    Notably, <b style="color: #478778;">Asia</b> witnessed a remarkable surge in international migration from 2000 
+                    to 2020, experiencing a staggering 74% growth. <b style="color: #FA8072;">Europe</b>, following closely behind, 
+                    recorded the second-largest increase during this period, with an additional 30 
+                    million international migrants. <b style="color: #E37383;">North America</b> and <b  style="color: #6F8FAF;">Africa</b> also saw considerable 
+                    growth, with an increase of 18 million and 10 million international migrants, 
+                    respectively. There can be significant variations in migrant populations 
+                    within <b style="color: #BF40BF;">Oceania</b> and <b style="color: #FFC000;">South America</b> due to specific economic, political or historical
+                    factors.
                 </p>
             </div>
         </div>
 
-        <h2>Migration</h2>
-        
-        <div class="pure-g">
-            <div class="pure-u-1-1">
-                <div id="migration_line_chart"></div>
-            </div>
-        </div>
-
-        <h2>Life Expectancy</h2>
+        <h2  class="drivers">Increase in Longevity</h2>
         
         <div class="pure-g">
             <div class="pure-u-1-2">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
-                    eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient 
-                    montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, 
-                    pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla 
-                    vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-                    venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer 
-                    tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend 
-                    tellus.
+                <p class="description description-left">
+                    Life expectancy has increased considerably in recent decades and this trend is 
+                    set to continue. 
+                    In 1950, life expectancy varied widely among nations, with countries like the 
+                    <b>United States</b> and <b>Australia</b> leading, while nations such as <b>China</b> and <b>India</b> lagged with 
+                    shorter average lifespans. However, by 2022, remarkable improvements were 
+                    evident across the board, attributed to medical breakthroughs, economic growth, 
+                    and global health initiatives. <b>Japan</b>, with its advanced healthcare, stood out 
+                    with life expectancy in the late 80s. Overall, the upward trend in life expectancy 
+                    from 1950 to 2022 has played a significant role in shaping global population growth 
+                    patterns, emphasising the complex interplay between health, longevity, and 
+                    demographics.
                 </p>
             </div>
             <div class="pure-u-1-2">
@@ -166,7 +191,28 @@
             </div>
         </div>
 
-        <p>Visualisation created by Kai Lyne Loi</p>
+        <hr>
+
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <h2 class="title" style="width: 527px;">Ranking by Country</h2>
+                <div id="top10_countries" class="vis-container"></div>
+            </div>
+            <div class="pure-u-1-2">
+                <h2 class="title" style="width: 527px;">Population by Age Group</h2>
+                <img src="data/female-icon.png" style="width:30px;height:30px;padding-left: 170px;"></img>
+                <img src="data/male-icon.png" style="width:30px;height:30px;padding-left: 180px;"></img>
+                <div id="pop_pyramid" class="vis-container"></div>
+            </div>
+        </div>
+
+        
+        <div class="pure-g vis-footer" >
+            <div class="pure-u-1-1">
+                <p class="vis-footer-text">Visualisation created by Kai Lyne Loi</p>
+                <p class="vis-footer-text">Data source from Kaggle and United Nations</p>
+            </div>
+        </div>
 
     </div>
 
@@ -188,6 +234,9 @@
         }).catch(console.error);
         var vg_6 = "js/ranged_dot_plot.vg.json";
         vegaEmbed("#life_expectancy", vg_6, {actions: false}).then(function(result) {
+        }).catch(console.error);
+        var vg_7 = "js/bump_chart.vg.json";
+        vegaEmbed("#top10_countries", vg_7, {actions: false}).then(function(result) {
         }).catch(console.error);
     </script>
 </body>

@@ -24,7 +24,37 @@
           "type": "quantitative",
           "axis": {"labelExpr": "datum.value / 10000000", "title": "Population (billions)"}
         },
-        "strokeDash": {"field": "Predicted", "type": "nominal", "legend": null},
+        "strokeDash": {"field": "Predicted", "type": "nominal", "legend": null}
+      }
+    },
+    {
+      "params": [
+        {
+          "name": "hover",
+          "select": {"type": "point", "on": "mouseover", "clear": "mouseout"}
+        }
+      ],
+      "mark": {"type": "circle", "cursor": "pointer", "color": "#36454F"},
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "PopTotal",
+          "type": "quantitative"
+        },
+        "opacity": {
+          "condition": {"test": {"param": "hover", "empty": false}, "value": 1},
+          "value": 0
+        },
+        "size": {
+          "condition": {
+            "test": {"param": "hover", "empty": false},
+            "value": 48
+          },
+          "value": 100
+        },
         "tooltip": [
           {"field": "Year", "type": "nominal"},
           {
@@ -156,6 +186,9 @@
   ],
   "config": {
     "background": "transparent",
-    "font": "Open Sans"
+    "font": "Open Sans",
+    "view": {
+      "stroke": null
+    }
   }
 }

@@ -60,6 +60,10 @@
   },
   "layer": [
     {
+      "params": [{
+          "name": "hover",
+          "select": {"type": "point", "fields":["Country"], "on": "mouseover", "clear": "mouseout"}
+        }],
       "transform": [
         {
           "filter": "datum.Year == Year_selection"
@@ -73,9 +77,20 @@
           "fill": "white",
           "size": 80,
           "strokeWidth": 4
-        }
+        },
+        "cursor": "pointer"
       },
-      "encoding": {"color": {"field": "Country"}, "opacity": {"value": 0.8}}
+      "encoding": {
+        "color": {"field": "Country", "scale": {"scheme": "category10"}},
+        "opacity": {
+          "condition": {
+            "param": "hover", 
+            "empty": true, 
+            "value": 0.8
+          },
+          "value": 0.1
+        }
+      }
     },
     {
       "transform": [

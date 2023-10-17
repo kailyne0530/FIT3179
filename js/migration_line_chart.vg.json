@@ -29,21 +29,21 @@
               }
             },
             {
-              "mark": {"type": "area", "line": true, "point": true, "color": "#C3B1E1"},
+              "mark": {"type": "area", "color": "#C3B1E1"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "line", "line": true, "point": true, "color": "#BF40BF"},
+              "mark": {"type": "line", "color": "#BF40BF"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#BF40BF", "cursor":"pointer"},
+              "mark": {"type": "point", "color": "#BF40BF", "cursor":"pointer", "filled": true, "opacity": 1},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -81,21 +81,21 @@
               }
             },
             {
-              "mark": {"type": "area", "line": true, "point": true, "color": "#FFEA00"},
+              "mark": {"type": "area", "color": "#FFEA00"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "line", "line": true, "point": true, "color": "#FFC000"},
+              "mark": {"type": "line", "color": "#FFC000"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#FFC000", "cursor":"pointer"},
+              "mark": {"type": "point", "color": "#FFC000", "cursor":"pointer", "filled": true, "opacity": 1},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -133,21 +133,21 @@
               }
             },
             {
-              "mark": {"type": "area", "line": true, "point": true, "color": "#A7C7E7"},
+              "mark": {"type": "area", "color": "#A7C7E7"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "line", "line": true, "point": true, "color": "#6F8FAF"},
+              "mark": {"type": "line", "color": "#6F8FAF"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#6F8FAF", "cursor":"pointer"},
+              "mark": {"type": "point", "color": "#6F8FAF", "cursor":"pointer", "filled": true, "opacity": 1},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -185,21 +185,21 @@
               }
             },
             {
-              "mark": {"type": "area", "line": true, "point": true, "color":"#F8C8DC"},
+              "mark": {"type": "area", "color":"#F8C8DC"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "line", "line": true, "point": true, "color":"#E37383"},
+              "mark": {"type": "line", "color":"#E37383"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#E37383", "cursor":"pointer"},
+              "mark": {"type": "point", "color": "#E37383", "cursor":"pointer", "filled": true, "opacity": 1},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -237,21 +237,21 @@
               }
             },
             {
-              "mark": {"type": "area", "line": true, "point": true, "color": "#C1E1C1"},
+              "mark": {"type": "area", "color": "#C1E1C1"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "line", "line": true, "point": true, "color":"#478778"},
+              "mark": {"type": "line", "color":"#478778"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#478778", "cursor":"pointer"},
+              "mark": {"type": "point", "color": "#478778", "cursor":"pointer", "filled": true, "opacity": 1},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": null}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -289,21 +289,21 @@
               }
             },
             {
-              "mark": {"type": "area", "line": true, "point": true, "color": "#FAC898"},
+              "mark": {"type": "area", "color": "#FAC898"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal", "title": null},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": {"labelExpr": "datum.value / 1000000", "title": "Migrant Stock (millions)", "orient": "right", "grid": false}}
               }
             },
             {
-              "mark": {"type": "line", "line": true, "point": true, "color": "#FA8072"},
+              "mark": {"type": "line", "color": "#FA8072"},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": {"orient": "right", "grid": false}}
               }
             },
             {
-              "mark": {"type": "point", "line": true, "point": true, "color": "#FA8072", "cursor":"pointer"},
+              "mark": {"type": "point", "color": "#FA8072", "cursor":"pointer", "filled": true, "opacity": 1},
               "encoding": {
                 "x": {"field": "Year", "type": "ordinal"},
                 "y": {"field": "Migrant Stock", "type": "quantitative", "scale": {"domain": [0, 100000000]}, "axis": {"orient": "right", "grid": false}}, "tooltip": [{"field": "Year", "type":"ordinal"},{"field": "Migrant Stock", "type": "quantitative", "format": ","}]
@@ -312,6 +312,6 @@
           ]
         }
       ]
-    }                
+    }
   ]
 }

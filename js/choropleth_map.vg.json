@@ -85,7 +85,7 @@
               2500,
               5000
             ],
-            "scheme": "reds"
+            "scheme": "oranges"
           },
           "legend": {"orient": "right"},
           "title": "Density"
@@ -134,5 +134,8 @@
         }
       }
     }
-  ]
+  ],
+  "config": {"view": {
+    "stroke": null
+  }}
 }
